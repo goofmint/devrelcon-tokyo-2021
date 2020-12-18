@@ -55,4 +55,4 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include: ['vendor']
+include: ['vendor', 'pre']
