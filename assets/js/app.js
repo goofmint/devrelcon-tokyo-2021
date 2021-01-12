@@ -69,10 +69,10 @@ function changeLang(lang) {
 }
 function changeTitle(lang) {
   if (lang === 'ja') {
-    var title = 'DevRelCon Tokyo 2020 – DevRel、開発者マーケティング、DX、APIに関するマーケティング';
+    var title = 'DevRelCon Tokyo 2021 – DevRel、開発者マーケティング、DX、APIに関するマーケティング';
     var description = 'DevRelCon Tokyoはテクニカルエバンジェリスト、デベロッパーアドボケイトそしてDevRelとDXに関係する全ての方向けのワンデーカンファレンスです';
   } else {
-    var title = 'DevRelCon Tokyo 2020 – conference for developer relations, developer marketing, developer experience, APIs';
+    var title = 'DevRelCon Tokyo 2021 – conference for developer relations, developer marketing, developer experience, APIs';
     var description = 'DevRelCon Tokyo is a one day conference for technical evangelists, developer advocates and anyone interested in developer relations and developer experience';
   }
   if (document.location.pathname === '/') {
