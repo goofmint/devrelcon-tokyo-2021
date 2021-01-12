@@ -1,0 +1,65 @@
+<div id="speakers"></div>
+<div class="title-block  grey-bg">
+  <h1 class="lang en bold red">Speakers</h1>
+  <h1 class="lang ja bold red">スピーカー</h1>
+  
+  <p class="lang en">You can become a part of DevRelCon Tokyo 2021! Send your awesome proposal!</p>
+  <p class="lang ja">あなたの素晴らしいプロポーザルをお待ちします！</p>
+  <p>
+    <a href="https://www.papercall.io/devrelcon-tokyo-2021" class="lang en btn btn-danger btn-lg">Send Proposal (Deadline is March 15th UTC)</a>
+    <a href="https://www.papercall.io/devrelcon-tokyo-2021" class="lang ja btn btn-danger btn-lg">プロポーザルを提出する（3月15日締め切り）</a>
+  </p>
+  <!--
+  <p class="lang en">The amazing speakers at DevRelCon Tokyo 2021!</p>
+  <p class="lang ja">DevRelCon Tokyo 2021の素晴らしいスピーカーです！</p>
+  -->
+</div>
+
+<div class="speaker-wrapper  grey-bg">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      {% for speaker in site.data.speakers %}
+        {% if speaker.speaker == 'true' %}
+          <div class="col-md-6 col-lg-4 col-xl-3">
+            <div class="speaker-card">
+              <a href="/speakers/{{ speaker.id }}/">
+                <picture>
+                  <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{speaker.id}}.webp" />
+                  <img loading="lazy" src="/assets/img/speakers/{{speaker.id}}.jpg" alt="{{ speaker.name_en }}">
+                </picture>
+              </a>
+              <div class="speaker-details">
+                <h3 class="lang en light red mb-2">{{speaker.name_en }}</h3>
+                <h3 class="lang ja light red mb-2">{{speaker.name_ja }}</h3>
+                <ul class="socials">
+                  {% if speaker.twitter != '' %}
+                    <li><a title="Twitter account of {{ speaker.name_en }}" href="{{ speaker.twitter }}"><i class="fab fa-twitter-square"></i></a></li>
+                  {% endif %}
+                  {% if speaker.facebook != '' %}
+                    <li><a title="Facebook account of {{ speaker.name_en }}" href="{{ speaker.facebook }}"><i class="fab fa-facebook-square"></i></a></li>
+                  {% endif %}
+                  {% if speaker.github != '' %}
+                    <li><a title="GitHub account of {{ speaker.name_en }}" href="{{ speaker.github }}"><i class="fab fa-github-square"></i></a></li>
+                  {% endif %}
+                  {% if speaker.linkedin != '' %}
+                    <li><a title="LinkedIn account of {{ speaker.name_en }}" href="{{ speaker.linkedin }}"><i class="fab fa-linkedin"></i></a></li>
+                  {% endif %}
+                  {% if speaker.youtube != '' %}
+                    <li><a title="YouTube account of {{ speaker.name_en }}" href="{{ speaker.youtube }}"><i class="fab fa-youtube-square"></i></a></li>
+                  {% endif %}
+                  {% if speaker.web != '' %}
+                    <li><a title="Website of {{ speaker.name_en }}" href="{{ speaker.web }}"><i class="fas fa-globe"></i></a></li>
+                  {% endif %}
+                </ul>
+                <p class="lang en photo-credit">{{speaker.speaker_title_en }}&nbsp;</p>
+                <p class="lang ja photo-credit">{{speaker.speaker_title_ja }}&nbsp;</p>
+                <p class="lang en bold photo-credit">{{speaker.company_en }}</p>
+                <p class="lang ja bold photo-credit">{{speaker.company_ja }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

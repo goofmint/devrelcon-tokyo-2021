@@ -1,0 +1,70 @@
+{% assign ogs = site.data.organizers | where: "id", page.id %}
+{% assign organizer = ogs[0] %}
+<div class="intro">
+  <div class="container">
+    <div class="row d-flex align-items-center" style="padding-bottom:100px;padding-top:80px;">
+      <div class="col-lg-4">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="organizer-image">
+              <img src="/assets/img/organizers/{{ organizer.id }}.jpg">
+            </div>
+            <div class="col-md-12">
+              <ul class="socials display-4">
+                {% if organizer.twitter != '' %}
+                  <li><a title="Twitter account of {{ organizer.name_en }}" href="{{ organizer.twitter }}"><i class="fab fa-twitter-square"></i></a></li>
+                {% endif %}
+                {% if organizer.facebook != '' %}
+                  <li><a title="Facebook account of {{ organizer.name_en }}" href="{{ organizer.twitter }}"><i class="fab fa-facebook-square"></i></a></li>
+                {% endif %}
+                {% if organizer.github != '' %}
+                  <li><a title="GitHub account of {{ organizer.name_en }}" href="{{ organizer.github }}"><i class="fab fa-github-square"></i></a></li>
+                {% endif %}
+                {% if organizer.linkedin != '' %}
+                  <li><a title="LinkedIn account of {{ organizer.name_en }}" href="{{ organizer.linkedin }}"><i class="fab fa-linkedin"></i></a></li>
+                {% endif %}
+                {% if organizer.url != '' %}
+                  <li><a title="Website of {{ organizer.name_en }}" href="{{ organizer.url }}"><i class="fas fa-globe"></i></a></li>
+                {% endif %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-8">
+        <h1 class="lang en">{{ organizer.name_en }}</h1>
+        <h1 class="lang ja">{{ organizer.name_ja }}</h1>
+        <div class="row">
+          <div class="col-12">
+            <p class="photo-credit lang en">
+              {{ organizer.title_en }}
+            </p>
+            <p class="photo-credit lang ja">
+              {{ organizer.title_ja }}
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p class="bold photo-credit lang en">
+              {{ organizer.company_en }}
+            </p>
+            <p class="bold photo-credit lang ja">
+              {{ organizer.company_ja }}
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p class="mt-5 lang en">
+              {{ organizer.profile_en }}
+            </p>
+            <p class="mt-5 lang ja">
+              {{ organizer.profile_ja }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,30 @@
+<div class="intro">
+  <div class="container blog">
+    <div class="row d-flex justify-content-md-center" style="padding-bottom:100px;padding-top:80px;">
+      <div class="col-8 title">
+        <h2>{{ page.title }}</h2>
+      </div>
+      <div class="col-8">
+        <i class="far fa-clock"></i> {{ page.date | date_to_string }}
+        <i class="fas fa-folder"></i> {{ page.category }}
+      </div>
+      <div class="col-8">
+        <picture>
+          <source loading="lazy" type="image/webp" srcset="/assets/img/blog/{{ page.catch }}.webp" />
+          <img loading="lazy" src="/assets/img/blog/{{ page.catch }}.jpg" alt="{{ page.title }}"/>
+        </picture>
+      </div>
+      <div class="col-8 body">
+        {{ page }}
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+  .body p {
+    line-height: 2.0em;
+  }
+  .blog .title {
+    padding-bttom: 80px;
+  }
+</style>

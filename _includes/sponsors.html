@@ -1,0 +1,52 @@
+<div id="sponsors"></div>
+<div class="sponsor-wrapper">
+  
+  <div class="title-block">
+    <h1 class="lang en bold red">Sponsors</h1>
+    <h1 class="lang ja bold red">スポンサー</h1>
+    <p class="lang en">Do you want your brand to be a part of DevRelCon Tokyo 2021?</p>
+    <p class="lang ja">DevRelCon Tokyo 2021のスポンサーに興味がありますか？</p>
+    <a href="mailto:devrelcon@moongift.jp?title=Abount sponsorship DevRelCon Tokyo 2021">
+      <div class="DevRelCon-button">
+        <span class="lang en">Contact us</span>
+        <span class="lang ja">問い合わせる</span>
+      </div>
+    </a>
+  </div>
+
+  <div class="container" style="position:relative;">
+    <div class="row">
+      <!--
+      <div class="col-md-12 sponsor presenting">
+        <div><a href="#"><img src="" alt="sponsor name"></a></div>
+        <div class="tag">Presenting partner</div>
+      </div>
+      -->
+    </div>
+    <div class="row">
+      {% assign sponsors = site.data.sponsors | where: "show", "true" %}
+      {% for sponsor in sponsors %}
+        <div class="col-md-{{ sponsor.size }} sponsor">
+          <div class="lang en">
+            <a href="{{ sponsor.url_en }}">
+              <picture>
+                <source loading="lazy" type="image/webp" srcset="/assets/img/sponsors/{{ sponsor.id }}.webp" />
+                <img loading="lazy" src="/assets/img/sponsors/{{ sponsor.id }}.png" alt="{{ sponsor.name_en }}">
+              </picture>
+            </a>
+          </div>
+          <div class="lang ja">
+            <a href="{{ sponsor.url_ja }}">
+              <picture>
+                <source loading="lazy" type="image/webp" srcset="/assets/img/sponsors/{{ sponsor.id }}.webp" />
+                <img loading="lazy" src="/assets/img/sponsors/{{ sponsor.id }}.png" alt="{{ sponsor.name_ja }}">
+              </picture>
+            </a>
+          </div>
+          <div class="tag">{{ sponsor.type }} Sponsor</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,48 @@
+<div id="news"></div>
+{% if site.posts.size > 0 %}
+<div class="title-block">
+  <h1 class="lang en bold red">News</h1>
+  <h1 class="lang ja bold red">お知らせ</h1>
+</div>
+{% endif %}
+
+<div class="speaker-wrapper">
+  <div class="container">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12">
+        {% for post in site.posts %}
+          <div class="row lang {{ post.language }}" style="padding-bottom: 1em;">
+            <div class="col-4">
+              <a href="{{ post.url }}" title="{{ post.title }}">
+                <picture>
+                  <source loading="lazy" type="image/webp" srcset="/assets/img/blog/{{ post.catch }}.webp" />
+                  <img loading="lazy" src="/assets/img/blog/{{ post.catch }}.jpg" alt="{{ post.title }}"/>
+                </picture>
+              </a>
+            </div>
+            <div class="col-8">
+              <div class="row">
+                <div class="col-12">
+                  <i class="far fa-clock"></i> {{ post.date | date_to_string }}
+                  <i class="fas fa-folder"></i> {{ post.category }}
+                </div>
+                <div class="col-12">
+                  <h4>
+                    <a href="{{ post.url }}" title="{{ post.title }}">
+                      {{ post.title }}
+                    </a>
+                  </h4>
+                </div>
+                <div class="col-12">
+                  {{ post.excerpt }}
+                  <a class="lang ja" href="{{ post.url }}" title="{{ post.title }}">もっと読む &rarr;</a>
+                  <a class="lang en" href="{{ post.url }}" title="{{ post.title }}">Read more &rarr;</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

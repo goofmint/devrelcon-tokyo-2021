@@ -1,0 +1,118 @@
+<div id="organizers"></div>
+<div class="title-block  grey-bg">
+  <h1 class="lang en bold red">Organizers</h1>
+  <h1 class="lang ja bold red">主催者</h1>
+  <p class="lang en">We are organisers of DevRelCon Tokyo 2021.</p>
+  <p class="lang ja">私たちがDevRelCon Tokyo 2021の主催者です。</p>
+</div>
+
+<div class="speaker-wrapper  grey-bg">
+  <div class="container">
+    {% assign organizers = site.data.organizers | where: "type", "group" %}
+    <div class="row d-flex">
+      {% for organizer in organizers %}
+        <div class="col-md-4 col-lg-4 col-xl-4">
+          <div class="speaker-card">
+            <a href="{{ organizer.url }}/">
+              <picture>
+                <source type="image/webp" srcset="/assets/img/organizers/{{ organizer.id }}.webp" />
+                <img src="/assets/img/organizers/{{ organizer.id }}.png" alt="{{ organizer.name_en }}">
+              </picture>
+            </a>
+            <div class="speaker-details">
+              <ul class="socials">
+                {% if organizer.twitter != '' %}
+                  <li><a title="Twitter account of {{ organizer.name_en }}" href="{{ organizer.twitter }}"><i class="fab fa-twitter-square"></i></a></li>
+                {% endif %}
+                {% if organizer.facebook != '' %}
+                  <li><a title="Facebook account of {{ organizer.name_en }}" href="{{ organizer.twitter }}"><i class="fab fa-facebook-square"></i></a></li>
+                {% endif %}
+                {% if organizer.github != '' %}
+                  <li><a title="GitHub account of {{ organizer.name_en }}" href="{{ organizer.github }}"><i class="fab fa-github-square"></i></a></li>
+                {% endif %}
+                {% if organizer.url != '' %}
+                  <li><a title="Website of {{ organizer.name_en }}" href="{{ organizer.url }}"><i class="fas fa-globe"></i></a></li>
+                {% endif %}
+              </ul>
+              <p class="photo-credit">
+                <span class="lang en">
+                  {% if organizer.title_en == "" %}
+                    &nbsp;
+                  {% else %}
+                    {{ organizer.title_en }}
+                  {% endif %}
+                </span>
+                <span class="lang ja">
+                  {% if organizer.title_ja == "" %}
+                    &nbsp;
+                  {% else %}
+                    {{ organizer.title_ja }}
+                  {% endif %}
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    
+    <div class="row d-flex">
+      {% assign organizers = site.data.organizers | where: "type", "member" %}
+      {% for organizer in organizers %}
+        <div class="col-md-3 col-lg-4 col-xl-3">
+          <div class="speaker-card">
+            <a href="/organizers/{{ organizer.id }}/">
+              <picture>
+                <source type="image/webp" srcset="/assets/img/organizers/{{ organizer.id }}.webp" />
+                <img src="/assets/img/organizers/{{ organizer.id }}.png" alt="{{ organizer.name_en }}">
+              </picture>
+            </a>
+            <div class="speaker-details">
+              <h3 class="name light red mb-2">
+                <span class="lang en">{{ organizer.name_en }}</span>
+                <span class="lang ja">{{ organizer.name_ja }}</span>
+              </h3>
+              <ul class="socials">
+                {% if organizer.twitter != '' %}
+                  <li><a title="Twitter account of {{ organizer.name_en }}" href="{{ organizer.twitter }}"><i class="fab fa-twitter-square"></i></a></li>
+                {% endif %}
+                {% if organizer.facebook != '' %}
+                  <li><a title="Facebook account of {{ organizer.name_en }}" href="{{ organizer.twitter }}"><i class="fab fa-facebook-square"></i></a></li>
+                {% endif %}
+                {% if organizer.github != '' %}
+                  <li><a title="GitHub account of {{ organizer.name_en }}" href="{{ organizer.github }}"><i class="fab fa-github-square"></i></a></li>
+                {% endif %}
+                {% if organizer.linkedin != '' %}
+                  <li><a title="LinkedIn account of {{ organizer.name_en }}" href="{{ organizer.linkedin }}"><i class="fab fa-linkedin"></i></a></li>
+                {% endif %}
+                {% if organizer.url != '' %}
+                  <li><a title="Website of {{ organizer.name_en }}" href="{{ organizer.url }}"><i class="fas fa-globe"></i></a></li>
+                {% endif %}
+              </ul>
+              <p class="photo-credit">
+                <span class="lang en">
+                  {% if organizer.title_en == "" %}
+                    &nbsp;
+                  {% else %}
+                    {{ organizer.title_en }}
+                  {% endif %}
+                </span>
+                <span class="lang ja">
+                  {% if organizer.title_ja == "" %}
+                    &nbsp;
+                  {% else %}
+                    {{ organizer.title_ja }}
+                  {% endif %}
+                </span>
+              </p>
+              <p class="lang en bold photo-credit">{{ organizer.company_en }}</p>
+              <p class="lang ja bold photo-credit">{{ organizer.company_ja }}</p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<canvas id="ruler"></canvas>

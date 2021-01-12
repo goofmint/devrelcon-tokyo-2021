@@ -1,0 +1,23 @@
+{
+  "name": "devrelcon-tokyo-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevRelConTokyo2020/devrelcontokyo2020.github.io.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DevRelConTokyo2020/devrelcontokyo2020.github.io/issues"
+  },
+  "homepage": "https://github.com/DevRelConTokyo2020/devrelcontokyo2020.github.io#readme",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}

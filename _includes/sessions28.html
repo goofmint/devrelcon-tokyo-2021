@@ -1,0 +1,61 @@
+<div class="container">
+  <div class="row">
+    <div class="schedule-single-row schedule-title-row col-md-12">
+      <p class="lang en medium">👁🐝M</p>
+      <p class="lang ja medium">👁🐝M</p>
+    </div>
+  </div>
+</div>
+
+{% for sessions in site.data.session28 %}
+  <div class="{% if sessions.size == 1 %}schedule-single-row{% else %}schedule-block{% endif %}">
+    {% for session in sessions %}
+      <div class="row">
+        <div class="col-md-2">
+          <p class="red medium">{{ session.time }}</p>
+        </div>
+        <div class="col-md-7">
+          {% if session.speaker %}
+            <a href="/speakers/{{ session.speaker.id }}/">
+          {% endif %}
+          <p class="medium lang en">{{ session.title_en }}</p>
+          <p class="medium lang ja">{{ session.title_ja }}</p>
+          {% if session.speaker %}
+            </a>
+          {% endif %}
+          {% if session.speaker %}
+            <p class="lang en">
+              {{ session.speaker.name_en }}, {{ session.speaker.company_en }}
+              {% if session.speaker2 %}
+                & {{ session.speaker2.name_en }}, {{ session.speaker.company_en }}
+              {% endif %}
+            </p>
+            <p class="lang ja">
+              {{ session.speaker.name_ja }}, {{ session.speaker.company_ja }}
+              {% if session.speaker2 %}
+                & {{ session.speaker2.name_ja }}, {{ session.speaker.company_ja }}
+              {% endif %}
+            </p>
+          {% endif %}
+        </div>
+        <div class="col-md-3 d-flex justify-content-end">
+          <div class="profile-image">
+            <picture>
+              <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{session.speaker.id}}.webp" />
+              <img loading="lazy" src="/assets/img/speakers/{{session.speaker.id}}.jpg" alt="{{ session.speaker.name_en }}">
+            </picture>
+          </div>
+          {% if session.speaker2 %}
+            <div class="profile-image">
+              <picture>
+                <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{session.speaker2.id}}.webp" />
+                <img loading="lazy" src="/assets/img/speakers/{{session.speaker2.id}}.jpg" alt="{{ session.speaker2.name_en }}">
+              </picture>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+      <hr>
+    {% endfor %}
+  </div>
+{% endfor %}
