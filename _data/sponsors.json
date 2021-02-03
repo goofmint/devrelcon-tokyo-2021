@@ -1,0 +1,13 @@
+[
+  {
+    "id": "legalforce",
+    "type": "Silver",
+    "name_ja": "LegalForce",
+    "name_en": "LegalForce",
+    "url_ja": "https://www.legalforce.co.jp/",
+    "url_en": "https://www.legalforce.co.jp/",
+    "size": "3",
+    "show": "true",
+    "image": "legalforce"
+  }
+]

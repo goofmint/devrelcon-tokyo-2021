@@ -5,3 +5,6 @@ _site
 vendor
 .DS_Store
 node_modules.nosync/
+_site.nosync/
+vendor/
+vendor.nosync/
