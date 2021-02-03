@@ -4,7 +4,7 @@ curl -L "https://script.google.com/macros/s/AKfycbzlVQe_lE49nDvlt-_0WEqvjuKhIH_Q
 curl -L "https://script.google.com/macros/s/AKfycbzlVQe_lE49nDvlt-_0WEqvjuKhIH_Q3WflKC0mpnHEsBYzig8m6cOt/exec?name=speakers" -o _data/speakers.json
 curl -L "https://script.google.com/macros/s/AKfycbzlVQe_lE49nDvlt-_0WEqvjuKhIH_Q3WflKC0mpnHEsBYzig8m6cOt/exec?name=sponsors" -o _data/sponsors.json
 
-sh image.sh
+# sh image.sh
 # ruby speaker.rb
 ruby organizer.rb
 # ruby session.rb
