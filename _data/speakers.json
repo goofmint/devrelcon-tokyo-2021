@@ -54,7 +54,7 @@
     "company_en": "Microsoft",
     "company_ja": "Microsoft",
     "profile_en": "I have varied interests.  I enjoy reading, music, travel and am a lifelong learner. I'm passionate about the role of women and technology in improving lives. I'm drawn to Healthcare as an industry where I want to impact some goodness.\r\n\r\nAs part of my current role I grow a vibrant ecosystem of developers across APAC to enable innovative solutions on the latest cloud technologies. \r\n\r\nMy industry contributions Aare as board member of HIMSS India, leading the Women in Health IT committee, with the mission of enabling Healthcare with technology. I'm also a founding board member of Startup Village, India’s first telecom incubator and executive council member of Andhra Pradesh Innovation council. \r\n\r\nMy favorite moment was speaking on an India panel at Cannes Lions festival, France. I was honored by the Chief Minister of Kerala for work with the Startup ecosystem and nominated to Sthree Shakthi award, a recognition for women who have impacted the society.\r\n\r\nI hold a post graduate program in Management from Indian School of Business and a B.Tech in Electrical Engineering from University of Kerala. I have varied experience across Software, Wireless, IT and Manufacturing industries.  \r\n",
-    "profile_ja": "",
+    "profile_ja": "私は様々な興味を持っています。読書、音楽、旅行を楽しみ、生涯を通して学んでいます。私は、生活を向上させるための女性の役割とテクノロジーに情熱を注いでいます。私は、良い影響を与えたい業界としてヘルスケアに惹かれています。\n\n現在の私の役割の一部として、最新のクラウド技術で革新的なソリューションを実現するために、アジア太平洋地域の開発者の活気あるエコシステムを成長させています。\n\n私の業界への貢献は、ヘルスケアをテクノロジーで実現することを使命とするHIMSS Indiaの理事会メンバーとして、Women in Health IT委員会を率いています。また、インド初の電気通信インキュベーターであるStartup Villageの創設メンバーであり、Andhra Pradesh Innovation councilの執行委員会メンバーでもあります。\n\n私の一番のお気に入りは、フランスのカンヌライオンズフェスティバルでインドのパネルに登壇したことです。スタートアップのエコシステムへの取り組みが評価され、ケララ州の州知事から表彰され、社会に影響を与えた女性を表彰するSthree Shakthi賞にノミネートされました。\n\n私は、インドビジネススクールで経営学の大学院プログラムを修了し、ケララ大学で電気工学の学士号を取得しました。ソフトウェア、ワイヤレス、IT、製造業など様々な業界で経験を積んできました。",
     "speaker_title_en": "",
     "speaker_title_ja": "",
     "web": "https://sites.google.com/view/webanniemathew/home?authuser=0",
@@ -67,7 +67,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
