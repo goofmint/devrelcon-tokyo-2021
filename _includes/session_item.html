@@ -1,0 +1,12 @@
+{% if session.speaker %}
+  <a href="/speakers/{{ session.speaker.id }}/">
+{% endif %}
+<p class="medium lang en">{{ session.title_en }}</p>
+<p class="medium lang ja">{{ session.title_ja }}</p>
+{% if session.speaker %}
+  </a>
+{% endif %}
+{% if session.speaker %}
+  <p class="lang en">{{ session.speaker.name_en }}, {{ session.speaker.company_en }}</p>
+  <p class="lang ja">{{ session.speaker.name_ja }}, {{ session.speaker.company_ja }}</p>
+{% endif %}

@@ -8,3 +8,4 @@ node_modules.nosync/
 _site.nosync/
 vendor/
 vendor.nosync/
+*.icloud
