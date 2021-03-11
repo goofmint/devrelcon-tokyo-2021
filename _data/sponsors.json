@@ -9,5 +9,16 @@
     "size": "3",
     "show": "true",
     "image": "legalforce"
+  },
+  {
+    "id": "devrelate",
+    "type": "Silver",
+    "name_ja": "devrelate.io",
+    "name_en": "devrelate.io",
+    "url_ja": "https://devrelate.io",
+    "url_en": "https://devrelate.io",
+    "size": "3",
+    "show": "false",
+    "image": ""
   }
 ]
