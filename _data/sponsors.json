@@ -1,1 +1,24 @@
-<!DOCTYPE html><html><head><link rel="shortcut icon" href="//ssl.gstatic.com/docs/script/images/favicon.ico"><title>エラー</title><style type="text/css" nonce="QyeRoeYwXltIteKqyp9qxg">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style="margin:20px"><div><img alt="Google Apps Script" src="//ssl.gstatic.com/docs/script/images/logo.png"></div><div style="text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px">Exception: ドキュメント（1KFfLIvqw-FQXL90ZpTmZheEDMmn_DBD4RxAE6oxt10s）がありません。ドキュメントが削除されたか、読み取りアクセス権がない可能性があります。（行 28、ファイル「コード」）</div></body></html>
+[
+  {
+    "id": "legalforce",
+    "type": "Silver",
+    "name_ja": "LegalForce",
+    "name_en": "LegalForce",
+    "url_ja": "https://www.legalforce.co.jp/",
+    "url_en": "https://www.legalforce.co.jp/",
+    "size": "3",
+    "show": "true",
+    "image": "legalforce"
+  },
+  {
+    "id": "devrelate",
+    "type": "Silver",
+    "name_ja": "devrelate.io",
+    "name_en": "devrelate.io",
+    "url_ja": "https://devrelate.io",
+    "url_en": "https://devrelate.io",
+    "size": "3",
+    "show": "true",
+    "image": "devrelate"
+  }
+]
