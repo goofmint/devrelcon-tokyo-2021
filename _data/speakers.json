@@ -21,7 +21,8 @@
     "twitch": "",
     "speaker": "true",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Hal Seki",
@@ -45,7 +46,8 @@
     "twitch": "",
     "speaker": "true",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Annie Mathew",
@@ -69,7 +71,8 @@
     "twitch": "",
     "speaker": "true",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Aditya Oberai",
@@ -93,7 +96,8 @@
     "twitch": "",
     "speaker": "false",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Kushlani De Silva",
@@ -117,7 +121,8 @@
     "twitch": "",
     "speaker": "false",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Cherish Santoshi",
@@ -141,7 +146,8 @@
     "twitch": "",
     "speaker": "false",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Raviraj Subramanian",
@@ -165,7 +171,8 @@
     "twitch": "",
     "speaker": "false",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Mohammad Shahbaz Alam",
@@ -189,7 +196,8 @@
     "twitch": "",
     "speaker": "false",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": ""
   },
   {
     "name_en": "Pranshu Khanna",
@@ -213,6 +221,7 @@
     "twitch": "",
     "speaker": "false",
     "First session=sessions:id": "",
-    "Second session=sessions:id": ""
+    "Second session=sessions:id": "",
+    "": "Co-Speaker for Mohammad"
   }
 ]
