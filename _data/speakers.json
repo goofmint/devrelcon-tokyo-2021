@@ -323,5 +323,30 @@
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
+  },
+  {
+    "name_en": "Olia Dukova",
+    "id": "olia",
+    "name_ja": "Olia Dukova",
+    "company_en": "",
+    "company_ja": "",
+    "profile_en": "",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": "",
+    "": ""
   }
 ]
