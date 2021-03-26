@@ -153,8 +153,8 @@
     "profile_ja": "",
     "speaker_title_en": "Developer Advocate",
     "speaker_title_ja": "Developer Advocate",
-    "web": "",
-    "twitter": "",
+    "web": "https://about.me/ravirajsubramanian",
+    "twitter": "http://twitter.com/ThisIsRaviraj",
     "facebook": "",
     "github": "",
     "google": "",
@@ -163,7 +163,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
