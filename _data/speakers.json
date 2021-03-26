@@ -190,5 +190,29 @@
     "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
+  },
+  {
+    "name_en": "Pranshu Khanna",
+    "id": "pranshu",
+    "name_ja": "Pranshu Khanna",
+    "company_en": "GraphCMS",
+    "company_ja": "",
+    "profile_en": "",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": ""
   }
 ]
