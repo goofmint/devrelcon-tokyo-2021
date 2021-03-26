@@ -298,5 +298,30 @@
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
+  },
+  {
+    "name_en": "gerardsans",
+    "id": "gerardsans",
+    "name_ja": "gerardsans",
+    "company_en": "",
+    "company_ja": "",
+    "profile_en": "Gerard loves helping Developers to succeed using Web and Cloud technologies. He is very excited about the future of the Web and JavaScript. Always happy Computer Science Engineer and humble Angular GDE. He loves to share his learnings by giving talks, training and writing about cool technologies. He loves running GraphQL London, GraphQL San Francisco, mentoring students and giving back to the community.",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "false",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": "",
+    "": ""
   }
 ]
