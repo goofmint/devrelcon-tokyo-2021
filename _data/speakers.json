@@ -576,7 +576,7 @@
   },
   {
     "name_en": "Prasad Seth",
-    "id": "",
+    "id": "prasad",
     "name_ja": "Prasad Seth",
     "company_en": "",
     "company_ja": "",
@@ -594,7 +594,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
