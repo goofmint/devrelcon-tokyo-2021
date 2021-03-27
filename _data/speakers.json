@@ -548,5 +548,30 @@
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
+  },
+  {
+    "name_en": "Ibrahim Cesar",
+    "id": "ibrahim",
+    "name_ja": "Ibrahim Cesar",
+    "company_en": "",
+    "company_ja": "",
+    "profile_en": "",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": "",
+    "": ""
   }
 ]
