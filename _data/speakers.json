@@ -423,5 +423,30 @@
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
+  },
+  {
+    "name_en": "JJ Asghar",
+    "id": "jjasghar",
+    "name_ja": "JJ Asghar",
+    "company_en": "IBM",
+    "company_ja": "",
+    "profile_en": "",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": "",
+    "": ""
   }
 ]
