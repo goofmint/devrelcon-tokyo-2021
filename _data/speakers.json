@@ -701,10 +701,10 @@
   },
   {
     "name_en": "Benjamin Dunphy",
-    "id": "",
-    "name_ja": "",
-    "company_en": "",
-    "company_ja": "",
+    "id": "benjamin",
+    "name_ja": "Benjamin Dunphy",
+    "company_en": "EventLoop",
+    "company_ja": "EventLoop",
     "profile_en": "",
     "profile_ja": "",
     "speaker_title_en": "",
@@ -719,7 +719,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
