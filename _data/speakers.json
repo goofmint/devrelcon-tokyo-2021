@@ -723,5 +723,30 @@
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
+  },
+  {
+    "name_en": "Jaime Lopez Jr",
+    "id": "jaime",
+    "name_ja": "Jaime Lopez Jr",
+    "company_en": "Jack Henry & Associates",
+    "company_ja": "Jack Henry & Associates",
+    "profile_en": "Jaime is a Developer Advocate working on open banking APIs at Jack Henry & Associates. Prior to becoming an advocate, he led multiple software development teams throughout his career. Jaime is also a co-host of the More Than Just Code podcast. He often enjoys a nice cup of coffee and conversation on various topics.",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": "",
+    "": ""
   }
 ]
