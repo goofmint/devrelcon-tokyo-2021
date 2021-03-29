@@ -787,7 +787,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
