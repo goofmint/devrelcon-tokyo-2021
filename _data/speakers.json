@@ -826,7 +826,7 @@
     "speaker_title_en": "DevRel Engineer",
     "speaker_title_ja": "DevRel Engineer",
     "web": "https://themillman.com/",
-    "twitter": "",
+    "twitter": "https://twitter.com/philmillman",
     "facebook": "",
     "github": "",
     "google": "",
@@ -835,7 +835,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
