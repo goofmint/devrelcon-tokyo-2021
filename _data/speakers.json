@@ -847,8 +847,8 @@
     "company_ja": "日本アイ・ビー・エム株式会社",
     "profile_en": "Currently I'm working as IBM Customer Success Manager (Architect) and Federated Developer Advocate to cover Developer Relations based in Tokyo, Japan.  Around 18 years comprehensive experience with IT industry - Support Engineer, Security Engineer, Product Marketing, Partner Account Manager, Technical Evangelist. Creative problem-solver, enthusiastic self-starter, and goal-driven achiever. OSS and VSCode lover.",
     "profile_ja": "",
-    "speaker_title_en": "",
-    "speaker_title_ja": "",
+    "speaker_title_en": "Customer Success Manager",
+    "speaker_title_ja": "カスタマーサクセスマネージャー",
     "web": "",
     "twitter": "",
     "facebook": "",
@@ -859,7 +859,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
