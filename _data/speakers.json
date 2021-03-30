@@ -814,5 +814,29 @@
     "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
+  },
+  {
+    "name_en": "Phil Miller",
+    "id": "phil",
+    "name_ja": "Phil Miller",
+    "company_en": "",
+    "company_ja": "",
+    "profile_en": "",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": ""
   }
 ]
