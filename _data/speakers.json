@@ -891,9 +891,9 @@
     "name_en": "Kevin Whinnery",
     "id": "kevin",
     "name_ja": "Kevin Whinnery",
-    "company_en": "",
-    "company_ja": "",
-    "profile_en": "",
+    "company_en": "Twilio",
+    "company_ja": "Twilio",
+    "profile_en": "Kevin Whinnery is the creator and lead developer of TwilioQuest, the mission of which is to inspire and equip a diverse generation of developers to discover their power to change the world with software. Kevin wrote Twilio's official helper module for Node.js and has served in a variety of leadership, evangelism, and engineering roles at the company since late 2012. Prior to joining Twilio, Kevin worked with a company called Appcelerator, where he served an incredible community of developers using JavaScript to build mobile applications for iOS and Android. Kevin lives just outside the Twin Cities of Minneapolis and Saint Paul with his wife and three devious children.",
     "profile_ja": "",
     "speaker_title_en": "",
     "speaker_title_ja": "",
@@ -907,7 +907,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
