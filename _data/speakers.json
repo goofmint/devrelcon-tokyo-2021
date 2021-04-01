@@ -913,7 +913,7 @@
   },
   {
     "name_en": "Jaap Brasser",
-    "id": "",
+    "id": "jaap",
     "name_ja": "Jaap Brasser",
     "company_en": "",
     "company_ja": "",
@@ -931,7 +931,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
