@@ -985,7 +985,7 @@
   },
   {
     "name_en": "Matthew Revell",
-    "id": "matthew",
+    "id": "matthewrevell",
     "name_ja": "Matthew Revell",
     "company_en": "",
     "company_ja": "",
@@ -1003,7 +1003,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
