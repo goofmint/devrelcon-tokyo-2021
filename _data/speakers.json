@@ -769,7 +769,7 @@
   },
   {
     "name_en": "Matthew Kiernander",
-    "id": "matt",
+    "id": "matthew",
     "name_ja": "Matthew Kiernander",
     "company_en": "",
     "company_ja": "",
@@ -847,8 +847,8 @@
     "company_ja": "日本アイ・ビー・エム株式会社",
     "profile_en": "Currently I'm working as IBM Customer Success Manager (Architect) and Federated Developer Advocate to cover Developer Relations based in Tokyo, Japan.  Around 18 years comprehensive experience with IT industry - Support Engineer, Security Engineer, Product Marketing, Partner Account Manager, Technical Evangelist. Creative problem-solver, enthusiastic self-starter, and goal-driven achiever. OSS and VSCode lover.",
     "profile_ja": "現在、IBMカスタマーサクセスマネージャー（アーキテクト）兼Federated Developer Advocateとして、東京（日本）を拠点にデベロッパーリレーションズを担当しています。 サポートエンジニア、セキュリティエンジニア、プロダクトマーケティング、パートナーアカウントマネージャー、テクニカルエバンジェリストなど、IT業界で約18年におよぶさまざまな経験を有しています。創造的な問題解決者であり、熱心なセルフスターターであり、目標達成者でもあります。そして、OSSとVSCodeをこよなく愛しています。",
-    "speaker_title_en": "IBM Customer Success Manager (Architect) & Federated Developer Advocate",
-    "speaker_title_ja": "IBM Customer Success Manager (Architect) & Federated Developer Advocate",
+    "speaker_title_en": "CSM(Architect)",
+    "speaker_title_ja": "CSM(Architect)",
     "web": "",
     "twitter": "http://twitter.com/ayatokura",
     "facebook": "",
@@ -859,7 +859,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "false",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   },
