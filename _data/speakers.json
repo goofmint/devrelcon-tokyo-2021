@@ -1063,10 +1063,10 @@
     "company_ja": "SHOEISHA Co.,Ltd.",
     "profile_en": "Editor of software development. I am the chief editor of the Japanese web magazine “CodeZine” at SHOEISHA based in Tokyo. I’m also the organizer of “Developers Summit” which is one of the biggest conferences for software developers in Japan. I’m not a developer, but I like participating in meetups, giving sessions and organizing events for developers. My catchphrase is \"dancing editor\".",
     "profile_ja": "",
-    "speaker_title_en": "",
-    "speaker_title_ja": "",
+    "speaker_title_en": "Chief Editor",
+    "speaker_title_ja": "Chief Editor",
     "web": "",
-    "twitter": "",
+    "twitter": "http://twitter.com/kondoyuko",
     "facebook": "",
     "github": "",
     "google": "",
@@ -1075,7 +1075,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "false",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   }
