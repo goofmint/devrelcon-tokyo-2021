@@ -259,7 +259,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "false",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   },
@@ -739,7 +739,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "false",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   },
@@ -1027,7 +1027,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "false",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   },
@@ -1051,7 +1051,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "false",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
   },
