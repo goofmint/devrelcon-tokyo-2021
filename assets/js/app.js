@@ -56,7 +56,6 @@ $(function () {
 
 
 function changeLang(lang) {
-  console.log(lang)
   if (lang === 'ja') {
     $('.lang.en').hide();
     $('.lang.ja').show();
@@ -102,6 +101,7 @@ const changeStyle = (ele, lang, num) => {
     }
   }
   document.querySelectorAll(ele).forEach(d => {
+    return;
     if (!$(d).is(':visible')) return;
     const text = $(d).find(`.${lang}`).text().trim();
     if (d.clientHeight > cssHeight) {
