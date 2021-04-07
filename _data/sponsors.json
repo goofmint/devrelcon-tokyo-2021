@@ -42,5 +42,16 @@
     "size": "3",
     "show": "",
     "image": "ekispert"
+  },
+  {
+    "id": "grapecity",
+    "type": "Bronze",
+    "name_ja": "グレープシティ",
+    "name_en": "GrapeCity",
+    "url_ja": "",
+    "url_en": "",
+    "size": "",
+    "show": "",
+    "image": ""
   }
 ]
