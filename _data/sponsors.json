@@ -20,5 +20,16 @@
     "size": "3",
     "show": "true",
     "image": "devrelate"
+  },
+  {
+    "id": "microsoft",
+    "type": "Gold",
+    "name_ja": "",
+    "name_en": "",
+    "url_ja": "",
+    "url_en": "",
+    "size": "",
+    "show": "",
+    "image": ""
   }
 ]
