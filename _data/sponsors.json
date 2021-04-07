@@ -48,9 +48,20 @@
     "type": "Bronze",
     "name_ja": "グレープシティ",
     "name_en": "GrapeCity",
-    "url_ja": "",
-    "url_en": "",
-    "size": "",
+    "url_ja": "https://www.grapecity.co.jp/developer/",
+    "url_en": "https://www.grapecity.co.jp/developer/",
+    "size": "2",
+    "show": "",
+    "image": ""
+  },
+  {
+    "id": "vonage",
+    "type": "Bronze",
+    "name_ja": "Vonage",
+    "name_en": "Vonage",
+    "url_ja": "https://vonage.dev/DevRelConTokyo",
+    "url_en": "https://vonage.dev/DevRelConTokyo",
+    "size": "2",
     "show": "",
     "image": ""
   }
