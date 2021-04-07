@@ -51,8 +51,8 @@
     "url_ja": "https://www.grapecity.co.jp/developer/",
     "url_en": "https://www.grapecity.co.jp/developer/",
     "size": "2",
-    "show": "",
-    "image": ""
+    "show": "true",
+    "image": "grapecity"
   },
   {
     "id": "vonage",
@@ -62,7 +62,7 @@
     "url_ja": "https://vonage.dev/DevRelConTokyo",
     "url_en": "https://vonage.dev/DevRelConTokyo",
     "size": "2",
-    "show": "",
-    "image": ""
+    "show": "true",
+    "image": "vonage"
   }
 ]
