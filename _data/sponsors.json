@@ -26,21 +26,21 @@
     "type": "Gold",
     "name_ja": "Microsoft",
     "name_en": "Microsoft",
-    "url_ja": "",
-    "url_en": "",
-    "size": "",
+    "url_ja": "https://azure.microsoft.com/ja-jp/",
+    "url_en": "https://azure.microsoft.com/",
+    "size": "5",
     "show": "",
-    "image": ""
+    "image": "microsoft"
   },
   {
     "id": "ekispert",
     "type": "Silver",
     "name_ja": "駅すぱあと",
     "name_en": "Ekispert",
-    "url_ja": "",
+    "url_ja": "https://ekiworld.net/service/lp/webservice/",
     "url_en": "",
-    "size": "",
+    "size": "3",
     "show": "",
-    "image": ""
+    "image": "ekispert"
   }
 ]
