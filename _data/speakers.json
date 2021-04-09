@@ -1078,5 +1078,29 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": ""
+  },
+  {
+    "name_en": "Olivier Leplus",
+    "id": "olivier",
+    "name_ja": "Olivier Leplus",
+    "company_en": "",
+    "company_ja": "",
+    "profile_en": "Developer Relation Program Manager at Microsoft and Google Developer Expert in Web Technologies. I love to share knowledge (and love) among developers and people in general.",
+    "profile_ja": "",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "",
+    "twitter": "",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": ""
   }
 ]
