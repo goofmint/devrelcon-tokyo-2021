@@ -70,10 +70,10 @@
     "type": "Gold",
     "name_ja": "はてな",
     "name_en": "Hatena",
-    "url_ja": "",
-    "url_en": "",
-    "size": "",
+    "url_ja": "https://hatenacorp.jp/",
+    "url_en": "https://hatenacorp.jp/",
+    "size": "5",
     "show": "",
-    "image": ""
+    "image": "hatena"
   }
 ]
