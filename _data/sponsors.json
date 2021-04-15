@@ -29,7 +29,7 @@
     "url_ja": "https://azure.microsoft.com/ja-jp/",
     "url_en": "https://azure.microsoft.com/",
     "size": "5",
-    "show": "",
+    "show": "true",
     "image": "microsoft"
   },
   {
@@ -64,5 +64,16 @@
     "size": "2",
     "show": "true",
     "image": "vonage"
+  },
+  {
+    "id": "hatena",
+    "type": "Gold",
+    "name_ja": "はてな",
+    "name_en": "Hatena",
+    "url_ja": "",
+    "url_en": "",
+    "size": "",
+    "show": "",
+    "image": ""
   }
 ]
