@@ -1,5 +1,27 @@
 [
   {
+    "id": "microsoft",
+    "type": "Gold",
+    "name_ja": "Microsoft",
+    "name_en": "Microsoft",
+    "url_ja": "https://azure.microsoft.com/ja-jp/",
+    "url_en": "https://azure.microsoft.com/",
+    "size": "5",
+    "show": "true",
+    "image": "microsoft"
+  },
+  {
+    "id": "hatena",
+    "type": "Gold",
+    "name_ja": "はてな",
+    "name_en": "Hatena",
+    "url_ja": "https://hatenacorp.jp/",
+    "url_en": "https://hatenacorp.jp/",
+    "size": "5",
+    "show": "",
+    "image": "hatena"
+  },
+  {
     "id": "legalforce",
     "type": "Silver",
     "name_ja": "LegalForce",
@@ -20,17 +42,6 @@
     "size": "3",
     "show": "true",
     "image": "devrelate"
-  },
-  {
-    "id": "microsoft",
-    "type": "Gold",
-    "name_ja": "Microsoft",
-    "name_en": "Microsoft",
-    "url_ja": "https://azure.microsoft.com/ja-jp/",
-    "url_en": "https://azure.microsoft.com/",
-    "size": "5",
-    "show": "true",
-    "image": "microsoft"
   },
   {
     "id": "ekispert",
@@ -64,16 +75,5 @@
     "size": "2",
     "show": "true",
     "image": "vonage"
-  },
-  {
-    "id": "hatena",
-    "type": "Gold",
-    "name_ja": "はてな",
-    "name_en": "Hatena",
-    "url_ja": "https://hatenacorp.jp/",
-    "url_en": "https://hatenacorp.jp/",
-    "size": "5",
-    "show": "",
-    "image": "hatena"
   }
 ]
