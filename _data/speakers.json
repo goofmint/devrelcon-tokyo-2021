@@ -122,7 +122,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "between 11pm and 1am UTC time (7pm - 9pm NYC east coast time)"
+    "": "Best: 11pm - 1am UTC (7pm - 9pm NYC east coast time)"
   },
   {
     "name_en": "JJ Asghar",
@@ -197,7 +197,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": ""
+    "": "Best: 11pm - 2am UTC (6pm - 9pm)"
   },
   {
     "name_en": "Kiran Oliver",
@@ -272,7 +272,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "Best: 11:00pm - 2:00am UTC"
+    "": "Best: 11pm - 2am UTC"
   },
   {
     "name_en": "Jaime Lopez Jr",
