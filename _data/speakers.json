@@ -122,7 +122,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "Best: 11pm - 1am UTC (7pm - 9pm NYC east coast time)"
+    "": "11pm - 1am UTC (7pm - 9pm NYC east coast time)"
   },
   {
     "name_en": "JJ Asghar",
@@ -197,7 +197,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "Best: 11pm - 2am UTC (6pm - 9pm Central Time)"
+    "": "11pm - 2am UTC (6pm - 9pm Central Time)"
   },
   {
     "name_en": "Kiran Oliver",
@@ -272,7 +272,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "Best: 11pm - 2am UTC"
+    "": "11pm - 2am UTC"
   },
   {
     "name_en": "Jaime Lopez Jr",
@@ -322,7 +322,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "Best: 11pm - 4am UTC"
+    "": "11pm - 4am UTC"
   },
   {
     "name_en": "Avinash Harsh",
@@ -822,7 +822,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": ""
+    "": "11pm UTC to 5pm UTC"
   },
   {
     "name_en": "Siddharth Dayalwal",
