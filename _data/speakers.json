@@ -747,7 +747,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": ""
+    "": "5am - 11am UTC"
   },
   {
     "name_en": "Mohammad Shahbaz Alam",
@@ -822,7 +822,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "11pm UTC to 5pm UTC (4:30pm IST to 10pm IST)"
+    "": "11pm - 5pm UTC (4:30pm IST to 10pm IST)"
   },
   {
     "name_en": "Siddharth Dayalwal",
