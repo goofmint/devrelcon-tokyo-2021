@@ -372,7 +372,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "※ ラストのセッション枠に当てられるが、"
+    "": "※ ラストのセッション枠(A-13/B-13/C-13のいずれか)に当てられるが、4コマ(10-13)同時に開始すると7:30am UTCにStreamYardに入ってもらう必要がある？"
   },
   {
     "name_en": "Olia Dukova",
