@@ -97,7 +97,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "same as Kimberlee"
+    "": ""
   },
   {
     "name_en": "Carol Huang",
@@ -122,7 +122,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "11pm - 1am UTC (7pm - 9pm NYC east coast time)"
+    "": ""
   },
   {
     "name_en": "JJ Asghar",
@@ -197,7 +197,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "11pm - 2am UTC (6pm - 9pm CDT)"
+    "": ""
   },
   {
     "name_en": "Kiran Oliver",
@@ -272,7 +272,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "11pm - 2am UTC"
+    "": ""
   },
   {
     "name_en": "Jaime Lopez Jr",
@@ -297,7 +297,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "1:30am - 5am UTC"
+    "": ""
   },
   {
     "name_en": "Kimberlee Johnson",
@@ -322,7 +322,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "11pm - 4am UTC"
+    "": ""
   },
   {
     "name_en": "Avinash Harsh",
@@ -347,7 +347,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "same as Kushlani"
+    "": ""
   },
   {
     "name_en": "Gerard Sans",
@@ -372,7 +372,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "9am-11am UTC"
+    "": "※ ラストのセッション枠に当てられるが、"
   },
   {
     "name_en": "Olia Dukova",
@@ -497,7 +497,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "in the hours 8 am (UCT) onwards"
+    "": ""
   },
   {
     "name_en": "Sherry List",
@@ -747,7 +747,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "5am - 11am UTC"
+    "": ""
   },
   {
     "name_en": "Mohammad Shahbaz Alam",
@@ -822,7 +822,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "11pm - 5pm UTC (4:30pm IST to 10pm IST)"
+    "": ""
   },
   {
     "name_en": "Siddharth Dayalwal",
@@ -847,7 +847,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "Anytime after 3:30 PM, UTC"
+    "": ""
   },
   {
     "name_en": "Shivay Lamba",
@@ -1122,7 +1122,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "LESTRRAT"
+    "": ""
   },
   {
     "name_en": "Mish Manners",
