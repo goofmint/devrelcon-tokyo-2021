@@ -1,7 +1,7 @@
 [
   {
-    "name_en": "Ibrahim Cesar",
     "id": "ibrahim",
+    "name_en": "Ibrahim Cesar",
     "name_ja": "Ibrahim Cesar",
     "company_en": "Nexo Jornal",
     "company_ja": "Nexo Jornal",
@@ -25,8 +25,8 @@
     "": ""
   },
   {
-    "name_en": "David Neal",
     "id": "david",
+    "name_en": "David Neal",
     "name_ja": "David Neal",
     "company_en": "ReverentGeek",
     "company_ja": "ReverentGeek",
@@ -50,8 +50,8 @@
     "": ""
   },
   {
-    "name_en": "Liz Moy",
     "id": "liz",
+    "name_en": "Liz Moy",
     "name_ja": "Liz Moy",
     "company_en": "Twilio",
     "company_ja": "Twilio",
@@ -75,8 +75,8 @@
     "": ""
   },
   {
-    "name_en": "Phil Miller",
     "id": "phil",
+    "name_en": "Phil Miller",
     "name_ja": "Phil Miller",
     "company_en": "Daily",
     "company_ja": "Daily",
@@ -100,8 +100,8 @@
     "": ""
   },
   {
-    "name_en": "Carol Huang",
     "id": "carol",
+    "name_en": "Carol Huang",
     "name_ja": "Carol Huang",
     "company_en": "Stripe",
     "company_ja": "Stripe",
@@ -125,8 +125,8 @@
     "": ""
   },
   {
-    "name_en": "JJ Asghar",
     "id": "jjasghar",
+    "name_en": "JJ Asghar",
     "name_ja": "JJ Asghar",
     "company_en": "IBM",
     "company_ja": "IBM",
@@ -150,8 +150,8 @@
     "": ""
   },
   {
-    "name_en": "Amara Graham",
     "id": "amara",
+    "name_en": "Amara Graham",
     "name_ja": "Amara Graham",
     "company_en": "Camunda",
     "company_ja": "Camunda",
@@ -175,8 +175,8 @@
     "": ""
   },
   {
-    "name_en": "Kevin Whinnery",
     "id": "kevin",
+    "name_en": "Kevin Whinnery",
     "name_ja": "Kevin Whinnery",
     "company_en": "Twilio",
     "company_ja": "Twilio",
@@ -200,8 +200,8 @@
     "": ""
   },
   {
-    "name_en": "Kiran Oliver",
     "id": "kiran",
+    "name_en": "Kiran Oliver",
     "name_ja": "Kiran Oliver",
     "company_en": "Camunda",
     "company_ja": "Camunda",
@@ -225,8 +225,8 @@
     "": ""
   },
   {
-    "name_en": "Cory Althoff",
     "id": "cory",
+    "name_en": "Cory Althoff",
     "name_ja": "Cory Althoff",
     "company_en": "Vonage",
     "company_ja": "Vonage",
@@ -250,8 +250,8 @@
     "": ""
   },
   {
-    "name_en": "Benjamin Dunphy",
     "id": "benjamin",
+    "name_en": "Benjamin Dunphy",
     "name_ja": "Benjamin Dunphy",
     "company_en": "EventLoop",
     "company_ja": "EventLoop",
@@ -275,8 +275,8 @@
     "": ""
   },
   {
-    "name_en": "Jaime Lopez Jr",
     "id": "jaime",
+    "name_en": "Jaime Lopez Jr",
     "name_ja": "Jaime Lopez Jr",
     "company_en": "Jack Henry & Associates",
     "company_ja": "Jack Henry & Associates",
@@ -300,8 +300,8 @@
     "": ""
   },
   {
-    "name_en": "Kimberlee Johnson",
     "id": "kimberlee",
+    "name_en": "Kimberlee Johnson",
     "name_ja": "Kimberlee Johnson",
     "company_en": "Daily",
     "company_ja": "Daily",
@@ -325,8 +325,8 @@
     "": ""
   },
   {
-    "name_en": "Avinash Harsh",
     "id": "avinash",
+    "name_en": "Avinash Harsh",
     "name_ja": "Avinash Harsh",
     "company_en": "Weavr",
     "company_ja": "Weavr",
@@ -350,8 +350,8 @@
     "": ""
   },
   {
-    "name_en": "Gerard Sans",
     "id": "gerardsans",
+    "name_en": "Gerard Sans",
     "name_ja": "Gerard Sans",
     "company_en": "",
     "company_ja": "",
@@ -372,11 +372,11 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": ""
+    "": "※ A-13/B-13/C-13のいずれかに当てられるが、4コマ(10-13)同時に開始すると7:30am UTCにStreamYardに入ってもらう必要がある？"
   },
   {
-    "name_en": "Olia Dukova",
     "id": "olia",
+    "name_en": "Olia Dukova",
     "name_ja": "Olia Dukova",
     "company_en": "Vonage",
     "company_ja": "Vonage",
@@ -400,8 +400,8 @@
     "": ""
   },
   {
-    "name_en": "Srini Kadamati",
     "id": "srini",
+    "name_en": "Srini Kadamati",
     "name_ja": "Srini Kadamati",
     "company_en": "Preset.io",
     "company_ja": "Preset.io",
@@ -425,8 +425,8 @@
     "": ""
   },
   {
-    "name_en": "Matt Hamilton",
     "id": "matt",
+    "name_en": "Matt Hamilton",
     "name_ja": "Matt Hamilton",
     "company_en": "RippleX",
     "company_ja": "RippleX",
@@ -450,8 +450,8 @@
     "": ""
   },
   {
-    "name_en": "Anna Tsolakou",
     "id": "anna",
+    "name_en": "Anna Tsolakou",
     "name_ja": "Anna Tsolakou",
     "company_en": "Amadeus",
     "company_ja": "Amadeus",
@@ -475,8 +475,8 @@
     "": ""
   },
   {
-    "name_en": "Christina Voskoglou",
     "id": "christina",
+    "name_en": "Christina Voskoglou",
     "name_ja": "Christina Voskoglou",
     "company_en": "SlashData",
     "company_ja": "SlashData",
@@ -497,11 +497,11 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": ""
+    "": "※ A-11/B-11/C-11以降のいずれかに当てられるが、4コマ(10-13)同時に開始すると7:30am UTCにStreamYardに入ってもらう必要がある？"
   },
   {
-    "name_en": "Sherry List",
     "id": "sherry",
+    "name_en": "Sherry List",
     "name_ja": "Sherry List",
     "company_en": "Microsoft",
     "company_ja": "Microsoft",
@@ -525,8 +525,8 @@
     "": ""
   },
   {
-    "name_en": "Jaap Brasser",
     "id": "jaap",
+    "name_en": "Jaap Brasser",
     "name_ja": "Jaap Brasser",
     "company_en": "Jaap Brasser",
     "company_ja": "Rubrik",
@@ -550,8 +550,8 @@
     "": ""
   },
   {
-    "name_en": "Matthew Revell",
     "id": "matthewrevell",
+    "name_en": "Matthew Revell",
     "name_ja": "Matthew Revell",
     "company_en": "Hoopy Limited",
     "company_ja": "Hoopy Limited",
@@ -575,8 +575,8 @@
     "": ""
   },
   {
-    "name_en": "Olivier Leplus",
     "id": "olivier",
+    "name_en": "Olivier Leplus",
     "name_ja": "Olivier Leplus",
     "company_en": "Microsoft",
     "company_ja": "Microsoft",
@@ -600,8 +600,8 @@
     "": ""
   },
   {
-    "name_en": "Ekaterina Shcherenkova",
     "id": "ekaterina",
+    "name_en": "Ekaterina Shcherenkova",
     "name_ja": "Ekaterina Shcherenkova",
     "company_en": "Dodo Engineering",
     "company_ja": "Dodo Engineering",
@@ -625,8 +625,8 @@
     "": ""
   },
   {
-    "name_en": "Annie Mathew",
     "id": "annpmathew",
+    "name_en": "Annie Mathew",
     "name_ja": "Annie Mathew",
     "company_en": "Microsoft",
     "company_ja": "Microsoft",
@@ -650,8 +650,8 @@
     "": ""
   },
   {
-    "name_en": "Aditya Oberai",
     "id": "aditya",
+    "name_en": "Aditya Oberai",
     "name_ja": "Aditya Oberai",
     "company_en": "Major League Hacking",
     "company_ja": "Major League Hacking",
@@ -675,8 +675,8 @@
     "": ""
   },
   {
-    "name_en": "Kushlani De Silva",
     "id": "kushlani",
+    "name_en": "Kushlani De Silva",
     "name_ja": "Kushlani De Silva",
     "company_en": "GraphCMS",
     "company_ja": "GraphCMS",
@@ -700,8 +700,8 @@
     "": ""
   },
   {
-    "name_en": "Cherish Santoshi",
     "id": "cherish",
+    "name_en": "Cherish Santoshi",
     "name_ja": "Cherish Santoshi",
     "company_en": "SAWO Labs",
     "company_ja": "SAWO Labs",
@@ -725,8 +725,8 @@
     "": ""
   },
   {
-    "name_en": "Raviraj Subramanian",
     "id": "raviraj",
+    "name_en": "Raviraj Subramanian",
     "name_ja": "Raviraj Subramanian",
     "company_en": "Freshworks",
     "company_ja": "Freshworks",
@@ -750,8 +750,8 @@
     "": ""
   },
   {
-    "name_en": "Mohammad Shahbaz Alam",
     "id": "mohammad",
+    "name_en": "Mohammad Shahbaz Alam",
     "name_ja": "Mohammad Shahbaz Alam",
     "company_en": "Magic Labs",
     "company_ja": "Magic Labs",
@@ -775,8 +775,8 @@
     "": ""
   },
   {
-    "name_en": "Pranshu Khanna",
     "id": "pranshu",
+    "name_en": "Pranshu Khanna",
     "name_ja": "Pranshu Khanna",
     "company_en": "GraphCMS",
     "company_ja": "GraphCMS",
@@ -800,8 +800,8 @@
     "": ""
   },
   {
-    "name_en": "Prasad Seth",
     "id": "prasad",
+    "name_en": "Prasad Seth",
     "name_ja": "Prasad Seth",
     "company_en": "Slack Platform Community",
     "company_ja": "Slack Platform Community",
@@ -825,12 +825,12 @@
     "": ""
   },
   {
-    "name_en": "Siddharth Dayalwal",
     "id": "siddharth",
+    "name_en": "Siddharth Dayalwal",
     "name_ja": "Siddharth Dayalwal",
     "company_en": "SAWO Labs",
     "company_ja": "SAWO Labs",
-    "profile_en": "Being Passionate for technology and having a desire to learn and explore more makes Siddharth what he is. He is an AngelHack Student Ambassador, Microsoft Learn Student Ambassador, Former Intern at Progate, Google Crowdsource Influencer, Hackathon Mentor and Lead Organizer for Hack This Fall Hackathon.\n\nHis passion for Hackathon is immense and he has been part of 50+ Hackathons with different roles. He is a community guy and a public speaker. Additionally travelling, music and food is what he likes the most.",
+    "profile_en": "Being Passionate about technology and having a desire to learn and explore more makes Siddharth what he is. He is Community Development Intern at SAWO Labs, GitHub Campus Expert, AngelHack Student Ambassador, Microsoft Learn Student Ambassador, Former Intern at Progate, Google Crowdsource Influencer, Hackathon Mentor and Lead Organizer for Hack This Fall Hackathon.\n\nHis passion for Hackathon is immense and he has been part of 55+ Hackathons with different roles. He is a community guy and a public speaker. Additionally, travelling, music and food are what he likes the most.\n",
     "profile_ja": "テクノロジーに情熱を持ち、もっと学び、探求したいという願望を持っていることで、Siddharthは本来の自分になります。 彼は、AngelHack Student Ambassador、Microsoft Learn Student Ambassador、Progateの元インターン、Google Crowdsourceインフルエンサー、Hackathonメンター、Hack This FallHackathonのリードオーガナイザーです。\n\n彼のハッカソンへの情熱は計り知れず、さまざまな役割を持つ50以上のハッカソンに参加しています。 彼はCommunity Guyであり、Public Speakerです。 さらに、旅行、音楽、食べ物が最も好きなものです。",
     "speaker_title_en": "Community Development",
     "speaker_title_ja": "Community Development",
@@ -850,8 +850,8 @@
     "": ""
   },
   {
-    "name_en": "Shivay Lamba",
     "id": "shivay",
+    "name_en": "Shivay Lamba",
     "name_ja": "Shivay Lamba",
     "company_en": "AngelHack",
     "company_ja": "AngelHack",
@@ -875,8 +875,8 @@
     "": ""
   },
   {
-    "name_en": "Hal Seki",
     "id": "halsk",
+    "name_en": "Hal Seki",
     "name_ja": "関 治之",
     "company_en": "Code for Japan",
     "company_ja": "コード・フォー・ジャパン",
@@ -900,8 +900,8 @@
     "": ""
   },
   {
-    "name_en": "Ayana Yokota",
     "id": "ayana",
+    "name_en": "Ayana Yokota",
     "name_ja": "よこな / Ayana",
     "company_en": "JFrog",
     "company_ja": "JFrog",
@@ -925,8 +925,8 @@
     "": ""
   },
   {
-    "name_en": "Wataru Yamazaki",
     "id": "wataru",
+    "name_en": "Wataru Yamazaki",
     "name_ja": "山﨑 亘",
     "company_en": "Uhuru Corporation",
     "company_ja": "株式会社ウフル",
@@ -950,8 +950,8 @@
     "": ""
   },
   {
-    "name_en": "Laurie Griffiths",
     "id": "laurie",
+    "name_en": "Laurie Griffiths",
     "name_ja": "Laurie Griffiths",
     "company_en": "Fukuoka Engineer Cafe",
     "company_ja": "Fukuoka Engineer Cafe",
@@ -975,8 +975,8 @@
     "": ""
   },
   {
-    "name_en": "Seigo Tanaka",
     "id": "seigo",
+    "name_en": "Seigo Tanaka",
     "name_ja": "田中 正吾",
     "company_en": "1ft-seabass",
     "company_ja": "1ft-seabass",
@@ -1000,8 +1000,8 @@
     "": ""
   },
   {
-    "name_en": "Aya Tokura",
     "id": "aya",
+    "name_en": "Aya Tokura",
     "name_ja": "戸倉 彩",
     "company_en": "IBM Japan",
     "company_ja": "日本アイ・ビー・エム株式会社",
@@ -1025,8 +1025,8 @@
     "": ""
   },
   {
-    "name_en": "Junichi Okamura",
     "id": "junichi",
+    "name_en": "Junichi Okamura",
     "name_ja": "岡村 純一",
     "company_en": "Shopify",
     "company_ja": "Shopify",
@@ -1050,8 +1050,8 @@
     "": ""
   },
   {
-    "name_en": "William Sayama",
     "id": "will",
+    "name_en": "William Sayama",
     "name_ja": "佐山 ウィリアム 明裕",
     "company_en": "Cybozu Inc",
     "company_ja": "Cybozu Inc",
@@ -1075,8 +1075,8 @@
     "": ""
   },
   {
-    "name_en": "Yuko Kondo",
     "id": "yuko",
+    "name_en": "Yuko Kondo",
     "name_ja": "近藤 佑子",
     "company_en": "SHOEISHA Co.,Ltd.",
     "company_ja": "SHOEISHA Co.,Ltd.",
@@ -1100,8 +1100,8 @@
     "": ""
   },
   {
-    "name_en": "Daisuke Maki",
     "id": "lestrrat",
+    "name_en": "Daisuke Maki",
     "name_ja": "牧 大輔",
     "company_en": "Mercari",
     "company_ja": "メルカリ",
@@ -1122,11 +1122,11 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "LESTRRAT"
+    "": ""
   },
   {
-    "name_en": "Mish Manners",
     "id": "mish",
+    "name_en": "Mish Manners",
     "name_ja": "Mish Manners",
     "company_en": "GitHub",
     "company_ja": "GitHub",
@@ -1150,8 +1150,8 @@
     "": ""
   },
   {
-    "name_en": "Matthew Kiernander",
     "id": "matthew",
+    "name_en": "Matthew Kiernander",
     "name_ja": "Matthew Kiernander",
     "company_en": "",
     "company_ja": "",
