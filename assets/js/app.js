@@ -1,3 +1,7 @@
+const applicationKey = 'b27f90a0af9b304cd7376c903599065afddeeaf57ff716e977495358c36db92d';
+const clientKey = '25d74196e6468eb36d190f95423f939ad12e59ea0ab7c8e9259477bdeefb64cd'
+const ncmb = new NCMB(applicationKey, clientKey);
+
 $(window).scroll(function() {
   if (document.location.pathname === '/') {
     if ($(document).scrollTop() > 150) {
@@ -52,8 +56,40 @@ $(function () {
     changeStyle('.speaker-details h3', lang, 0.1);
     return false;
   });
+
+
+  $('.register-form').hide();
+
+  $('#register').on('submit', async (e) => {
+    e.preventDefault();
+    $('.register-form').hide();
+    const params = serializeForm(e.target);
+    const participate = new (ncmb.DataStore('Participate'));
+    for (const key in params) {
+      participate.set(key, params[key]);
+    }
+    const acl = new ncmb.Acl;
+    acl
+      .setRoleReadAccess('admin', true)
+      .setRoleWriteAccess('admin', true);
+    participate.set('acl', acl)
+    try {
+      await participate.save();
+      $('.register-success').show();
+    } catch (e) {
+      $('.register-danger').show();
+    }
+  });
 });
 
+const serializeForm = (form) => {
+  const f = new URLSearchParams(new FormData(form));
+  const params = {};
+  for (const values of f) {
+    params[values[0]] = values[1];
+  }
+  return params;
+}
 
 function changeLang(lang) {
   if (lang === 'ja') {

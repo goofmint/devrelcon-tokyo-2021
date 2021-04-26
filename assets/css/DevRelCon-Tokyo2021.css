@@ -232,7 +232,7 @@ DevRelCon London 2019 Styles
 }
 .themes {
 	margin-right: 15px;
-	margin-top: 50px;
+	margin-top: 10px;
 	max-width: 100%;
 }
 .theme {
@@ -612,7 +612,7 @@ label {
     margin: 1em auto 0 auto;
     width: 100%;
     text-align: left;
-    color: #fff;
+    /* color: #fff; */
     font-size: 16px;
     padding-bottom: 4px;
 }
@@ -644,8 +644,8 @@ div#mce-success-response {
 input {
     border: 0;
     padding: 10px;
-    width: 100%;
-}
+    /* width: 100%; */
+	}
 
 /* -----------------------------------------------------------------
 
@@ -832,7 +832,7 @@ Media Queries - Min
 		font-size: 2em;
 	}
 	.themes {
-		margin-top: 150px;
+		margin-top: 20px;
 	}
 	.intro {
 		padding: 120px 15px 50px 15px;

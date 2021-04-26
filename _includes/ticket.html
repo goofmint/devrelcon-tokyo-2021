@@ -1,52 +1,59 @@
-<!--
 <div id="ticket"></div>
-<div class="title-block  grey-bg">
-  <h1 class="lang en bold red">Attention</h1>
-  <h1 class="lang ja bold red">注意</h1>
+<div class="title-block">
+  <h3 class="lang en bold">DevRelCon Tokyo 2021 is <span class="red">free</span> and online/virtual conference</h3>
+  <h3 class="lang ja bold">DevRelCon Tokyo 2021は<span class="red">無料</span>のオンラインカンファレンスです</h3>
 </div>
 
-<div class="speaker-wrapper  grey-bg">
+<div class="speaker-wrapper">
   <div class="container">
     <div class="row d-flex justify-content-center">
-      <div class="col-md-8 text-center">
-        <div class="devrel-button buy lang en DevRelCon-button blue">
-          <a rel="noreferrer" href="https://ti.to/devrelcon-tokyo/2021" target="_blank">
-            Buy ticket <i class="fa fa-long-arrow-right"></i>
-          </a>
-        </div>
-        <h4 class="lang ja">英語（ti.to）</h4>
-        <div class="devrel-button buy lang ja DevRelCon-button blue">
-          <a rel="noreferrer" href="https://ti.to/devrelcon-tokyo/2021" target="_blank">
-            チケットを買う（クレジットカード/PayPal） <i class="fa fa-long-arrow-right"></i>
-          </a>
-        </div>
-        <div class="lang ja">
-          <br />
-          <br />
-        </div>
-        <h4 class="lang ja">日本語（Peatix）</h4>
-        <div class="devrel-button buy lang ja DevRelCon-button blue">
-          <a rel="noreferrer" href="https://devrelcon-tokyo-2021.peatix.com/view" target="_blank">
-            チケットを買う（クレジットカード/コンビニ/銀行振込） <i class="fa fa-long-arrow-right"></i>
-          </a>
-        </div>
-        <br />
-        <br />
-        <br />
-        <h4 class="lang ja">ダイバーシティチケットを申し込む<br />（Googleによる提供。限定30枚まで）</h4>
-        <h4 class="lang en">Application to divercity ticket<br />(Provided by Google. Maximum 30 tickets)</h4>
-        <div class="devrel-button buy lang ja DevRelCon-button red text-white">
-          <a rel="noreferrer" href="https://forms.gle/Nr4tZErK6TKRnUr1A" target="_blank" style="color:white">
-            チケットを申し込む
-          </a>
-        </div>
-        <div class="devrel-button buy lang en DevRelCon-button red text-white">
-          <a rel="noreferrer" href="https://forms.gle/Nr4tZErK6TKRnUr1A" target="_blank" style="color:white">
-            Application the ticket
-          </a>
-        </div>
+      <div class="col-md-8 text-left">
+        <h4 class="lang ja">参加登録はこちらから！</h4>
+        <h4 class="lang en">Register here!</h4>
+        <form id="register">
+          <div class="form-group">
+            <label class="lang en" for="inputPassword1">Company/organization name</label>
+            <label class="lang ja" for="inputPassword1">企業/団体名</label>
+            <input type="text" class="form-control" id="inputCompany" placeholder="DevRelCon" name="company" />
+          </div>
+          <div class="form-group">
+            <label class="lang en" for="inputPassword1">Your role</label>
+            <label class="lang ja" for="inputPassword1">職種</label>
+            <input type="text" class="form-control" id="inputName" placeholder="Evangelist" name="title" />
+            <small id="titleHelp" class="lang en form-text text-muted">eg. Evangelist, advocate, community manager etc.</small>
+            <small id="titleHelp" class="lang ja form-text text-muted">例）エバンジェリスト、アドボケイト、コミュニティマネージャなど</small>
+          </div>
+          <div class="form-group">
+            <label class="lang en" for="inputPassword1">Your name</label>
+            <label class="lang ja" for="inputPassword1">名前</label>
+            <input type="text" class="form-control" id="inputName" placeholder="John Doe" name="name" required />
+          </div>
+          <div class="form-group">
+            <label class="lang en" for="inputEmail1">Email address</label>
+            <label class="lang ja" for="inputEmail1">メールアドレス</label>
+            <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Enter email" name="email" required />
+            <small id="emailHelp" class="lang en form-text text-muted">We'll never share your email with anyone else.</small>
+            <small id="emailHelp" class="lang ja form-text text-muted">あなたのメールアドレスを他の人と共有することはありません</small>
+          </div>
+          <div class="form-group form-check">
+            <label class="form-check-label" for="exampleCheck1">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1" name="inform" value="1" checked />
+              <span class="lang en"> Please keep me informed</span>
+              <span class="lang ja"> 更新情報を受け取る</span>
+            </label>
+          </div>
+          <div class="alert alert-success register-form register-success" role="alert">
+            <span class="lang en">Thank you for your registration! Please stay tuned!</span>
+            <span class="lang ja">ご登録ありがとうございます！アップデートをお待ちください！</span>
+          </div>
+          <div class="alert alert-danger register-form register-danger" role="alert">
+            <span class="lang en">Something errors happened. Please re-try registration later.</span>
+            <span class="lang ja">エラーが発生しました。再度実行してください。</span>
+          </div>
+          <button type="submit" class="register lang ja btn btn-primary">参加登録する</button>
+          <button type="submit" class="register lang en btn btn-primary">Register!</button>
+        </form>
       </div>
     </div>
   </div>
 </div>
--->
