@@ -72,7 +72,9 @@ $(function () {
     acl
       .setRoleReadAccess('admin', true)
       .setRoleWriteAccess('admin', true);
-    participate.set('acl', acl)
+    participate
+      .set('acl', acl)
+      .set('imported', false);
     try {
       await participate.save();
       $('.register-success').show();
