@@ -1,0 +1,54 @@
+---
+layout: home
+permalink: /form
+---
+
+<div class="header" style="min-height: 60px;">
+</div>
+
+<div class="container" style="padding-top: 3em;">
+  <h1 class="lang en">🎉🎉 Congratulations! 🎉🎉</h1>
+  <h1 class="lang ja">🎉 おめでとうございます！🎉</h1>
+  <p class="lang en">Congrats on beating the DevRelCon quiz challenge! You have won the right to get an original mask.</p>
+  <p class="lang en">Please enter your information in the form below. <strong>We will not use this information for any purpose other than to send you the novelty.</strong></p>
+  <p class="lang en">We ship from Japan. If you live in Japan, please enter all information in Japanese. If you live outside of Japan, please enter all information in English.</p>
+  <p class="lang ja">DevRelConクイズ突破おめでとうございます！マスクゲットの権利を獲得しました！</p>
+  <p class="lang ja">下記フォームに情報を入力してください。<strong>入力された情報はノベルティ発送以外の目的に使われることはありません。</strong></p>
+  <p class="lang ja">日本発送になりますので、日本在住者はすべて日本語で入力してください。海外在住者はすべて英語で入力してください。</p>
+  <form id="entry">
+    <div class="form-group">
+      <label class="lang en" for="inputPassword1">Your name</label>
+      <label class="lang ja" for="inputPassword1">発送先のお名前</label>
+      <input type="text" class="form-control" id="inputCompany" placeholder="Your name" name="name" required />
+    </div>
+    <div class="form-group">
+      <label class="lang en" for="inputPassword1">Mask size</label>
+      <label class="lang ja" for="inputPassword1">マスクのサイズ</label>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="size" id="inlineRadio1" value="m" checked>
+        <label class="form-check-label" for="inlineRadio1">M</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="size" id="inlineRadio2" value="l">
+        <label class="form-check-label" for="inlineRadio2">L</label>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="lang en" for="inputPassword1">Delivery address (Include zip code and country)</label>
+      <label class="lang ja" for="inputPassword1">発送先住所（郵便番号も入力してください）</label>
+      <textarea class="form-control" id="inputName" name="address" rows="8" required></textarea>
+    </div>
+    <div class="alert alert-success register-form register-success" role="alert">
+      <span class="lang en">Entry complete! Have a great DevRel day!</span>
+      <span class="lang ja">エントリー完了しました！素晴らしいDevRelライフを！</span>
+    </div>
+    <div class="alert alert-danger register-form register-danger" role="alert">
+      <span class="lang en">Something errors happened. Please re-try registration later.</span>
+      <span class="lang ja">エラーが発生しました。再度実行してください。</span>
+    </div>
+    <button type="submit" class="register lang en btn btn-primary">Submit!</button>
+    <button type="submit" class="register lang ja btn btn-primary">エントリーする</button>
+  </form>
+  <p></p>
+</div>
+

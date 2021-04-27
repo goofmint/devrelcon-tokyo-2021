@@ -23,6 +23,7 @@ const strWidth = (str) => {
 }
 
 $(function () {
+  console.log('here')
   $('a.scrollnav[href^="#"],.ticket').click(function(event) {
     var id = $(this).attr("href");
     var offset = 60;
@@ -82,6 +83,57 @@ $(function () {
       $('.register-danger').show();
     }
   });
+
+  if (document.querySelector('#entry')) {
+    (async () => {
+      const objectId = url('?id');
+      const sessionToken = url('?s');
+      if (!objectId || !sessionToken) {
+        alert("You can't access here without secret code");
+        location.href = '/';
+        return;
+      }
+      ncmb.sessionToken = sessionToken;
+      const Register = ncmb.DataStore('Register');
+      let register;
+      try {
+        register = await Register.equalTo('objectId', objectId).fetch();
+        if (!register.objectId) {
+          alert('Your code is invalid or expired!');
+          return;
+        }
+      } catch (e) {
+        alert('Your code is invalid or expired!');
+        location.href = '/';
+        return;
+      }
+
+      $('#entry').on('submit', async (e) => {
+        e.preventDefault();
+        $('.register-form').hide();
+        const params = serializeForm(e.target);
+        const entry = new (ncmb.DataStore('Entry'));
+        for (const key in params) {
+          entry.set(key, params[key]);
+        }
+        const acl = new ncmb.Acl;
+        acl
+          .setRoleReadAccess('admin', true)
+          .setRoleWriteAccess('admin', true);
+        entry
+          .set('acl', acl)
+          .set('imported', false);
+        try {
+          await entry.save();
+          await register.delete();
+          $('.register-success').show();
+        } catch (e) {
+          console.log(e);
+          $('.register-danger').show();
+        }
+      });
+    })();
+  }
 });
 
 const serializeForm = (form) => {
