@@ -1,11 +1,8 @@
 [
   {
-    "track": "",
     "id": "moongift",
     "type": "group",
     "name_en": "MOONGIFT",
-    "owner": "",
-    "": "",
     "name_ja": "MOONGIFT",
     "title_en": "Local organizer",
     "title_ja": "主催者",
@@ -17,15 +14,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "MOONGIFT",
-    "company_ja": "MOONGIFT"
+    "company_ja": "MOONGIFT",
+    "": ""
   },
   {
-    "track": "",
     "id": "devrelmeetup",
     "type": "group",
     "name_en": "DevRel Meetup in Tokyo",
-    "owner": "",
-    "": "",
     "name_ja": "DevRel Meetup in Tokyo",
     "title_en": "Local organizer",
     "title_ja": "主催者",
@@ -37,15 +32,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "",
-    "company_ja": ""
+    "company_ja": "",
+    "": ""
   },
   {
-    "track": "",
     "id": "hoopy",
     "type": "group",
     "name_en": "Hoopy",
-    "owner": "",
-    "": "",
     "name_ja": "Hoopy",
     "title_en": "Original organizer",
     "title_ja": "オリジナルオーガナイザー",
@@ -57,15 +50,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "Hoopy",
-    "company_ja": "Hoopy"
+    "company_ja": "Hoopy",
+    "": ""
   },
   {
-    "track": "c",
     "id": "atsushi",
     "type": "member",
     "name_en": "Atsushi",
-    "owner": "Atsushi",
-    "": "",
     "name_ja": "アツシ",
     "title_en": "CEO",
     "title_ja": "CEO",
@@ -77,15 +68,13 @@
     "profile_en": "CEO of MOONGIFT Inc. in Japan. Ruby and JavaScript/Node.js Programmer. I manage Web site named MOONGIFT that introduce Open source Software everyday to Japanese programmers from 2004. It is the biggest Open source information site in Japan. I started DevRel service from 2014. I have a knowledge of developing content for programmers. We have several clients in Japan.",
     "profile_ja": "株式会社MOONGIFT代表取締役。ニフクラ mobile backend エバンジェリスト。プログラマ、エンジニアとしていくつかの企業で働き、28歳のときに独立。2004年、まだ情報が少なかったオープンソースソフトの技術ブログ『MOONGIFT』を開設し、毎日情報を発信している。2013年に法人化、ビジネスとエンジニアを結ぶエバンジェリスト業「DevRel」活動をスタートした。",
     "company_en": "MOONGIFT",
-    "company_ja": "MOONGIFT"
+    "company_ja": "MOONGIFT",
+    "": ""
   },
   {
-    "track": "a",
     "id": "taiji",
     "type": "member",
     "name_en": "Taiji Hagino",
-    "owner": "Taiji Hagino",
-    "": "",
     "name_ja": "萩野 たいじ",
     "title_en": "Customer Success Manager",
     "title_ja": "カスタマーサクセスマネージャー",
@@ -97,15 +86,13 @@
     "profile_en": "Taiji is Customer Success Manager at IBM, web, mobile, and blockchain specialist.\\n\\nBefore IBM, he led developer relations program at Mitsui Knowledge Industry. He used to be a musician and hairdresser. Ex-Microsoft MVP. \\nHe also leads Node-RED User Group Japan, DevRel Meetup in Tokyo, and more communities. Ale beer and caffeine junkie.",
     "profile_ja": "IBM カスタマーサクセスマネージャー ウェブ・モバイル・ブロックチェーンスペシャリスト\\n\\nIBMに参画する前は三井情報にてDeveloper Relationsプログラムに従事。Microsoft MVPも経験。元美容師にて元音楽家。Node-REDユーザーグループ JapanやDevRel Meetup in Tokyoなど多くのコミュニティをリード。エールビールとコーヒーが大好き。",
     "company_en": "IBM",
-    "company_ja": "IBM"
+    "company_ja": "IBM",
+    "": ""
   },
   {
-    "track": "a",
     "id": "odasho",
     "type": "member",
     "name_en": "odasho",
-    "owner": "Taiji Hagino",
-    "": "",
     "name_ja": "おだしょー",
     "title_en": "Evangelist",
     "title_ja": "エバンジェリスト",
@@ -117,15 +104,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "Microsoft Japan",
-    "company_ja": "日本マイクロソフト"
+    "company_ja": "日本マイクロソフト",
+    "": ""
   },
   {
-    "track": "c",
     "id": "tarotaro4",
     "type": "member",
     "name_en": "Taro Kawashita",
-    "owner": "Atsushi",
-    "": "",
     "name_ja": "川下 太郎",
     "title_en": "",
     "title_ja": "",
@@ -137,15 +122,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "Sony",
-    "company_ja": "ソニー"
+    "company_ja": "ソニー",
+    "": ""
   },
   {
-    "track": "b",
     "id": "yasunori",
     "type": "member",
     "name_en": "Yasunori Kihara",
-    "owner": "Daizen Ikehara",
-    "": "",
     "name_ja": "木原 康智",
     "title_en": "",
     "title_ja": "",
@@ -157,15 +140,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "Hatena",
-    "company_ja": "はてな"
+    "company_ja": "はてな",
+    "": ""
   },
   {
-    "track": "b",
     "id": "ai",
     "type": "member",
     "name_en": "Ai Naito",
-    "owner": "Daizen Ikehara",
-    "": "",
     "name_ja": "内藤 愛",
     "title_en": "Communication Specialsit",
     "title_ja": "コミュニケーションスペシャリスト",
@@ -177,15 +158,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "App Annie Japan",
-    "company_ja": "アップアニー"
+    "company_ja": "アップアニー",
+    "": ""
   },
   {
-    "track": "b",
     "id": "neri78",
     "type": "member",
     "name_en": "Daizen Ikehara",
-    "owner": "Daizen Ikehara",
-    "": "",
     "name_ja": "池原 大然",
     "title_en": "Developer Evangelist",
     "title_ja": "デベロッパーエバンジェリスト",
@@ -197,15 +176,13 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "Twilio",
-    "company_ja": "Twilio"
+    "company_ja": "Twilio",
+    "": ""
   },
   {
-    "track": "c",
     "id": "iganari",
     "type": "member",
     "name_en": "Toru Igarashi",
-    "owner": "Atsushi",
-    "": "Site Reliability Engineer",
     "name_ja": "五十嵐 透",
     "title_en": "Site Reliability Engineer",
     "title_ja": "Site Reliability Engineer",
@@ -217,6 +194,7 @@
     "profile_en": "",
     "profile_ja": "",
     "company_en": "Cloud Ace",
-    "company_ja": "クラウドエース株式会社"
+    "company_ja": "クラウドエース株式会社",
+    "": "Site Reliability Engineer"
   }
 ]
