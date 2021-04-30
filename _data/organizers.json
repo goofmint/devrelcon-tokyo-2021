@@ -1,9 +1,9 @@
 [
   {
+    "track": "",
     "id": "moongift",
     "type": "group",
     "name_en": "MOONGIFT",
-    "track": "",
     "owner": "",
     "name_ja": "MOONGIFT",
     "title_en": "Local organizer",
@@ -20,10 +20,10 @@
     "": ""
   },
   {
+    "track": "",
     "id": "devrelmeetup",
     "type": "group",
     "name_en": "DevRel Meetup in Tokyo",
-    "track": "",
     "owner": "",
     "name_ja": "DevRel Meetup in Tokyo",
     "title_en": "Local organizer",
@@ -40,10 +40,10 @@
     "": ""
   },
   {
+    "track": "",
     "id": "hoopy",
     "type": "group",
     "name_en": "Hoopy",
-    "track": "",
     "owner": "",
     "name_ja": "Hoopy",
     "title_en": "Original organizer",
@@ -60,10 +60,10 @@
     "": ""
   },
   {
+    "track": "c",
     "id": "atsushi",
     "type": "member",
     "name_en": "Atsushi",
-    "track": "c",
     "owner": "Atsushi",
     "name_ja": "アツシ",
     "title_en": "CEO",
@@ -80,10 +80,10 @@
     "": ""
   },
   {
+    "track": "a",
     "id": "taiji",
     "type": "member",
     "name_en": "Taiji Hagino",
-    "track": "a",
     "owner": "Taiji Hagino",
     "name_ja": "萩野 たいじ",
     "title_en": "Customer Success Manager",
@@ -100,10 +100,10 @@
     "": ""
   },
   {
+    "track": "a",
     "id": "odasho",
     "type": "member",
     "name_en": "odasho",
-    "track": "a",
     "owner": "Taiji Hagino",
     "name_ja": "おだしょー",
     "title_en": "Evangelist",
@@ -120,10 +120,10 @@
     "": ""
   },
   {
+    "track": "c",
     "id": "tarotaro4",
     "type": "member",
     "name_en": "Taro Kawashita",
-    "track": "c",
     "owner": "Atsushi",
     "name_ja": "川下 太郎",
     "title_en": "",
@@ -140,10 +140,10 @@
     "": ""
   },
   {
+    "track": "b",
     "id": "yasunori",
     "type": "member",
     "name_en": "Yasunori Kihara",
-    "track": "b",
     "owner": "Daizen Ikehara",
     "name_ja": "木原 康智",
     "title_en": "",
@@ -160,10 +160,10 @@
     "": ""
   },
   {
+    "track": "b",
     "id": "ai",
     "type": "member",
     "name_en": "Ai Naito",
-    "track": "b",
     "owner": "Daizen Ikehara",
     "name_ja": "内藤 愛",
     "title_en": "Communication Specialsit",
@@ -180,10 +180,10 @@
     "": ""
   },
   {
+    "track": "b",
     "id": "neri78",
     "type": "member",
     "name_en": "Daizen Ikehara",
-    "track": "b",
     "owner": "Daizen Ikehara",
     "name_ja": "池原 大然",
     "title_en": "Developer Evangelist",
@@ -200,10 +200,10 @@
     "": ""
   },
   {
+    "track": "c",
     "id": "iganari",
     "type": "member",
     "name_en": "Toru Igarashi",
-    "track": "c",
     "owner": "Atsushi",
     "name_ja": "五十嵐 透",
     "title_en": "Site Reliability Engineer",
