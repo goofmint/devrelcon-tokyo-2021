@@ -6,7 +6,7 @@
     "name_en": "Microsoft",
     "url_ja": "https://azure.microsoft.com/ja-jp/",
     "url_en": "https://azure.microsoft.com/",
-    "size": "6",
+    "size": "4",
     "show": "true",
     "image": "microsoft"
   },
@@ -17,20 +17,20 @@
     "name_en": "Hatena",
     "url_ja": "https://hatenacorp.jp/",
     "url_en": "https://hatenacorp.jp/",
-    "size": "6",
+    "size": "4",
     "show": "true",
     "image": "hatena"
   },
   {
     "id": "orbit",
-    "type": "",
+    "type": "Gold",
     "name_ja": "Orbit",
-    "name_en": "",
-    "url_ja": "",
-    "url_en": "",
-    "size": "",
-    "show": "",
-    "image": ""
+    "name_en": "Orbit",
+    "url_ja": "https://orbit.love",
+    "url_en": "https://orbit.love",
+    "size": "4",
+    "show": "true",
+    "image": "orbit"
   },
   {
     "id": "legalforce",
