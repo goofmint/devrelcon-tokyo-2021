@@ -200,7 +200,7 @@
   {
     "id": "a-6",
     "title_en": "Strategies, Tech, and Tips for Delivering Memorable Virtual Demos",
-    "title_ja": "思い出に残るバーチャルデモを提供するための戦略、技術、およびヒント",
+    "title_ja": "心に残るバーチャルデモを行うための戦略、技術、ヒント",
     "description_en": "2020 demanded that we as developer relations pros re-invent the ways we virtually engage with communities. In this talk, we'll discuss the elements of a good virtual demo, cover tactical ways to set yourself up for success, and offer ideas about how to make your presentation setup professional.",
     "description_ja": "2020年には、我々が開発者との関係のプロのように、我々は事実上のコミュニティと係合する方法を再発明することを要求しました。本講演では、我々は戦術的な成功のために自分自身を設定する方法、およびプレゼンテーションの設定は、プロの作り方についてごアイデアをカバーし、優れた仮想デモの要素について説明します。",
     "category_en": "DevRel",
@@ -222,7 +222,7 @@
   {
     "id": "a-7",
     "title_en": "Introducing a Technical Writing Style Guide from Scratch",
-    "title_ja": "スクラッチからテクニカルライティングスタイルガイドの紹介",
+    "title_ja": "テクニカルライティング・スタイルガイドをゼロから導入する",
     "description_en": "Level up your developer experience, maintainer sanity, and more by implementing a technical writing style guide across all your technical content. Unsure where to start or how to do it? Let me guide you through the process, show you where I stumbled, and lead you to a standardization best practice.",
     "description_ja": "あなたの開発者の経験、メンテナの健全性、およびすべての技術的な内容全体テクニカルライティングのスタイルガイドを実装することで、よりレベルアップ。わからないどこから始めればまたはそれを行う方法？私は、プロセスをご案内しましょう、私がつまずいたところをお見せし、標準化のベストプラクティスにあなたを導きます。",
     "category_en": "DevRel",
@@ -244,7 +244,7 @@
   {
     "id": "a-8",
     "title_en": "How to activate quality DevRel activities using low-code and no-code tools!",
-    "title_ja": "どのようにアクティベート品質DevRel活動に低コードと無コードのツールを使用して！",
+    "title_ja": "ローコード・ノーコードツールを使って、質の高いDevRel活動を活性化する方法",
     "description_en": "No-code and low-code tools can connect technologies smoothly and positively affect the creativity of developers! This approach also has a brilliant effect on the DevRel scenes! I talk and show collaborating with these tools and DevRel as community organizers, speakers, and an external evangelist!",
     "description_ja": "無コードと低コードツールがスムーズに技術を接続し、積極的に開発者の創造性に影響を与えることができます！このアプローチは、DevRelシーンに華麗な効果を持っています！私が話をして、コミュニティの主催者、講演者、および外部のエバンジェリストとして、これらのツールとDevRelとのコラボレーションを示して！",
     "category_en": "DevRel",
@@ -266,7 +266,7 @@
   {
     "id": "a-9",
     "title_en": "Localization Beyond Translation",
-    "title_ja": "ローカライズを越え翻訳",
+    "title_ja": "翻訳を超えたローカリゼーション",
     "description_en": "Are you struggling with localizing contents to attract Japanese developers? Learn some of the things you should keep in mind when broadcasting contents that are localized from different source languages. I will share my experiences gained through my community activities and work at a global company.",
     "description_ja": "あなたは日本の開発者を引き付けるためにローカライズ内容で苦労していますか？異なるソース言語からローカライズされた内容を放送するときに心に留めておくべき事柄をいくつか紹介します。私はグローバル企業で私のコミュニティ活動と仕事を通して得られた私の経験を共有することになります。",
     "category_en": "DevRel",
@@ -288,7 +288,7 @@
   {
     "id": "b-1",
     "title_en": "Why you need a Developer Relations team for your API",
-    "title_ja": "あなたのAPI用のデベロッパーリレーションズチームを必要とする理由",
+    "title_ja": "APIにデベロッパーリレーションズチームが必要な理由",
     "description_en": "How do you build a trusted relationship with your users? How do you collect their feedback and ensure it is passed smoothly to your development teams? How do you ensure your users have the right tools and support to build successful applications using your APIs? ",
     "description_ja": "どのようにあなたのユーザーとの信頼関係を構築していますか？どのように彼らのフィードバックを収集し、それはあなたの開発チームにスムーズに渡されることを確認しますか？どのようにあなたのユーザーがあなたのAPIを使用して成功したアプリケーションを構築するための適切なツールとサポートを持っていることを確認しますか？",
     "category_en": "DevRel",
@@ -310,7 +310,7 @@
   {
     "id": "b-10",
     "title_en": "Successful Bilingual Events",
-    "title_ja": "成功したバイリンガルのイベント",
+    "title_ja": "バイリンガルイベントを成功させるために",
     "description_en": "Communities in Japan have a unique challenge:  Bilingualism is comparitively rare.  This talk details past events, both successful and not so successful as well as some tips for your own bilingual events.",
     "description_ja": "日本でのコミュニティは、ユニークな挑戦を持っている：バイリンガルはcomparitively稀です。本講演では、過去のイベント、両方とても成功成功していないだけでなく、あなた自身のバイリンガルのイベントのためにいくつかのヒントを詳しく説明します。",
     "category_en": "Community",
@@ -332,7 +332,7 @@
   {
     "id": "b-11",
     "title_en": "Lessons Learned from Cultivating Open Source Projects and Communities",
-    "title_ja": "育成のオープンソースプロジェクトとコミュニティからの教訓",
+    "title_ja": "オープンソースプロジェクトとコミュニティの育成から学んだこと",
     "description_en": "Over the last decade, I’ve had the privilege professionally of building and cultivating some Open Source projects and communities. I’ve grown other projects along the way some successful, and some not. I’ve learned a ton on this journey; honestly still am, and I want to tell this story.",
     "description_ja": "過去10年間、私は専門的にいくつかのオープンソースプロジェクトやコミュニティを構築し、育成の特権を持っていました。私はいくつかの成功の道に沿って他のプロジェクトを成長し、そしていくつかいませんでした。私はこの旅にトンを学びました。正直まだだ、と私はこの話をお伝えしたいと思います。",
     "category_en": "Community",
@@ -354,7 +354,7 @@
   {
     "id": "b-12",
     "title_en": "Reaching Developers Remotely - Using Twitch for Live Coding and Education",
-    "title_ja": "開発者はリモートでの到達 - ライブコーディングや教育のための単収縮を使用します",
+    "title_ja": "リモートの開発者へのアプローチ - Twitchを使ったライブコーディングと教育活動",
     "description_en": "With global lockdowns, how do you interact with and reach developers? In this talk we look at using Twitch as a platform for live coding and technical education. We look at how it helps both the target audience *and* internal developers, and some tips for increasing engagement.",
     "description_ja": "グローバルあなたはとの対話んどのようにロックダウンし、リーチの開発者では？本講演では、我々は、ライブコーディングや技術教育のためのプラットフォームとして単収縮を使用して見てください。私たちは、それがターゲットオーディエンス*と*内部の開発者、およびエンゲージメントを高めるためのいくつかのヒントの両方をどのように役立つかを見てください。",
     "category_en": "Remote",
