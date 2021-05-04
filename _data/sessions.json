@@ -376,7 +376,7 @@
   {
     "id": "b-13",
     "title_en": "The ins and outs of YouTube for Developer Advocates and Startups",
-    "title_ja": "開発者の支持者やスタートアップのためのYouTubeのインとアウト",
+    "title_ja": "デベロッパーアドボケイトとスタートアップのためのYouTubeの裏ワザ",
     "description_en": "Peeling back the curtain behind content creation on YouTube and how to grow your social presence from 0. This talk will focus on general strategies and case studies from successful brands such as Webflow, Thousand Ant, SyntaxFM and more to give you a foundational understanding of growing on YouTube.",
     "description_ja": "YouTubeのコンテンツ作成の後ろのカーテンをバック剥離し、どのように0からこの話をあなたの社会的プレゼンスを成長させることはあなたの成長の基礎理解を与えるためにこのようなWebflowの、サウザンド・アリ、SyntaxFMなど多くの成功したブランドから一般的な戦略と事例研究に焦点を当てますユーチューブで。",
     "category_en": "Remote",
@@ -398,7 +398,7 @@
   {
     "id": "b-2",
     "title_en": "Azure Heroes - A new fun way to engage with developer community",
-    "title_ja": "Azureの英雄 - 開発者コミュニティと係合するための新しい楽しい方法",
+    "title_ja": "Azure Heroes - 開発者コミュニティに参加するための新しい楽しい方法",
     "description_en": "Azure Heroes is a new fun way to earn digital collectibles for inclusive behaviour and meaningful impact in the technical community. Join me in this talk to hear how this program started and why it uses NFT tokens to issue these recognition badges.",
     "description_ja": "Azureの英雄は、技術的なコミュニティに包括的で行動し、意味のある影響のためのデジタルグッズを獲得するための新しい楽しい方法です。それはこれらの認識バッジを発行するNFTトークンを使用してどのようにこのプログラムが起動し、理由を聞くために、この話で私に参加。",
     "category_en": "Community",
@@ -420,7 +420,7 @@
   {
     "id": "b-3",
     "title_en": "How I Created a Facebook Developer Community With 50k+ Members",
-    "title_ja": "どのように私は50K +のメンバーと、Facebookの開発者コミュニティを作成しました",
+    "title_ja": "私はどのようにして5万人以上のメンバーを持つFacebook開発者コミュニティを作ったのか？",
     "description_en": "Cory Althoff, the author of The Self-Taught Programmer (独学プログラマー Python言語の基本から仕事のやり方まで) and 2019 PyCon JP opening keynote speaker, talks about how he created a Facebook group with over 50K developers.",
     "description_ja": "Cory Althoff, the author of The Self-Taught Programmer (独学プログラマー Python言語の基本から仕事のやり方まで) and 2019 PyCon JP opening keynote speaker, talks about how he created a Facebook group with over 50K developers.",
     "category_en": "Community",
@@ -442,7 +442,7 @@
   {
     "id": "b-4",
     "title_en": "The Ment Model - Winning WITH the community",
-    "title_ja": "リーメントモデル - コミュニティとの勝利",
+    "title_ja": "メントモデル - コミュニティで勝つために",
     "description_en": "Let’s admit it! It’s difficult to run a Community and ensure growth for its members and scale it and ensure it’s sustainability and produce consistent metrics! We want to share The Ment model, success stories, pain points and how it feels winning with your community!",
     "description_ja": "のは、それを是認してみましょう！これは、コミュニティを実行し、そのメンバーの成長を確保し、それを拡張し、それの持続可能性を確保し、一貫性のある指標を製造することは困難です！私たちは、リーメントモデル、サクセスストーリー、痛みのポイントとどのようにそれはあなたのコミュニティでの勝利感じを共有したいです！",
     "category_en": "Community",
@@ -464,7 +464,7 @@
   {
     "id": "b-5",
     "title_en": "Using Dashboards to Help Manage All Community Channels",
-    "title_ja": "すべてのコミュニティチャンネルを管理するためのダッシュボードを使用して",
+    "title_ja": "ダッシュボードを使って、すべてのコミュニティチャンネルを管理する",
     "description_en": "Apache Superset is a top 200 Github project, in terms of stars, and the community lives across Slack, StackOverflow, Github, Reddit, and more. In this talk, I'll discuss how we built useful, action-oriented dashboards to help us support and nurture the project's community across all channels.",
     "description_ja": "Apacheのスーパーセットは、星の観点から、トップ200のGithubプロジェクトであり、コミュニティは、より多くのスラック、StackOverflowの、Githubに、Redditに渡って住んでいる、と。本講演では、私たちは、私たちはすべてのチャネル間でのプロジェクトのコミュニティを支援し、育成を支援するために便利な、アクション志向のダッシュボードを構築してどのように説明します。",
     "category_en": "Community",
@@ -486,7 +486,7 @@
   {
     "id": "b-6",
     "title_en": "Building a new community - How do you do it",
-    "title_ja": "新しいコミュニティを構築する - あなたはそれをどのように行うのですか",
+    "title_ja": "新しいコミュニティを作るには？",
     "description_en": "As devrel's we are often on the lookout for new causes, technologies, and products we can explore and contribute. What if you had your own cause, for which you wanted to build a brand new community. Where do you find interested members, how do you encourage participation and maintain engagement.",
     "description_ja": "devrelだとして、我々は我々が探求し、貢献できる新しい要因、技術、製品に目を光らせていることが多いです。あなたは、あなたがブランドの新しいコミュニティを構築したかったため、独自の原因を、持っていた場合。あなたが興味のあるメンバーをどこに見つけるか、どのように参加を奨励し、エンゲージメントを維持します。",
     "category_en": "Community",
@@ -508,7 +508,7 @@
   {
     "id": "b-7",
     "title_en": "How to become a great communicator",
-    "title_ja": "偉大なコミュニケーターになる方法",
+    "title_ja": "優れたコミュニケーターになるには",
     "description_en": "Communication is a required skill and often a responsibility of the devrel team. It gives a chance to be kind and accountable to either side of the community and business. How to become great communication starts from where to do it, when to do it, how to listen to every stakeholder and community.",
     "description_ja": "通信が必要なスキルとしばしばdevrelチームの責任です。これは、地域社会やビジネスのいずれかの側に親切にし、説明責任をする機会を与えてくれます。それを行うにはどこから偉大な通信が開始になるためにどのように、それを行うに際に、どのようにすべての利害関係者とコミュニティに耳を傾けます。",
     "category_en": "Community",
@@ -530,7 +530,7 @@
   {
     "id": "b-8",
     "title_en": "Tips and Tricks for Building an Open Source Community Hub",
-    "title_ja": "オープンソースコミュニティのハブを構築するためのヒントとコツ",
+    "title_ja": "オープンソース・コミュニティ・ハブを構築するためのヒントとコツ",
     "description_en": "It's challenging to know which pieces of OSS software are maintained by a company, and which are maintained by the community. Implementing a community hub enables developers to better choose which pieces of open source code to implement in their own projects, and also empowers new contributors.",
     "description_ja": "OSSのソフトウェアの一部は会社によって維持されているかを知るために挑戦だし、これはコミュニティによって維持されています。コミュニティのハブを実装することは、より良いオープンソースコードの断片が、自分のプロジェクトに実装するかを選択するために、開発者を可能にし、また、新しい貢献者を支援します。",
     "category_en": "Community",
@@ -552,7 +552,7 @@
   {
     "id": "b-9",
     "title_en": "Hackathons : A source to empower developer communities",
-    "title_ja": "ハッカソン：EMPOWERの開発者コミュニティにAソース",
+    "title_ja": "ハッカソン : 開発者コミュニティを強化するソース",
     "description_en": "Hackathons are creative events that empower communities from diverse backgrounds to come together, collaborate on building innovative products and solutions. \nHackathons are all inclusive and encourage communities to have a growth mindset, create social impact, express and educate themselves.",
     "description_ja": "ハッカソンは、多様な背景からEMPOWERコミュニティは、一緒に来て、革新的な製品とソリューションの構築に協力することを創造的なイベントです。\nハッカソンはすべて含まれていますと、成長の考え方を持っている社会的影響を作成し、表現し、自分自身を教育するためにコミュニティを奨励します。",
     "category_en": "Community",
