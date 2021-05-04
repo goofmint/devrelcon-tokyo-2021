@@ -18,46 +18,6 @@
 
 <div class="schedule-wrapper">
   <div class="container">
-
-    <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist">
-      <li class="nav-item">
-        <a class="nav-link active" id="bizday-tab" data-toggle="tab" href="#bizday" role="tab" aria-controls="bizday" aria-selected="true">
-          <h3 class="lang en">Business Day</h3>
-          <h3 class="lang ja">ビジネスデー</h3>
-          <p class="lang en photo-credit">28th February, 2020</p>
-          <p class="lang ja photo-credit">2020年02月28日</p>
-        </a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" id="devday-tab" data-toggle="tab" href="#devday" role="tab" aria-controls="devday" aria-selected="false">
-          <h3 class="lang en">Developer Day</h3>
-          <h3 class="lang ja">デベロッパーデー</h3>
-          <p class="lang en photo-credit">29th February, 2020</p>
-          <p class="lang ja photo-credit">2020年02月29日</p>
-        </a>
-      </li>
-    </ul>
-
-    <div class="tab-content" id="myTabContent">
-
-
-      <!-- ================================================
-
-        28th
-
-      ==================================================-->
-      <div class="tab-pane fade show active" id="bizday" role="tabpanel" aria-labelledby="bizday-tab">
-        {% include sessions28.html %}
-      </div>
-
-      <!-- ================================================
-
-        29th
-
-      ==================================================-->
-      <div class="tab-pane" id="devday" role="tabpanel" aria-labelledby="devday-tab">
-        {% include sessions29.html %}
-      </div>
-    </div>
+    {% include sessions.html %}
   </div>
 </div>

@@ -375,15 +375,21 @@ a.nav-link:active {
 	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
 }
 .schedule-title-row,
-.schedule-title-row2 {
-	background-color: #FFCF02;
+.schedule-title-row2,
+.schedule-title-row3 {
+	background-color: #30ACEE;
+	color: #ffffff;
 	border-radius: 6px;
 	padding: 1em 1em 0em 1em;
 	margin-bottom: 1em;
 }
 .schedule-title-row2 {
+	color: #222;
+	background-color: #ffdbed;
+}
+.schedule-title-row3 {
 	color: #ffffff;
-	background-color: #02AFCC;
+	background-color: #555;
 }
 .schedule-time-row {
 	background-color: #ffffff;
@@ -928,3 +934,16 @@ ul.socials li{
   display: inline;
 	padding-right: 0.1rem;
 } 
+
+.color-fuji {
+	background-color: #30ACEE;
+	color: #ffffff;
+}
+.color-sakura {
+	color: #222;
+	background-color: #ffdbed;
+}
+.color-samurai {
+	color: #ffffff;
+	background-color: #555;
+}

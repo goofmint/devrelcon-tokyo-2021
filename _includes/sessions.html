@@ -1,0 +1,103 @@
+<div class="schedule-wrapper">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-right">
+        <select id="timezone">
+
+        </select>
+      </div>
+    </div>
+  </div>
+  {% for schedule in site.data.schedule %}
+    {% assign time = schedule[0] %}  
+    {% assign sessions = schedule[1] %}  
+    <div class="container">
+      {% if sessions.category_en == "Other" %}
+        {% assign session = sessions %}
+        <div class="schedule-single-row">
+          <div class="row">
+            <div class="col-md-2"><p class="red medium time" data-time="{{ time }}">{{ time }}</p></div>
+            <div class="col-md-10"><p class="medium">
+              <span class="lang en">{{ session.title_en }}</span>
+              <span class="lang ja">{{ session.title_ja }}</span>
+            </p></div>
+          </div>
+        </div>
+      {% elsif sessions.category_en == "Keynote" %}
+        {% assign session = sessions %}
+        <div class="container">
+          <div class="row">
+            <div class="schedule-title-row color-{{ session.track | downcase }} col-md-12"><p class="medium">
+              {{ session.track }}
+            </p></div>
+          </div>
+        </div>
+        <div class="schedule-block">
+          {% assign speaker = session.speakers[0] %}
+          <div class="row">
+            <div class="col-md-2"><p class="red medium time" data-time="{{ time }}">{{ time }}</p></div>
+            <div class="col-md-7">
+              <p class="medium photo-credit">
+                <a href="/speakers/{{ speaker.id }}/">
+                  <span class="lang en">{{ session.title_en }}</span>
+                  <span class="lang ja">{{ session.title_ja }}</span>
+                </a>
+              </p>
+              <p>
+                <span class="lang en">{{ speaker.name_en }}</span>
+                <span class="lang ja">{{ speaker.name_ja }}</span>
+                ,
+                <span class="lang en">{{ speaker.company_en }}</span>
+                <span class="lang ja">{{ speaker.company_ja }}</span>
+              </p>
+            </div>
+            <div class="col-md-3 d-flex justify-content-end">
+              <div class="profile-image">
+                <a href="/speakers/{{ speaker.id }}/">
+                  <picture>
+                    <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{speaker.id}}.webp" />
+                    <img loading="lazy" src="/assets/img/speakers/{{speaker.id}}.jpg" alt="{{ speaker.name_en }}">
+                  </picture>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- <hr> -->
+        </div>
+      {% else %}
+        <div class="container">
+          <div class="schedule-time-row">
+            <div class="row">
+              <div class="col-md-12">
+                <p class="red medium">
+                  <span class="time" data-time="{{ time }}">{{ time }}</span>〜<span class="time" data-time="{{ sessions.Fuji["1"].end_time_utc }}">{{ sessions.Fuji["1"].end_time_utc }}</span>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="schedule-title-row col mr-2">
+              <p class="medium" style="float:left">Fuji</p>
+              <!-- <div class="tag" style="float:right">Title</div> -->
+            </div>
+            <div class="schedule-title-row2 col mr-2">
+              <p class="medium" style="float:left">Sakura</p>
+              <!-- <div class="tag" style="float:right">Title</div> -->
+            </div>
+            <div class="schedule-title-row3 col mr-2">
+              <p class="medium" style="float:left">Samurai</p>
+              <!-- <div class="tag" style="float:right">Title</div> -->
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            {% include session.html sessions=sessions.Fuji %}
+            {% include session.html sessions=sessions.Sakura %}
+            {% include session.html sessions=sessions.Samurai %}
+          </div>
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

@@ -1,45 +1,36 @@
-require('json')
-json = JSON.parse(open('./_data/sessions.json').read)
+require 'json'
+require 'date'
+sessions = JSON.parse(open('./_data/sessions.json').read)
 speakers = JSON.parse(open('./_data/speakers.json').read)
 
-sessions = json.select {|s| s['date'] == '2901'}
-results = []
-last = nil
+results = {}
 sessions.each {|s|
-  s['speaker'] = speakers.select{|speaker| speaker['name_en'] == s['speakerName']}.first
-  if last && last['block'] == s['block']
-    results.last[s['time']] = [] unless results.last[s['time']]
-    results.last[s['time']] << s
-  else
-    options = {}
-    options[s['time']] = [s]
-    results << options
+  start_time = DateTime.parse(s['start_time_jst'])
+  start_time = start_time - Rational(9, 24)
+  start_time = start_time.strftime('%Y-%m-%d %H:%M')
+  s['start_time_utc'] = start_time
+  end_time = DateTime.parse(s['end_time_jst'])
+  end_time = end_time - Rational(9, 24)
+  end_time = end_time.strftime('%Y-%m-%d %H:%M')
+  s['end_time_utc'] = end_time
+  speaker1 = speakers.select{|sp| sp['id'] == s['first_speaker'] }.first
+  s['speakers'] = [speaker1]
+  if s['second_speaker'] != ''
+    speaker2 = speakers.select{|sp| sp['id'] == s['second_speaker'] }.first
+    s['speakers'] << speaker2
   end
-  last = s
-}
+  s['speaker_count'] = s['speakers'].size
+  results[start_time] = {} unless results[start_time]
+  results[start_time][s['track']] = {} unless results[start_time][s['track']]
 
-f = File.open('./_data/session29.json', 'w')
-f.write results.to_json
-f.close
-
-json = JSON.parse(open('./_data/sessions.json').read)
-sessions = json.select {|s| s['date'] == '2801'}
-results = []
-sessions.each {|s|
-  s['speaker'] = speakers.select{|speaker| speaker['name_en'] == s['speakerName']}.first
-  s['speaker2'] = speakers.select{|speaker| speaker['name_en'] == s['Second speaker=speakers:name_en']}.first
-  unless s['show'] == 'true'
-    s['title_en'] = 'Will be announced soon!'
-    s['title_ja'] = '間もなく発表されます'
-  end
-  if results.last && results.last.first['room'] == s['room']
-    results.last << s
+  if s['number'] != ''
+    results[start_time][s['track']][s['number'].to_i] = s
+    results[start_time][s['track']] = results[start_time][s['track']].sort.to_h
   else
-    results << [s]
+    results[start_time] = s
   end
 }
 
-f = File.open('./_data/session28.json', 'w')
+f = File.open('./_data/schedule.json', 'w')
 f.write results.to_json
 f.close
-

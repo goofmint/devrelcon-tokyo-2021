@@ -1,0 +1,39 @@
+<div class="schedule-split-row col mr-2">
+  {% for s in include.sessions %}
+    {% assign session = s[1] %}
+    {% if s[0] != "1" %}<hr />{% endif %}
+    <div class="row">
+      <div class="col-10">
+        <div style="float:left">
+          <p class="medium photo-credit">
+            <a href="/speakers/{{ session.speakers[0].id }}/">
+              <span class="lang en">{{ session.title_en }}</span>
+              <span class="lang ja">{{ session.title_ja }}</span>
+            </a>
+          </p>
+          <p>
+            {% for speaker in session.speakers %}
+              {% if forloop.index > 1 %}<br />{% endif %}
+                <span class="lang en">{{ speaker.name_en }}</span>
+                <span class="lang ja">{{ speaker.name_ja }}</span>{% if speaker.company_en != "" %},{% endif %}
+                <span class="lang en">{{ speaker.company_en }}</span>
+                <span class="lang ja">{{ speaker.company_ja }}</span>
+            {% endfor %}
+          </p>
+        </div>
+      </div>
+      <div class="col-2">
+        {% for speaker in session.speakers %}
+          <div class="profile-image" style="float:right">
+            <a href="/speakers/{{ speaker.id }}/">
+              <picture>
+                <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{speaker.id}}.webp" />
+                <img loading="lazy" src="/assets/img/speakers/{{speaker.id}}.jpg" alt="{{ speaker.name_en }}">
+              </picture>
+            </a>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
