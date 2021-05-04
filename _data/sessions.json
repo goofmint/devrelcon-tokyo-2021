@@ -936,13 +936,13 @@
     "show": "false",
     "first_speaker_name": "Daisuke Maki",
     "second_speaker_name": "",
-    "start_time_utc": "Mon Jul 05 2021 06:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Mon Jul 05 2021 15:30:00 GMT+0900 (日本標準時)",
-    "end_time_utc": "Mon Jul 05 2021 07:20:00 GMT+0900 (日本標準時)",
-    "end_time_jst": "Mon Jul 05 2021 16:20:00 GMT+0900 (日本標準時)",
+    "start_time_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
+    "start_time_jst": "Sat Jun 05 2021 15:30:00 GMT+0900 (日本標準時)",
+    "end_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
+    "end_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "number": "",
-    "start_at_utc": "Mon Jul 05 2021 06:30:00 GMT+0900 (日本標準時)",
-    "end_at_utc": "Mon Jul 05 2021 07:20:00 GMT+0900 (日本標準時)",
+    "start_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
+    "end_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "track": "c"
   }
 ]
