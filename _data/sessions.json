@@ -966,5 +966,27 @@
     "start_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 10:40:00 GMT+0900 (日本標準時)",
     "track": ""
+  },
+  {
+    "id": "o-1",
+    "title_en": "Welcome to DevRelCon Tokyo 2021!",
+    "title_ja": "開催のご挨拶",
+    "description_en": "",
+    "description_ja": "",
+    "category_en": "Other",
+    "first_speaker": "",
+    "second_speaker": "",
+    "category_ja": "その他",
+    "show": "true",
+    "first_speaker_name": "",
+    "second_speaker_name": "",
+    "start_time_utc": "Fri Jun 04 2021 23:00:00 GMT+0900 (日本標準時)",
+    "start_time_jst": "Sat Jun 05 2021 08:00:00 GMT+0900 (日本標準時)",
+    "end_time_utc": "Fri Jun 04 2021 23:20:00 GMT+0900 (日本標準時)",
+    "end_time_jst": "Sat Jun 05 2021 08:20:00 GMT+0900 (日本標準時)",
+    "number": "",
+    "start_at_utc": "",
+    "end_at_utc": "",
+    "track": ""
   }
 ]
