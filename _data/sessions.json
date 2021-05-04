@@ -684,7 +684,7 @@
   {
     "id": "c-2",
     "title_en": "How to use Twitch and live streaming to build your Developer Relations fan-base",
-    "title_ja": "お使いのデベロッパーリレーションズのファンベースを構築するために単収縮やライブストリーミングを使用する方法",
+    "title_ja": "デベロッパー・リレーションズのファンを増やすためのTwitchとライブストリーミングの使い方",
     "description_en": "Since COVID, many events have gone online. What's one of the best ways to interact with your audience? There's the usual conferences and hackathons, but what about interacting on a weekly basis?\n\nAt GitHub, we've been using live streaming as a way to engage with our users, come and learn top tips!",
     "description_ja": "COVID以来、多くのイベントは、オンラインで行っています。あなたの聴衆と対話するための最良の方法の一つは何ですか？通常の会議やハッカソンが、何週単位での相互作用についてはありますか？\n\nGitHubので、我々は、我々のユーザーと係合来て、一番上のヒントを学ぶための方法として、ライブストリーミングを使用してきました！",
     "category_en": "Remote",
@@ -706,7 +706,7 @@
   {
     "id": "c-3",
     "title_en": "A new philosophy for remote events",
-    "title_ja": "リモートイベントのための新しい哲学",
+    "title_ja": "リモートイベントの新しい哲学",
     "description_en": "In-person events are amazing, but they won't be back for some time. For now, remote events will have to do -- but they are painful to create, and no fun to attend! In this talk, we'll learn how EventLoop fosters a more intuitive, holistic, engaging, and measurable approach to online events!",
     "description_ja": "では、人のイベントは驚くべきものだが、彼らはしばらくの間バックされません。ここでは、リモートのイベントは行う必要があります - しかし、彼らは出席するために作成することが苦痛ではない、と何の楽しみ！この講演では、イベントループがオンラインイベントにより、直感的な全体論的な、魅力的、かつ測定可能なアプローチを育成方法を学びます！",
     "category_en": "Remote",
@@ -728,7 +728,7 @@
   {
     "id": "c-4",
     "title_en": "Incredible Business Value of Developer Community",
-    "title_ja": "開発者コミュニティの信じられないほどのビジネス価値",
+    "title_ja": "開発者コミュニティのビジネス価値",
     "description_en": "To grow a sustainable business building a developer community is essential.\nIn this talk I will share about key business outcomes that community can drive, why investing in building developer community is important for business & insights from my survey on how communities are helping businesses grow",
     "description_ja": "開発者コミュニティの構築、持続可能なビジネスを成長させるためには不可欠です。\n本講演では、私はコミュニティがドライブできることを主要なビジネス成果について共有することになり、なぜ開発者コミュニティの構築に投資することは地域社会が、企業の成長を支援している方法についての私の調査からビジネス＆洞察のために重要です",
     "category_en": "Business",
@@ -750,7 +750,7 @@
   {
     "id": "c-5",
     "title_en": "Defining messaging for your developer targeted product",
-    "title_ja": "あなたの開発者対象の製品のためのメッセージングの定義",
+    "title_ja": "開発者向け製品のメッセージングの定義",
     "description_en": "Good messaging is essential if you want your product to stand out amongst everything else that's vying for developer attention.\n\nIn this talk, you'll learn how to focus on the essential characteristics of your product and present them in a way that relates to the needs of your target developers.",
     "description_ja": "あなたはあなたの製品は、開発者の注目を争っています他のすべての中で目立つようにしたい場合は良いメッセージングが不可欠です。\n\n本講演では、あなたの製品の本質的な特徴に焦点を当て、あなたのターゲットの開発者のニーズに関連した方法でそれらを提示する方法を学びます。",
     "category_en": "Business",
@@ -772,7 +772,7 @@
   {
     "id": "c-6",
     "title_en": "DevRel for tech. entrepreneurs: Beyond platform partners",
-    "title_ja": "ハイテクためDevRel。起業家：ビヨンド・プラットフォーム・パートナー",
+    "title_ja": "技術系起業家のためのDevRel。プラットフォーム・パートナーを超えて",
     "description_en": "Shopify app is not just a plugin to our platform but a cloud service itself valuable for our merchants which needs tech. entrepreneurs. The talk is on how we do DevRel to generate new app developer partners successful in their app business beyond mere tech. partners who use our platform only.",
     "description_ja": "Shopifyアプリはちょうど私たちのプラットフォームへのプラグインが、ハイテクを必要とする私達の商人のための貴重なクラウドサービス自体ではありません。起業家。話は、私たちが単なる技術を超えた彼らのアプリビジネスで成功した新しいアプリの開発パートナーを生成するDevRelを行う方法です。唯一のプラットフォームを使用してパートナー。",
     "category_en": "Business",
@@ -794,7 +794,7 @@
   {
     "id": "c-7",
     "title_en": "DevRel for Startups: What your founder and investors care about",
-    "title_ja": "スタートアップのためのDevRel：あなたの創業者と投資家が気に何",
+    "title_ja": "スタートアップのためのDevRel 創業者や投資家が気にすること",
     "description_en": "With the surge in DevRel and community-led startups, the VCs and founders are relying on DevRel Managers a lot.\nWhat are some key KPIs that your founder and investors care about? What is your DevRel team’s ultimate defensibility?\nJoin this talk to learn everything about DevRel in startups.",
     "description_ja": "DevRelの急増とコミュニティ主導の新興企業で、ベンチャーキャピタルと創業者はDevRelマネージャに多くを頼っています。\nあなたの創業者と投資家が気にすることを、いくつかの重要なKPIは何ですか？あなたのDevRelチームの究極の弁護力とは何ですか？\nスタートアップにDevRelについてのすべてを学ぶためにこの話をしましょう。",
     "category_en": "Business",
@@ -816,7 +816,7 @@
   {
     "id": "c-8",
     "title_en": "Becoming a Manager in DevRel",
-    "title_ja": "DevRelでマネージャーになってきて",
+    "title_ja": "DevRelでのマネージャー就任について",
     "description_en": "Working as a team member in DevRel can be challenging. Working as a *manager* in DevRel is a different kind of challenge. It can even be a bit overwhelming.\n\nWe’ll talk about tips for success and mistakes to avoid when taking those first few steps as a manager in DevRel.",
     "description_ja": "DevRelでチームの一員として働いて挑戦することができます。 DevRelに* *マネージャーとして働くことは挑戦の異なる種類です。それも、少し圧倒することができます。\n\nDevRelでマネージャーとして、それらの最初のいくつかの手順を取ったときに我々は避けるために、成功するためのヒントやミスについて話しましょう。",
     "category_en": "Business",
@@ -838,7 +838,7 @@
   {
     "id": "c-9",
     "title_en": "Shipping API Documentation - Floating through the process",
-    "title_ja": "APIドキュメントを配送 - プロセスを通じてフローティング",
+    "title_ja": "APIドキュメントの出荷 - プロセスの浮遊",
     "description_en": "Generating API documentation should not be a hassle to anyone anymore at this point, but how do you ensure that all the requirements from different stakeholders & end users are met for your documentation. And how to automate that process, join this session to hear about one approach!",
     "description_ja": "APIドキュメントを生成すると、この時点ではもう誰にも面倒ではないはずですが、どのように異なる利害関係者とエンドユーザーからのすべての要件は、あなたの文書のために満たされていることを確認します。そして、そのプロセスを自動化する方法を、1つのアプローチを聞いて、このセッションに参加！",
     "category_en": "Business",
@@ -860,7 +860,7 @@
   {
     "id": "k-1",
     "title_en": "Working tightly with Dev Rel and Dev Marketing",
-    "title_ja": "デベロッパーのRelとDevのマーケティングと緊密に作業します",
+    "title_ja": "DevRelと開発マーケティングとの緊密な連携",
     "description_en": "A successful working relationship between engineers and community managers is based on trust, shared goals, and a mutual commitment to herding cats. In this talk, we’ll cover the importance of breaking down silos between your DevRel engineers and product leads to give your community the best content at the right times.\n\nCarol will go over how to partner with your Dev Advocates on upcoming launch opportunities, how we structure different levels of GTM into every piece of content our Dev Advocates put out, and how to build a tight bond of trust through virtual coffee chats, daily video standups, and shared goals.\n",
     "description_ja": "エンジニアやコミュニティマネージャー間の正常な仕事上の関係は、信頼、共通の目標、および牧畜猫への相互のコミットメントに基づいています。本講演では、我々はあなたのコミュニティに適切なタイミングで最高のコンテンツを与えるためにあなたのDevRelエンジニアや製品のリード間のサイロを破壊することの重要性をカバーします。\n\nあなたのDevは私達が私達のデベロッパーが出して擁護者、そしてどのように仮想コーヒーチャットを通じて信頼関係の緊密な結合を構築するために、日々のビデオコンテンツのすべての部分にGTMの異なるレベルを構造化する方法、今後の打上げ機会に支持者とキャロルは、どのようにパートナーにオーバー行きます等身大パネル、および共通の目標。\n",
     "category_en": "",
@@ -882,7 +882,7 @@
   {
     "id": "k-2",
     "title_en": "Reimagining the future of work for Developers",
-    "title_ja": "開発者のための仕事の将来をReimagining",
+    "title_ja": "開発者のための仕事の未来を再考する",
     "description_en": "To thrive in this unexpected new era, our nation and industries need to be agile enough to respond to volatility in real time. As technology underpins this agile transformation, the role developers need to play is also undergoing a massive shift. Much like the gap between developers and operations teams brought about Devops, its time now for developers to integrate far more tightly with business leadership to help companies navigate the economic turmoil leveraging tech. I'll talk about 5 skills the new developer needs to master beyond tech alone to realize the potential - BizDEv teams, Tech Intensity, Culture of Rapid experimentation, Measuring right and Leading for synergy.",
     "description_ja": "この予想外の新たな時代に繁栄するために、私たちの国と産業はリアルタイムで変動性に対応するためにアジャイル十分にする必要があります。技術は、このアジャイル変革を支えとして、開発者が遊びに必要な役割も大規模なシフトを受けています。多くDevOpsチームをもたらし、開発者と運用チームの間のギャップのように、その時間は今、開発者は、ヘルプの企業にビジネスのリーダーシップをはるかに緊密に統合するための技術を活用し、経済的混乱をナビゲートします。 BizDEvチーム、テック強度、迅速な実験の文化は、右の測定と相乗効果のための主要な - 私は可能性を実現するために単独でハイテクを超えてマスタに5つのスキルの新しい開発者のニーズについて話しましょう。",
     "category_en": "",
@@ -904,7 +904,7 @@
   {
     "id": "k-3",
     "title_en": "Rebuilding Trust in Government through Open Source Governance",
-    "title_ja": "オープンソース・ガバナンスを通じて政府の信頼を再構築",
+    "title_ja": "オープンソースガバナンスによる政府への信頼を回復させる方法",
     "description_en": "In an uncertain and rapidly changing society, a collaboration between the public and private sectors is essential for the government to provide quality services.\nWithout the public's trust, innovation will not be born because people will not accept challenges.\nThe open governance model of open source communities is one way for governments to gain citizens' trust because it is highly transparent and makes the decision-making process visible.\nIn this session, I will introduce Civic Tech's situation in Japan, focusing on the case of the Tokyo Metropolitan Government's COVID-19 response website.",
     "description_ja": "政府は、質の高いサービスを提供するために不確実かつ急速に変化する社会では、公共部門と民間部門間の連携が不可欠です。\n人々は挑戦を受け入れないため、国民の信頼がなければ、イノベーションが生まれることはありません。\nそれは非常に透明であり、意思決定プロセスを可視にしているため、オープンソースコミュニティのオープンガバナンスモデルは、政府が市民の信頼を獲得するための一つの方法です。\nこのセッションでは、私は東京都のCOVID-19応答のウェブサイトの場合に焦点を当て、日本における市民Techの状況を紹介します。",
     "category_en": "",
@@ -926,7 +926,7 @@
   {
     "id": "k-4",
     "title_en": "It's OK to Burn Out",
-    "title_ja": "バーンアウトすることのOK",
+    "title_ja": "燃え尽きてもいいじゃないか",
     "description_en": "While organizing conferences and events for the community is an extremely rewarding experience, we often do not discuss the downsides for leading such activities. In this talk I will share my experience of building a community conference from a few hundred people to over 2100 attendees, and then to be completely burnt out, and finally breaking down. We often avoid admitting that we were broken, but it’s better than harming yourself: It’s okay to burn out. By sharing this story, I hope to assure you that admitting that you are burnt out, and to walk away from such positions is okay. ",
     "description_ja": "コミュニティのための会議やイベントを開催することは、非常にやりがいのある経験ですが、私たちはしばしば、このような活動をリードするためのマイナス面については説明しません。本講演では、私は2100を超える参加者に数百人からコミュニティ会議を構築する私の経験を共有することになり、その後、完全に燃え尽き、そして最終的に破壊することを。私達は私達が壊れたことを認めることが多いを避けるが、それは自分自身を傷つけるよりはましだ：それは燃え尽きても大丈夫です。この物語を共有することで、私はあなたが焼損されており、このような位置から離れて歩いていることを認めることは大丈夫であることを保証するために願っています。",
     "category_en": "",
