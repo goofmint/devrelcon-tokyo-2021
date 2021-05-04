@@ -574,7 +574,7 @@
   {
     "id": "c-1",
     "title_en": "The Struggle of  online conferences in the time of COVID-19",
-    "title_ja": "COVID-19のタイムでオンライン会議の闘争",
+    "title_ja": "COVID-19の時代におけるオンライン会議の奮闘記",
     "description_en": "I'd like to share about several challenges for online conferences:\n\n- stimulating communication for online events\n- conducting Q&A sessions\n- planning sessions for online events",
     "description_ja": "私は、オンライン会議のためのいくつかの課題について共有したいです：\n\n - オンラインイベントのための通信を刺激します\n - 実施Q＆Aセッション\n - オンラインイベントのための計画セッション",
     "category_en": "Remote",
@@ -596,7 +596,7 @@
   {
     "id": "c-10",
     "title_en": "Public Speaking without Barfing on Your Shoes",
-    "title_ja": "公開はあなたの靴にBarfingずに言えば",
+    "title_ja": "緊張で卒倒せずに人前で話すには",
     "description_en": "Sooner or later, we are called on to speak. Out loud. In front of people. Public speaking strikes fear into the hearts of nearly everyone! In this fun and light-hearted talk, introverts and extroverts alike will walk away with practical tips on preparing and giving effective presentations.",
     "description_ja": "遅かれ早かれ、我々は話をする上で呼ばれています。大声で。人の前で。人前で話すのストライキは、ほぼ全員の心に恐怖します！この楽しさと快活な話では、同様に内向と外向性は準備して効果的なプレゼンテーションを行う上での実用的なヒントを離れて歩いていきます。",
     "category_en": "Business",
@@ -618,7 +618,7 @@
   {
     "id": "c-11",
     "title_en": "Docs as DevRel: lessons from redesigning our first impression",
-    "title_ja": "私たちの第一印象を再設計からの教訓：DevRelとしてドキュメント",
+    "title_ja": "開発者としてのドキュメント：第一印象を再設計することから得られる教訓",
     "description_en": "In 2019 Daily pivoted from video hardware to software. In 2020 an unexpected number of developers googled \"add video calls to app\" and found Daily’s API.\n\nThe product shift plus an adoption uptick meant we outgrew our original docs. This talk will share how we redesigned our first impression.",
     "description_ja": "2019年デイリーは、ソフトウェアにビデオハードウェアから旋回し。 2020年に開発者の予想外の数は、「アプリにビデオ通話を追加」Googleで検索し、毎日のAPIを見つけました。\n\n製品のシフトプラス採用景気改善は、我々は、元のドキュメントをoutgrew意味しました。本講演では、我々は我々の最初の印象を再設計方法を共有することになります。",
     "category_en": "Development",
@@ -640,7 +640,7 @@
   {
     "id": "c-12",
     "title_en": "Hackathons - Gateway To Collaboration & OpenSource",
-    "title_ja": "ハッカソン - ゲートウェイにコラボレーション＆オープンソース",
+    "title_ja": "ハッカソン - コラボレーションとオープンソースへのゲートウェイ",
     "description_en": "Hackathons are an incredible way to bring your community together to learn new skills, build amazing projects & share ideas.\n\nIt's also great way to kickstart the journey with Programming, Collaboration & OpenSource.\n\nWith experience of 50+ Hackathons, the session covers everything about Hackathons.",
     "description_ja": "ハッカソンは素晴らしいプロジェクト＆シェアのアイデアを構築し、新しいスキルを習得するために一緒にあなたのコミュニティを持って信じられない方法です。\n\nまた、プログラミング、コラボレーション＆オープンソースで旅をキックスタートするのに最適な方法です。\n\n50+ハッカソン、ハッカソンに関するセッションカバーのすべての経験を持ちます。",
     "category_en": "Development",
@@ -662,7 +662,7 @@
   {
     "id": "c-13",
     "title_en": "The New DevRel of No-Code Era - for Citizen Developers",
-    "title_ja": "シチズン開発者のための - 無規範時代の新DevRel",
+    "title_ja": "ノーコード時代の新しいDevRel - 市民開発者のために",
     "description_en": "Recently,  No-Code tools for Citizen Developers come up in the many web news not only tech media.\n\nIn this session, I will share the 3 points required for the new type of developers, which I have earned from 36 months of experience of DevRel for a No-Code tool.",
     "description_ja": "最近、シチズン開発者のための無コードツールは、多くのWebニュースだけでなく、ハイテク、メディアに出てきます。\n\nこのセッションでは、私はノーコードツールのDevRelの経験の36カ月から獲得した開発者の新しいタイプのために必要な3ポイントを共有します。",
     "category_en": "Development",
