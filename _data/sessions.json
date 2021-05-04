@@ -68,7 +68,7 @@
   {
     "id": "a-12",
     "title_en": "Local and Global Devrel strategies by a Japanese company",
-    "title_ja": "日本企業によるローカルおよびグローバルDevrel戦略",
+    "title_ja": "日本企業のローカル＆グローバルなDevRel戦略",
     "description_en": "We introduce how Cybozu have worked on their DevRel strategies for their product Kintone.\nWorkshops and hackathons are the norm, but Cybozu have also invested in methods like Maker Faires, youtube channels and technical mangas.\nGlobal outreach efforts are also generated from Japan.",
     "description_ja": "私たちは、サイボウズが自社の製品Kintoneのために彼らのDevRel戦略に取り組んできましたか紹介します。\nワークショップやハッカソンは当たり前ですが、サイボウズはまた​​、メーカーのFaires、ユーチューブのチャンネルや技術的な漫画のような方法で投資しています。\nグローバル・アウトリーチの努力は、日本から生成されています。",
     "category_en": "DevRel",
@@ -90,7 +90,7 @@
   {
     "id": "a-13",
     "title_en": "A Love Letter to DevRels",
-    "title_ja": "DevRelsにAラブレター",
+    "title_ja": "DevRelへのラブレター",
     "description_en": "DevRels exploded in the last years. I work in software development for more than 10 years and the DevRels improved the Developer Experience to a whole new level: before we had to deal with arcane or non-existent docs. And I wanted to thank them all for the good work in this talk as \"love letter\"",
     "description_ja": "DevRelsは最後の年に爆発しました。 10年以上とDevRelsのソフトウェア開発における私の仕事は、全く新しいレベルに開発体験を改善：我々は難解なまたは存在しないドキュメントに対処しなければならなかったの前に。そして、私は「ラブレター」として、この話には良い仕事のためにそれらのすべてに感謝したいです",
     "category_en": "DevRel",
@@ -112,7 +112,7 @@
   {
     "id": "a-2",
     "title_en": "What's wrong (with) Devrel? ",
-    "title_ja": "Devrel（で）間違っては何ですか？",
+    "title_ja": "DevRelはどうした？ ",
     "description_en": "The Developer Relations community often struggles to justify its contribution to a business. This talk explores both sides of the argument in an attempt to bridge the gap between hard financial metrics demonstrating true impact and intrinsic value that can not be quantified. ",
     "description_ja": "デベロッパーリレーションズコミュニティは、多くの場合、ビジネスへの貢献を正当化するのに苦労します。本講演では、真の影響と定量化することができない本質的な価値を証明するハード財務指標との間のギャップを埋めるための試みで、引数の両側を探ります。",
     "category_en": "DevRel",
@@ -134,7 +134,7 @@
   {
     "id": "a-3",
     "title_en": "The profile of the future developer: Who will the next 10M developers be, and what value will they bring? ",
-    "title_ja": "将来の開発者のプロフィール：次10Mの開発者がなる、と彼らはどのような価値をもたらすのだろうか？",
+    "title_ja": "未来の開発者のプロフィール。次の1,000万人の開発者は誰で、どんな価値をもたらすのか？",
     "description_en": "Get insights on the evolution of developer and creator communities, emerging technologies and a developer's value. Based on data from 30K+ developers we discuss the changing developer profiles, how students shape the future, emerging technology adoption and how to estimate Developer Lifetime Value.",
     "description_ja": "開発者やクリエイターのコミュニティ、新技術や開発者の価値の進化についての洞察を取得します。 30K +開発者からのデータに基づいて、我々は、技術導入とどのように開発者の生涯価値を推定するために新興、学生が未来を形作るか、変更する開発者プロファイルを議論します。",
     "category_en": "DevRel",
@@ -156,7 +156,7 @@
   {
     "id": "a-4",
     "title_en": "Why does pizza company need DevRel?",
-    "title_ja": "なぜピザ会社はDevRel必要がありますか？",
+    "title_ja": "なぜピザ会社にはDevRelが必要なのか？",
     "description_en": "Pizza company from Russia and IT – how can it work together? \nToday we can't imagine a strong business without IT but does IT need DevRel. Why do we need it, how we’ve built our own DevRel in Dodo and what results it brings us today? Get acquainted with our approach in my speech.",
     "description_ja": "ロシアとITからのピザ会社 - どのようにそれは一緒に働くことができますか？\n今日はITなしで強力なビジネスを想像することはできませんが、それはDevRelを必要としません。なぜ我々はドドに私たち自身のDevRelを構築したか、それを必要とするものは、それが今日の私たちをもたらしなりますか？私の演説の中で我々のアプローチと知り合い。",
     "category_en": "DevRel",
@@ -178,7 +178,7 @@
   {
     "id": "a-5",
     "title_en": "The golden rules for Developer Relations",
-    "title_ja": "デベロッパーリレーションズのための黄金ルール",
+    "title_ja": "Developer Relationsの黄金律",
     "description_en": "In this talk I will share my personal experience and rules I followed to be very successful as a Master of Ceremonies, public speaker, trainer, blogger and community leader with over 160 talks in 37 countries. My inspiration will be  “The Golden rules” book by Bob Bowman, Michael Phelps coach.",
     "description_ja": "本講演では、私は私の個人的な経験を共有し、私は37カ国に160以上の会談で司会、講演者、トレーナー、ブロガーや地域社会のリーダーとして非常に成功するために続くルールます。私のインスピレーションは「ゴールデンルール」ボブ・ボウマン、マイケル・フェルプスのコーチの本になります。",
     "category_en": "DevRel",
