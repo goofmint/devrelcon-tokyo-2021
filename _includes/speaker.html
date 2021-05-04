@@ -52,8 +52,13 @@
   </div>
 </div>
 
-{% assign sessions = site.data.sessions | where: "id", speaker['First session=sessions:id'] %}
+{% assign sessions = site.data.sessions | where: "first_speaker", speaker.id %}
 {% assign session = sessions[0] %}
+{% if session %}
+{% else %}
+  {% assign sessions = site.data.sessions | where: "second_speaker", speaker.id %}
+  {% assign session = sessions[0] %}
+{% endif %}
 <div class="grey-bg" style="padding-top:100px;padding-bottom:100px;">
   <div class="container">
     <div class="col-lg-12">

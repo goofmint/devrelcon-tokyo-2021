@@ -11,8 +11,6 @@
 <body>
     {% include nav2.html %}
     <!-- Header -->
-    {% assign speaker = site.data.speakers | where: "id", page.id %}
-    {% assign speaker = speaker[0] %}
     {% include speaker.html speaker=speaker %}
     {% include script.html %}
     
