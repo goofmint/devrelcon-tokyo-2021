@@ -196,5 +196,23 @@
     "company_en": "Cloud Ace",
     "company_ja": "クラウドエース株式会社",
     "": "Site Reliability Engineer"
+  },
+  {
+    "id": "ayumiya",
+    "type": "member",
+    "name_en": "Ayumi Miyakawa",
+    "name_ja": "宮川 歩",
+    "title_en": "PR",
+    "title_ja": "広報",
+    "url": "https://hd.finatext.com/",
+    "twitter": "https://twitter.com/ayumiya_live",
+    "github": "",
+    "facebook": "https://www.facebook.com/miyakawa.ayumi/",
+    "linkedin": "https://www.linkedin.com/in/ayumi-miyakawa-985b72a9/",
+    "profile_en": "",
+    "profile_ja": "",
+    "company_en": "Finatext Holdings",
+    "company_ja": "Finatextホールディングス",
+    "": ""
   }
 ]
