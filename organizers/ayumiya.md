@@ -2,5 +2,5 @@
 layout: organizer
 permalink: /organizers/ayumiya/
 id: ayumiya
-speaker: 
+speaker: Ayumi Miyakawa
 ---
