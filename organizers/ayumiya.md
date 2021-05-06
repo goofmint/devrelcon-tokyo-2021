@@ -2,5 +2,5 @@
 layout: organizer
 permalink: /organizers/ayumiya/
 id: ayumiya
-speaker: Ayumi Miyakawa
+speaker: Ayumi Miyakawa（Finatext Holdings）
 ---
