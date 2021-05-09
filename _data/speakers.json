@@ -372,7 +372,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "※ A-13/B-13/C-13のいずれかに当てられるが、4コマ(10-13)同時に開始すると7:30am UTCにStreamYardに入ってもらう必要がある？"
+    "": ""
   },
   {
     "id": "olia",
@@ -497,7 +497,7 @@
     "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
-    "": "※ A-11/B-11/C-11以降のいずれかに当てられるが、4コマ(10-13)同時に開始すると7:30am UTCにStreamYardに入ってもらう必要がある？"
+    "": ""
   },
   {
     "id": "sherry",
