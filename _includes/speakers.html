@@ -10,8 +10,8 @@
     <a href="https://www.papercall.io/devrelcon-tokyo-2021" class="lang ja btn btn-danger btn-lg">プロポーザルを提出する（3月15日締め切り）</a>
   </p>
   -->  
-  <p class="lang en">The amazing speakers at DevRelCon Tokyo 2021! We'll be announced more!</p>
-  <p class="lang ja">DevRelCon Tokyo 2021の素晴らしいスピーカーです！これから、まだまだ紹介していきます！</p>
+  <p class="lang en">The amazing speakers at DevRelCon Tokyo 2021!</p>
+  <p class="lang ja">DevRelCon Tokyo 2021の素晴らしいスピーカーです！</p>
 </div>
 
 <div class="speaker-wrapper  grey-bg">
@@ -19,9 +19,16 @@
     <div class="row d-flex justify-content-center">
       {% for speaker in site.data.speakers %}
         {% if speaker.speaker == 'true' %}
+          {% assign session = site.data.sessions | where: "first_speaker", speaker.id | first %}
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="speaker-card">
               <a href="/speakers/{{ speaker.id }}/">
+                {% if session.interview_done == 'true' && session.interview_youtube_url != "" %}
+                  <div class="ribbon">
+                    <span class="lang en">INTERVIEW</span>
+                    <span class="lang ja">インタビュー</span>
+                  </div>
+                {% endif %}
                 <picture>
                   <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{speaker.id}}.webp" />
                   <img loading="lazy" src="/assets/img/speakers/{{speaker.id}}.jpg" alt="{{ speaker.name_en }}">

@@ -52,13 +52,27 @@
   </div>
 </div>
 
-{% assign sessions = site.data.sessions | where: "first_speaker", speaker.id %}
-{% assign session = sessions[0] %}
+{% assign session = site.data.sessions | where: "first_speaker", speaker.id | first %}
 {% if session %}
 {% else %}
-  {% assign sessions = site.data.sessions | where: "second_speaker", speaker.id %}
-  {% assign session = sessions[0] %}
+  {% assign session = site.data.sessions | where: "second_speaker", speaker.id | first %}
 {% endif %}
+
+{% if session.interview_done == 'true' && session.interview_youtube_url != "" %}
+  {% assign youtubeKey = session.interview_youtube_url | replace: "https://www.youtube.com/watch?v=", "" %}
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col text-center">
+        <div class="youtube">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ youtubeKey }}"
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
 <div class="grey-bg" style="padding-top:100px;padding-bottom:100px;">
   <div class="container">
     <div class="col-lg-12">
