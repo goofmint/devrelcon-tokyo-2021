@@ -20,7 +20,8 @@
     "start_at_utc": "",
     "end_at_utc": "",
     "track": "",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "k-1",
@@ -43,7 +44,8 @@
     "start_at_utc": "Fri Jun 04 2021 23:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 00:10:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-1",
@@ -66,7 +68,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-4",
@@ -89,7 +92,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-6",
@@ -112,7 +116,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-11",
@@ -135,7 +140,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-3",
@@ -158,7 +164,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-8",
@@ -181,7 +188,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-10",
@@ -204,7 +212,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": "https://www.youtube.com/watch?v=4b5Bihjxub8"
+    "interview_youtube_url": "https://www.youtube.com/watch?v=4b5Bihjxub8",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-11",
@@ -227,7 +236,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-3",
@@ -250,7 +260,8 @@
     "start_at_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-12",
@@ -273,7 +284,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-7",
@@ -296,7 +308,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-8",
@@ -319,7 +332,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-9",
@@ -342,7 +356,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-10",
@@ -365,7 +380,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-13",
@@ -388,7 +404,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-13",
@@ -411,7 +428,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-2",
@@ -434,7 +452,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-8",
@@ -457,7 +476,8 @@
     "start_at_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "k-3",
@@ -480,7 +500,8 @@
     "start_at_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-10",
@@ -503,7 +524,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-11",
@@ -526,7 +548,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-13",
@@ -549,7 +572,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-4",
@@ -572,7 +596,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-6",
@@ -595,7 +620,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-9",
@@ -618,7 +644,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "https://www.youtube.com/watch?v=lhJ3Xt6jL0Q",
+    "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3989145337830806/"
   },
   {
     "id": "c-1",
@@ -641,7 +668,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-6",
@@ -664,7 +692,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-7",
@@ -687,7 +716,8 @@
     "start_at_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "k-4",
@@ -710,7 +740,8 @@
     "start_at_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-2",
@@ -733,7 +764,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-3",
@@ -756,7 +788,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "a-5",
@@ -779,7 +812,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-1",
@@ -802,7 +836,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-12",
@@ -825,7 +860,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-2",
@@ -848,7 +884,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-5",
@@ -871,7 +908,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "b-7",
@@ -894,7 +932,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-12",
@@ -917,7 +956,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Sakura",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-4",
@@ -940,7 +980,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-5",
@@ -963,7 +1004,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "c-9",
@@ -986,7 +1028,8 @@
     "start_at_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "track": "Samurai",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "k-2",
@@ -1009,7 +1052,8 @@
     "start_at_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "end_at_utc": "Sat Jun 05 2021 10:40:00 GMT+0900 (日本標準時)",
     "track": "Fuji",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   },
   {
     "id": "o-2",
@@ -1032,6 +1076,7 @@
     "start_at_utc": "",
     "end_at_utc": "",
     "track": "",
-    "interview_youtube_url": ""
+    "interview_youtube_url": "",
+    "inerview_facebook_url": ""
   }
 ]
