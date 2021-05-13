@@ -1,0 +1,53 @@
+### 08:00 開催のご挨拶
+
+
+
+### 08:20 [DevRelと開発マーケティングとの緊密な連携](https://tokyo-2021.devrel.net/speakers/carol/) by Carol Huang@Stripe
+
+エンジニアやコミュニティマネージャー間の正常な仕事上の関係は、信頼、共通の目標、および牧畜猫への相互のコミットメントに基づいています。本講演では、我々はあなたのコミュニティに適切なタイミングで最高のコンテンツを与えるためにあなたのDevRelエンジニアや製品のリード間のサイロを破壊することの重要性をカバーします。
+
+あなたのDevは私達が私達のデベロッパーが出して擁護者、そしてどのように仮想コーヒーチャットを通じて信頼関係の緊密な結合を構築するために、日々のビデオコンテンツのすべての部分にGTMの異なるレベルを構造化する方法、今後の打上げ機会に支持者とキャロルは、どのようにパートナーにオーバー行きます等身大パネル、および共通の目標。
+
+### 09:20〜
+
+| 富士 | 桜 | 侍 |
+|--------|--------|--------|
+| なぜピザ会社にはDevRelが必要なのか？ by Ekaterina Shcherenkova@Dodo Engineering<br />冒険で教える。ストーリーと探検の力 by Kevin Whinnery@Twilio<br />心に残るバーチャルデモを行うための戦略、技術、ヒント by Liz Moy@Twilio|オープンソースプロジェクトとコミュニティの育成から学んだこと by JJ Asghar@IBM<br />私はどのようにして5万人以上のメンバーを持つFacebook開発者コミュニティを作ったのか？ by Cory Althoff@Vonage<br />オープンソース・コミュニティ・ハブを構築するためのヒントとコツ by Kiran Oliver@Camunda|緊張で卒倒せずに人前で話すには by David Neal@ReverentGeek<br />リモートイベントの新しい哲学 by Benjamin Dunphy@EventLoop<br />開発者としてのドキュメント：第一印象を再設計することから得られる教訓 by Kimberlee Johnson@Daily and more |
+
+### 11:10〜
+
+| 富士 | 桜 | 侍 |
+|--------|--------|--------|
+| テクニカルライティング・スタイルガイドをゼロから導入する by Amara Graham@Camunda<br />日本企業のローカル＆グローバルなDevRel戦略 by 佐山 ウィリアム 明裕@Cybozu Inc<br />翻訳を超えたローカリゼーション by よこな / Ayana@JFrog|バイリンガルイベントを成功させるために by Laurie Griffiths@Fukuoka Engineer Cafe<br />デベロッパーアドボケイトとスタートアップのためのYouTubeの裏ワザ by Matthew Kiernander@<br />デベロッパー・リレーションズのファンを増やすためのTwitchとライブストリーミングの使い方 by Mish Manners@GitHub|DevRelマネージャーに就任することの意味 by Jaime Lopez Jr@Jack Henry & Associates<br />ノーコード時代の新しいDevRel - 市民開発者のために by 山﨑 亘@株式会社ウフル<br />ローコード・ノーコードツールを使って、質の高いDevRel活動を活性化する方法 by 田中 正吾@1ft-seabass |
+
+### 12:50 [オープンソースガバナンスによる政府への信頼を回復させる方法](https://tokyo-2021.devrel.net/speakers/halsk/) by 関 治之@コード・フォー・ジャパン
+
+政府は、質の高いサービスを提供するために不確実かつ急速に変化する社会では、公共部門と民間部門間の連携が不可欠です。
+人々は挑戦を受け入れないため、国民の信頼がなければ、イノベーションが生まれることはありません。
+それは非常に透明であり、意思決定プロセスを可視にしているため、オープンソースコミュニティのオープンガバナンスモデルは、政府が市民の信頼を獲得するための一つの方法です。
+このセッションでは、私は東京都のCOVID-19応答のウェブサイトの場合に焦点を当て、日本における市民Techの状況を紹介します。
+
+### 13:50〜
+
+| 富士 | 桜 | 侍 |
+|--------|--------|--------|
+| DevRelへのラブレター by Ibrahim Cesar@Nexo Jornal<br />なぜDevRelにはリーダーとなる学生が必要なのか by Aditya Oberai@Major League Hacking<br />現実と期待のギャップがあるDevRelへの準備方法 by 戸倉 彩@日本アイ・ビー・エム株式会社|新しいコミュニティを作るには？ by Kushlani De Silva@ and more<br />メントモデル - コミュニティで勝つために by Mohammad Shahbaz Alam@Magic Labs and more<br />ハッカソン : 開発者コミュニティを強化するソース by Shivay Lamba@Google Summer of Code Mentor|スタートアップのためのDevRel：創業者や投資家が気にすること by Cherish Santoshi@SAWO Labs<br />技術系起業家のためのDevRel。プラットフォーム・パートナーを超えて by 岡村 純一@Shopify<br />COVID-19の時代におけるオンライン会議の奮闘記 by 近藤 佑子@SHOEISHA Co.,Ltd. |
+
+### 15:30 [燃え尽きてもいいじゃないか](https://tokyo-2021.devrel.net/speakers/lestrrat/) by 牧 大輔@メルカリ
+
+コミュニティのための会議やイベントを開催することは、非常にやりがいのある経験ですが、私たちはしばしば、このような活動をリードするためのマイナス面については説明しません。本講演では、私は2100を超える参加者に数百人からコミュニティ会議を構築する私の経験を共有することになり、その後、完全に燃え尽き、そして最終的に破壊することを。私達は私達が壊れたことを認めることが多いを避けるが、それは自分自身を傷つけるよりはましだ：それは燃え尽きても大丈夫です。この物語を共有することで、私はあなたが焼損されており、このような位置から離れて歩いていることを認めることは大丈夫であることを保証するために願っています。
+
+### 16:30〜
+
+| 富士 | 桜 | 侍 |
+|--------|--------|--------|
+| APIにデベロッパーリレーションズチームが必要な理由 by Anna Tsolakou@Amadeus<br />未来の開発者のプロフィール。次の1,000万人の開発者は誰で、どんな価値をもたらすのか？ by Christina Voskoglou@SlashData<br />DevRelはどうした？  by Olia Dukova@Vonage<br />Developer Relationsの黄金律 by Gerard Sans@|優れたコミュニケーターになるには by Raviraj Subramanian@Freshworks<br />Azure Heroes - 開発者コミュニティに参加するための新しい楽しい方法 by Sherry List@Microsoft and more<br />ダッシュボードを使って、すべてのコミュニティチャンネルを管理する by Srini Kadamati@Preset.io<br />ハッカソン - コラボレーションとオープンソースへのゲートウェイ by Siddharth Dayalwal@SAWO Labs|開発者向け製品のメッセージングの定義 by Matthew Revell@Hoopy Limited<br />開発者コミュニティのビジネス価値 by Prasad Seth@Slack Platform Community<br />リモートの開発者へのアプローチ - Twitchを使ったライブコーディングと教育活動 by Matt Hamilton@RippleX<br />APIドキュメントの出荷 - プロセスの浮遊 by Jaap Brasser@Rubrik |
+
+### 18:50 [開発者のための仕事の未来像を再考しよう](https://tokyo-2021.devrel.net/speakers/annpmathew/) by Annie Mathew@Microsoft
+
+この予想外の新たな時代に繁栄するために、私たちの国と産業はリアルタイムで変動性に対応するためにアジャイル十分にする必要があります。技術は、このアジャイル変革を支えとして、開発者が遊びに必要な役割も大規模なシフトを受けています。多くDevOpsチームをもたらし、開発者と運用チームの間のギャップのように、その時間は今、開発者は、ヘルプの企業にビジネスのリーダーシップをはるかに緊密に統合するための技術を活用し、経済的混乱をナビゲートします。 BizDEvチーム、テック強度、迅速な実験の文化は、右の測定と相乗効果のための主要な - 私は可能性を実現するために単独でハイテクを超えてマスタに5つのスキルの新しい開発者のニーズについて話しましょう。
+
+### 19:40 閉会のご挨拶
+
+
+
