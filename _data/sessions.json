@@ -288,7 +288,7 @@
   {
     "id": "a-12",
     "title_en": "Curious DevRel strategies for getting developers to grasp your APIs",
-    "title_ja": "日本企業のローカル＆グローバルなDevRel戦略",
+    "title_ja": "開発者にAPIを理解させるための魅力的なDevRel戦略",
     "description_en": "We introduce how Cybozu have worked on their DevRel strategies for their product Kintone.\nWorkshops and hackathons are the norm, but Cybozu have also invested in methods like Maker Faires, youtube channels and technical mangas.\nGlobal outreach efforts are also generated from Japan.",
     "description_ja": "私たちは、サイボウズが自社の製品Kintoneのために彼らのDevRel戦略に取り組んできましたか紹介します。\nワークショップやハッカソンは当たり前ですが、サイボウズはまた​​、メーカーのFaires、ユーチューブのチャンネルや技術的な漫画のような方法で投資しています。\nグローバル・アウトリーチの努力は、日本から生成されています。",
     "category_en": "DevRel",
