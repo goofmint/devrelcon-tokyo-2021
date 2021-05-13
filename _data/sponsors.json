@@ -33,6 +33,17 @@
     "image": "orbit"
   },
   {
+    "id": "zoom",
+    "type": "Gold",
+    "name_ja": "Zoom",
+    "name_en": "",
+    "url_ja": "",
+    "url_en": "",
+    "size": "",
+    "show": "",
+    "image": ""
+  },
+  {
     "id": "legalforce",
     "type": "Silver",
     "name_ja": "LegalForce",
