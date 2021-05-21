@@ -1168,5 +1168,31 @@
     "inerview_facebook_url": "",
     "": "Interview session w/  will be started soon!.\n00:00 UTC\n09:00 JST\n05:30 IST\n01:00 BST\n20:00 EDT\n17:00 PDT\n\nIntroducing them and their talk at DevRelCon 🗼 2021. Don't miss it!\nYouTube: \nFacebook: \nTwitch: https://www.twitch.tv/devrelcontokyo\n\nhttps://tokyo-2021.devrel.net/\n#DevRelCon #DevRel",
     "interview_done": ""
+  },
+  {
+    "id": "",
+    "title_en": "DevRel for Startups",
+    "title_ja": "",
+    "description_en": "How big is your Developer Relations team? I’m betting it’s small, same as mine. Unless you work for Microsoft, Google, Amazon, Twillio or Vonage(The Artists Formerly Known as Nexmo), it’s pretty hard to justify a  big DevRel team. And that’s OK; not everyone needs 70 people to do Developer Relations. It wouldn’t hurt though. I'm here to tell you how I managed to create a successful DevRel program as a Solo Developer Advocate while leveraging the entire company to help! ",
+    "description_ja": "",
+    "category_en": "",
+    "first_speaker": "",
+    "second_speaker": "",
+    "category_ja": "",
+    "show": "",
+    "first_speaker_name": "",
+    "second_speaker_name": "",
+    "start_time_utc": "",
+    "start_time_jst": "",
+    "end_time_utc": "",
+    "end_time_jst": "",
+    "number": "",
+    "start_at_utc": "",
+    "end_at_utc": "",
+    "track": "",
+    "interview_youtube_url": "",
+    "inerview_facebook_url": "",
+    "": "",
+    "interview_done": ""
   }
 ]
