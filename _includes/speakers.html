@@ -20,6 +20,9 @@
       {% for speaker in site.data.speakers %}
         {% if speaker.speaker == 'true' %}
           {% assign session = site.data.sessions | where: "first_speaker", speaker.id | first %}
+          {% if session == null %}
+            {% assign session = site.data.sessions | where: "second_speaker", speaker.id | first %}
+          {% endif %}
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="speaker-card">
               <a href="/speakers/{{ speaker.id }}/">
