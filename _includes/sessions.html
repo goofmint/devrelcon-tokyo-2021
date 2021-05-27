@@ -73,42 +73,45 @@
           </div>
         </div>
         <div class="schedule-block">
-          {% for params in sessions.LT %}
-            {% assign session = params[1] %}
-            {% assign speaker = session.speakers[0] %}
-            <div class="row">
-              <div class="col-md-2">
-                <p class="red medium time" data-time="{{ time }}">{{ time }}</p>
-              </div>
-              <div class="col-md-7">
-                <p class="medium photo-credit">
-                  <a href="/speakers/{{ speaker.id }}/">
-                    <span class="lang en">{{ session.title_en }}</span>
-                    <span class="lang ja">{{ session.title_ja }}</span>
-                  </a>
-                </p>
-                <p>
-                  <span class="lang en">{{ speaker.name_en }}</span>
-                  <span class="lang ja">{{ speaker.name_ja }}</span>
-                  ,
-                  <span class="lang en">{{ speaker.company_en }}</span>
-                  <span class="lang ja">{{ speaker.company_ja }}</span>
-                </p>
-              </div>
-              <div class="col-md-3 d-flex justify-content-end">
-                <div class="profile-image">
-                  <a href="/speakers/{{ speaker.id }}/">
-                    <picture>
-                      <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{speaker.id}}.webp" />
-                      <img loading="lazy" src="/assets/img/speakers/{{speaker.id}}.jpg" alt="{{ speaker.name_en }}">
-                    </picture>
-                  </a>
+          <div class="row">
+            <div class="col-12">
+              {% for params in sessions.LT %}
+                <div class="row">
+                  {% assign session = params[1] %}
+                  {% assign speaker = session.speakers[0] %}
+                  <div class="col-md-2">
+                    <p class="red medium"></p>
+                  </div>
+                  <div class="col-md-7">
+                    <p class="medium photo-credit">
+                      <a href="/speakers/{{ speaker.id }}/">
+                        <span class="lang en">{{ session.title_en }}</span>
+                        <span class="lang ja">{{ session.title_ja }}</span>
+                      </a>
+                    </p>
+                    <p>
+                      <span class="lang en">{{ speaker.name_en }}</span>
+                      <span class="lang ja">{{ speaker.name_ja }}</span>
+                      ,
+                      <span class="lang en">{{ speaker.company_en }}</span>
+                      <span class="lang ja">{{ speaker.company_ja }}</span>
+                    </p>
+                  </div>
+                  <div class="col-md-3 d-flex justify-content-end">
+                    <div class="profile-image">
+                      <a href="/speakers/{{ speaker.id }}/">
+                        <picture>
+                          <source loading="lazy" type="image/webp" srcset="/assets/img/speakers/{{speaker.id}}.webp" />
+                          <img loading="lazy" src="/assets/img/speakers/{{speaker.id}}.jpg" alt="{{ speaker.name_en }}">
+                        </picture>
+                      </a>
+                    </div>
+                  </div>
                 </div>
-              </div>
+                <hr>
+              {% endfor %}
             </div>
-            <!-- <hr> -->
           </div>
-          {% endfor %}
         </div>
       {% else %}
         <div class="container">
