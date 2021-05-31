@@ -1269,7 +1269,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
@@ -1294,7 +1294,7 @@
     "instagram": "",
     "stackoverflow": "",
     "twitch": "",
-    "speaker": "",
+    "speaker": "true",
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
