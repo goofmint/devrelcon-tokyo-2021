@@ -1323,30 +1323,5 @@
     "First session=sessions:id": "",
     "Second session=sessions:id": "",
     "": ""
-  },
-  {
-    "id": "",
-    "name_en": "",
-    "name_ja": "",
-    "company_en": "",
-    "company_ja": "",
-    "profile_en": "",
-    "profile_ja": "",
-    "speaker_title_en": "",
-    "speaker_title_ja": "",
-    "web": "",
-    "twitter": "My Life as a Developer VTuber",
-    "facebook": "I first used virtual avatars at the start of the pandemic in April 2020 (by screen sharing animal crossing as a webcam in meetings), experimented with a couple different virtual avatars throughout 2020, and started streaming as a VTuber in January 2021. Since the start of this year, I have attended nearly every single meeting, created some content, and even built a community of fans using a virtual avatar, and I have gotten nothing but positive feedback!\n \n\n Being a VTuber is also a great way to get away with never turning on your webcam. For me, I find that it has the benefit of not needing to physically prepare myself for every single meeting by having to dress nicely and doing makeup (this especially benefits for women and the marginalized in tech) and it even provides some level of anonymity from harassment. I also find it allows me to be myself in ways that wouldn't otherwise be possible in the physical world.\n \n\n At the end of my talk, I will also go over (extremely briefly) ways to get start with tools most developers already have -- a computer and a webcam!",
-    "github": "",
-    "google": "",
-    "linkedin": "",
-    "youtube": "",
-    "instagram": "",
-    "stackoverflow": "",
-    "twitch": "",
-    "speaker": "",
-    "First session=sessions:id": "",
-    "Second session=sessions:id": "",
-    "": ""
   }
 ]
