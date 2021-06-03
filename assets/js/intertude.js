@@ -57,14 +57,14 @@ document.addEventListener('DOMContentLoaded', async (e) => {
     ctx.fillText(dayjs(d).format('HH:mm'), t.pos, 1037);
   }
 
-  const t = url('?track');
-  if (t) {
-    const track = new Image();
-    track.src = `/assets/img/backgrounds/${t}.png`;
-    await loadImage(track);
-    ctx.drawImage(track, 0, 0, 200, 200, 1660, 88, 200, 200);
+  let t = url('?track');
+  if (t === 'lt') {
+    t  = 'fuji'
   }
-
+  const track = new Image();
+  track.src = `/assets/img/backgrounds/${t}.png`;
+  await loadImage(track);
+  ctx.drawImage(track, 0, 0, 200, 200, 1660, 88, 200, 200);
   const link = document.createElement("a");
   link.href = board.toDataURL("image/jpeg");
   link.download = `${id}.jpg`;
