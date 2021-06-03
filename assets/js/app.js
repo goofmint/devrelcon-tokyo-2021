@@ -23,7 +23,6 @@ const strWidth = (str) => {
 }
 
 $(function () {
-  console.log('here')
   $('a.scrollnav[href^="#"],.ticket').click(function(event) {
     var id = $(this).attr("href");
     var offset = 60;
@@ -84,6 +83,44 @@ $(function () {
     }
   });
 
+  if (document.querySelector('#swag')) {
+    ncmb.User.loginAsAnonymous();
+    $('#swag').on('submit', async (e) => {
+      e.preventDefault();
+      $('.register-form').hide();
+      const params = serializeForm(e.target);
+      const Code = ncmb.DataStore('Code');
+      const code = await Code
+        .equalTo('microsoft', params.microsoft)
+        .equalTo('hatena', params.hatena)
+        .equalTo('orbit', params.orbit)
+        .equalTo('zoom', params.zoom)
+        .fetch();
+      if (!code.objectId) {
+        alert('Your code is wrong. Please check it and send again');
+        return;
+      }
+      const swag = new (ncmb.DataStore('Swag'));
+      for (const key in params) {
+        swag.set(key, params[key]);
+      }
+      const acl = new ncmb.Acl;
+      acl
+        .setRoleReadAccess('admin', true)
+        .setRoleWriteAccess('admin', true);
+      swag
+        .set('acl', acl)
+        .set('imported', false);
+      try {
+        await swag.save();
+        $('.register-success').show();
+        e.target.reset();
+      } catch (e) {
+        console.log(e);
+        $('.register-danger').show();
+      }
+    });
+  }
   if (document.querySelector('#entry')) {
     (async () => {
       const objectId = url('?id');
