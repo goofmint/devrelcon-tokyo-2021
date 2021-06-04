@@ -2,8 +2,8 @@
   {
     "id": "o-1",
     "start_time_utc": "Fri Jun 04 2021 23:00:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 08:00:00 GMT+0900 (日本標準時)",
     "title_en": "Welcome to DevRelCon Tokyo 2021!",
+    "start_time_jst": "Sat Jun 05 2021 08:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "",
     "title_ja": "開催のご挨拶",
     "description_en": "",
@@ -29,8 +29,8 @@
   {
     "id": "k-1",
     "start_time_utc": "Fri Jun 04 2021 23:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 08:20:00 GMT+0900 (日本標準時)",
     "title_en": "Working tightly with Dev Rel and Dev Marketing",
+    "start_time_jst": "Sat Jun 05 2021 08:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Carol Huang",
     "title_ja": "DevRelと開発マーケティングとの緊密な連携",
     "description_en": "A successful working relationship between engineers and community managers is based on trust, shared goals, and a mutual commitment to herding cats. In this talk, we’ll cover the importance of breaking down silos between your DevRel engineers and product leads to give your community the best content at the right times.\n\nCarol will go over how to partner with your Dev Advocates on upcoming launch opportunities, how we structure different levels of GTM into every piece of content our Dev Advocates put out, and how to build a tight bond of trust through virtual coffee chats, daily video standups, and shared goals.\n",
@@ -56,8 +56,8 @@
   {
     "id": "a-1",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Teach Through Adventure: The Power of Story and Exploration",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Kevin Whinnery",
     "title_ja": "冒険で教える。ストーリーと探検の力",
     "description_en": "Can you serve your developer community best by becoming a game developer? In this talk, we'll look at data from the first year of Twilio's downloadable PC game (TwilioQuest), and analyze what worked and what didn't work. You'll also learn how you can get into the game and create your own content!",
@@ -83,8 +83,8 @@
   {
     "id": "a-4",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Why does pizza company need DevRel?",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Ekaterina Shcherenkova",
     "title_ja": "なぜピザ会社にはDevRelが必要なのか？",
     "description_en": "Pizza company from Russia and IT – how can it work together? \nToday we can't imagine a strong business without IT but does IT need DevRel. Why do we need it, how we’ve built our own DevRel in Dodo and what results it brings us today? Get acquainted with our approach in my speech.",
@@ -110,8 +110,8 @@
   {
     "id": "a-6",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Strategies, Tech, and Tips for Delivering Memorable Virtual Demos",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Liz Moy",
     "title_ja": "心に残るバーチャルデモを行うための戦略、技術、ヒント",
     "description_en": "2020 demanded that we as developer relations pros re-invent the ways we virtually engage with communities. In this talk, we'll discuss the elements of a good virtual demo, cover tactical ways to set yourself up for success, and offer ideas about how to make your presentation setup professional.",
@@ -137,8 +137,8 @@
   {
     "id": "b-11",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Lessons Learned from Cultivating Open Source Projects and Communities",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "JJ Asghar",
     "title_ja": "オープンソースプロジェクトとコミュニティの育成から学んだこと",
     "description_en": "Over the last decade, I’ve had the privilege professionally of building and cultivating some Open Source projects and communities. I’ve grown other projects along the way some successful, and some not. I’ve learned a ton on this journey; honestly still am, and I want to tell this story.",
@@ -164,8 +164,8 @@
   {
     "id": "b-3",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "How I Created a Facebook Developer Community With 50k+ Members",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Cory Althoff",
     "title_ja": "私はどのようにして5万人以上のメンバーを持つFacebook開発者コミュニティを作ったのか？",
     "description_en": "Cory Althoff, the author of The Self-Taught Programmer (独学プログラマー Python言語の基本から仕事のやり方まで) and 2019 PyCon JP opening keynote speaker, talks about how he created a Facebook group with over 50K developers.",
@@ -191,8 +191,8 @@
   {
     "id": "b-8",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Tips and Tricks for Building an Open Source Community Hub",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Rin Oliver",
     "title_ja": "オープンソース・コミュニティ・ハブを構築するためのヒントとコツ",
     "description_en": "It's challenging to know which pieces of OSS software are maintained by a company, and which are maintained by the community. Implementing a community hub enables developers to better choose which pieces of open source code to implement in their own projects, and also empowers new contributors.",
@@ -218,8 +218,8 @@
   {
     "id": "c-10",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Public Speaking without Barfing on Your Shoes",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "David Neal",
     "title_ja": "緊張で卒倒せずに人前で話すには",
     "description_en": "Sooner or later, we are called on to speak. Out loud. In front of people. Public speaking strikes fear into the hearts of nearly everyone! In this fun and light-hearted talk, introverts and extroverts alike will walk away with practical tips on preparing and giving effective presentations.",
@@ -245,8 +245,8 @@
   {
     "id": "c-11",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "Let’s go online! How to make your participants “LOVE” your workshops",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Daizen Ikehara",
     "title_ja": "参加者が \"LOVE \" なワークショップをオンラインで開催する方法",
     "description_en": "Conducting workshops online is difficult. You have less opportunities to engage with students. Japanese participants tend to be hesitant to ask questions via chat. In this talk, I am going to share my experience to provide better experience for developers and have them start “LOVE” your programs.",
@@ -272,8 +272,8 @@
   {
     "id": "c-3",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "title_en": "A new philosophy for remote events",
+    "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Benjamin Dunphy",
     "title_ja": "リモートイベントの新しい哲学",
     "description_en": "In-person events are amazing, but they won't be back for some time. For now, remote events will have to do -- but they are painful to create, and no fun to attend! In this talk, we'll learn how EventLoop fosters a more intuitive, holistic, engaging, and measurable approach to online events!",
@@ -299,8 +299,8 @@
   {
     "id": "a-12",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "Curious DevRel strategies for getting developers to grasp your APIs",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "William Sayama",
     "title_ja": "開発者にAPIを理解させるための魅力的なDevRel戦略",
     "description_en": "We introduce how Cybozu have worked on their DevRel strategies for their product Kintone.\nWorkshops and hackathons are the norm, but Cybozu have also invested in methods like Maker Faires, youtube channels and technical mangas.\nGlobal outreach efforts are also generated from Japan.",
@@ -326,8 +326,8 @@
   {
     "id": "a-7",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "Introducing a Technical Writing Style Guide from Scratch",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Amara Graham",
     "title_ja": "テクニカルライティング・スタイルガイドをゼロから導入する",
     "description_en": "Level up your developer experience, maintainer sanity, and more by implementing a technical writing style guide across all your technical content. Unsure where to start or how to do it? Let me guide you through the process, show you where I stumbled, and lead you to a standardization best practice.",
@@ -353,8 +353,8 @@
   {
     "id": "a-8",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "How to activate quality DevRel activities using low-code and no-code tools!",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Seigo Tanaka",
     "title_ja": "ローコード・ノーコードツールを使って、質の高いDevRel活動を活性化する方法",
     "description_en": "No-code and low-code tools can connect technologies smoothly and positively affect the creativity of developers! This approach also has a brilliant effect on the DevRel scenes! I talk and show collaborating with these tools and DevRel as community organizers, speakers, and an external evangelist!",
@@ -380,8 +380,8 @@
   {
     "id": "a-9",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "Localization Beyond Translation",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Ayana Yokota",
     "title_ja": "翻訳を超えたローカリゼーション",
     "description_en": "Are you struggling with localizing contents to attract Japanese developers? Learn some of the things you should keep in mind when broadcasting contents that are localized from different source languages. I will share my experiences gained through my community activities and work at a global company.",
@@ -407,8 +407,8 @@
   {
     "id": "b-10",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "Successful Bilingual Events",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Laurie Griffiths",
     "title_ja": "バイリンガルイベントを成功させるために",
     "description_en": "Communities in Japan have a unique challenge:  Bilingualism is comparitively rare.  This talk details past events, both successful and not so successful as well as some tips for your own bilingual events.",
@@ -434,8 +434,8 @@
   {
     "id": "b-13",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "The ins and outs of YouTube for Developer Advocates and Startups",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Matthew Kiernander",
     "title_ja": "デベロッパーアドボケイトとスタートアップのためのYouTubeの裏ワザ",
     "description_en": "Peeling back the curtain behind content creation on YouTube and how to grow your social presence from 0. This talk will focus on general strategies and case studies from successful brands such as Webflow, Thousand Ant, SyntaxFM and more to give you a foundational understanding of growing on YouTube.",
@@ -461,8 +461,8 @@
   {
     "id": "c-13",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "The New DevRel of No-Code Era - for Citizen Developers",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Wataru Yamazaki",
     "title_ja": "ノーコード時代の新しいDevRel - 市民開発者のために",
     "description_en": "Recently,  No-Code tools for Citizen Developers come up in the many web news not only tech media.\n\nIn this session, I will share the 3 points required for the new type of developers, which I have earned from 36 months of experience of DevRel for a No-Code tool.",
@@ -488,8 +488,8 @@
   {
     "id": "c-2",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "How to use Twitch and live streaming to build your Developer Relations fan-base",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Michelle Mannering",
     "title_ja": "デベロッパー・リレーションズのファンを増やすためのTwitchとライブストリーミングの使い方",
     "description_en": "Since COVID, many events have gone online. What's one of the best ways to interact with your audience? There's the usual conferences and hackathons, but what about interacting on a weekly basis?\n\nAt GitHub, we've been using live streaming as a way to engage with our users, come and learn top tips!",
@@ -515,8 +515,8 @@
   {
     "id": "c-8",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "title_en": "Becoming a Manager in DevRel",
+    "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Jaime Lopez Jr",
     "title_ja": "DevRelマネージャーに就任することの意味",
     "description_en": "Working as a team member in DevRel can be challenging. Working as a *manager* in DevRel is a different kind of challenge. It can even be a bit overwhelming.\n\nWe’ll talk about tips for success and mistakes to avoid when taking those first few steps as a manager in DevRel.",
@@ -542,8 +542,8 @@
   {
     "id": "k-3",
     "start_time_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 12:50:00 GMT+0900 (日本標準時)",
     "title_en": "Rebuilding Trust in Government through Open Source Governance",
+    "start_time_jst": "Sat Jun 05 2021 12:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Hal Seki",
     "title_ja": "オープンソースガバナンスによる政府への信頼を回復させる方法",
     "description_en": "In an uncertain and rapidly changing society, a collaboration between the public and private sectors is essential for the government to provide quality services.\nWithout the public's trust, innovation will not be born because people will not accept challenges.\nThe open governance model of open source communities is one way for governments to gain citizens' trust because it is highly transparent and makes the decision-making process visible.\nIn this session, I will introduce Civic Tech's situation in Japan, focusing on the case of the Tokyo Metropolitan Government's COVID-19 response website.",
@@ -569,8 +569,8 @@
   {
     "id": "a-10",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "Why DevRel Needs More Students To Lead",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Aditya Oberai",
     "title_ja": "なぜDevRelにはリーダーとなる学生が必要なのか",
     "description_en": "Over the last few years, we have seen more and more students learning, building, and sharing their experiences and knowledge out there in the tech world. Let us understand the potential students have to impact our tech communities and why need more of them to actively lead DevRel today.",
@@ -596,8 +596,8 @@
   {
     "id": "a-11",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "How to prepare for your DevRel with gap between reality and expectations",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Aya Tokura",
     "title_ja": "現実と期待のギャップがあるDevRelへの準備方法",
     "description_en": "\"Have you achieved true Developer Success through DevRel?\" In this session, I will introduce one of great marketing thought \"Live Like a Marketer\" which made me strong as DevRel person who can lead the next initiative in Developer First.",
@@ -623,8 +623,8 @@
   {
     "id": "a-13",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "A Love Letter to DevRels",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Ibrahim Cesar",
     "title_ja": "DevRelへのラブレター",
     "description_en": "DevRels exploded in the last years. I work in software development for more than 10 years and the DevRels improved the Developer Experience to a whole new level: before we had to deal with arcane or non-existent docs. And I wanted to thank them all for the good work in this talk as \"love letter\"",
@@ -650,8 +650,8 @@
   {
     "id": "b-4",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "The Ment Model - Winning WITH the community",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Mohammad Shahbaz Alam",
     "title_ja": "メントモデル - コミュニティで勝つために",
     "description_en": "Let’s admit it! It’s difficult to run a Community and ensure growth for its members and scale it and ensure it’s sustainability and produce consistent metrics! We want to share The Ment model, success stories, pain points and how it feels winning with your community!",
@@ -677,8 +677,8 @@
   {
     "id": "b-6",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "Building a new community - How do you do it",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Kushlani De Silva",
     "title_ja": "新しいコミュニティを作るには？",
     "description_en": "As devrel's we are often on the lookout for new causes, technologies, and products we can explore and contribute. What if you had your own cause, for which you wanted to build a brand new community. Where do you find interested members, how do you encourage participation and maintain engagement.",
@@ -704,8 +704,8 @@
   {
     "id": "b-9",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "Hackathons : A source to empower developer communities",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Shivay Lamba",
     "title_ja": "ハッカソン : 開発者コミュニティを強化するソース",
     "description_en": "Hackathons are creative events that empower communities from diverse backgrounds to come together, collaborate on building innovative products and solutions. \nHackathons are all inclusive and encourage communities to have a growth mindset, create social impact, express and educate themselves.",
@@ -731,8 +731,8 @@
   {
     "id": "c-1",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "The Struggle of  online conferences in the time of COVID-19",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Yuko Kondo",
     "title_ja": "COVID-19の時代におけるオンライン会議の奮闘記",
     "description_en": "SHOEISHA has been hosting conferences for software developers such as Developers Summit and Developers Boost. Due to COVID-19, all of these events, which were held offline, had to be held online. In this session, I will talk about how we moved these events online, and what we learned through the move online.",
@@ -758,8 +758,8 @@
   {
     "id": "c-6",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "DevRel for tech. entrepreneurs: Beyond platform partners",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Junichi Okamura",
     "title_ja": "技術系起業家のためのDevRel。プラットフォーム・パートナーを超えて",
     "description_en": "Shopify app is not just a plugin to our platform but a cloud service itself valuable for our merchants which needs tech. entrepreneurs. The talk is on how we do DevRel to generate new app developer partners successful in their app business beyond mere tech. partners who use our platform only.",
@@ -785,8 +785,8 @@
   {
     "id": "c-7",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "title_en": "DevRel for Startups: What your founder and investors care about",
+    "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Cherish Santoshi",
     "title_ja": "スタートアップのためのDevRel：創業者や投資家が気にすること",
     "description_en": "With the surge in DevRel and community-led startups, the VCs and founders are relying on DevRel Managers a lot.\nWhat are some key KPIs that your founder and investors care about? What is your DevRel team’s ultimate defensibility?\nJoin this talk to learn everything about DevRel in startups.",
@@ -812,8 +812,8 @@
   {
     "id": "k-4",
     "start_time_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 15:30:00 GMT+0900 (日本標準時)",
     "title_en": "It's OK to Burn Out",
+    "start_time_jst": "Sat Jun 05 2021 15:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Daisuke Maki",
     "title_ja": "燃え尽きてもいいじゃないか",
     "description_en": "While organizing conferences and events for the community is an extremely rewarding experience, we often do not discuss the downsides for leading such activities. In this talk I will share my experience of building a community conference from a few hundred people to over 2100 attendees, and then to be completely burnt out, and finally breaking down. We often avoid admitting that we were broken, but it’s better than harming yourself: It’s okay to burn out. By sharing this story, I hope to assure you that admitting that you are burnt out, and to walk away from such positions is okay. ",
@@ -839,8 +839,8 @@
   {
     "id": "a-2",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "What's wrong (with) Devrel? ",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Olia Dukova",
     "title_ja": "DevRelはどうした？ ",
     "description_en": "The Developer Relations community often struggles to justify its contribution to a business. This talk explores both sides of the argument in an attempt to bridge the gap between hard financial metrics demonstrating true impact and intrinsic value that can not be quantified. ",
@@ -866,8 +866,8 @@
   {
     "id": "a-3",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "The profile of the future developer: Who will the next 10M developers be, and what value will they bring? ",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Christina Voskoglou",
     "title_ja": "未来の開発者のプロフィール。次の1,000万人の開発者は誰で、どんな価値をもたらすのか？",
     "description_en": "Get insights on the evolution of developer and creator communities, emerging technologies and a developer's value. Based on data from 30K+ developers we discuss the changing developer profiles, how students shape the future, emerging technology adoption and how to estimate Developer Lifetime Value.",
@@ -893,8 +893,8 @@
   {
     "id": "a-5",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "The golden rules for Developer Relations",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Gerard Sans",
     "title_ja": "Developer Relationsの黄金律",
     "description_en": "In this talk I will share my personal experience and rules I followed to be very successful as a Master of Ceremonies, public speaker, trainer, blogger and community leader with over 160 talks in 37 countries. My inspiration will be  “The Golden rules” book by Bob Bowman, Michael Phelps coach.",
@@ -920,8 +920,8 @@
   {
     "id": "b-1",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Why you need a Developer Relations team for your API",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Anna Tsolakou",
     "title_ja": "APIにデベロッパーリレーションズチームが必要な理由",
     "description_en": "How do you build a trusted relationship with your users? How do you collect their feedback and ensure it is passed smoothly to your development teams? How do you ensure your users have the right tools and support to build successful applications using your APIs? ",
@@ -947,8 +947,8 @@
   {
     "id": "b-12",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Reaching Developers Remotely - Using Twitch for Live Coding and Education",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Matt Hamilton",
     "title_ja": "リモートの開発者へのアプローチ - Twitchを使ったライブコーディングと教育活動",
     "description_en": "With global lockdowns, how do you interact with and reach developers? In this talk we look at using Twitch as a platform for live coding and technical education. We look at how it helps both the target audience *and* internal developers, and some tips for increasing engagement.",
@@ -974,8 +974,8 @@
   {
     "id": "b-2",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Azure Heroes - A new fun way to engage with developer community",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Sherry List",
     "title_ja": "Azure Heroes - 開発者コミュニティに参加するための新しい楽しい方法",
     "description_en": "Azure Heroes is a new fun way to earn digital collectibles for inclusive behaviour and meaningful impact in the technical community. Join me in this talk to hear how this program started and why it uses NFT tokens to issue these recognition badges.",
@@ -1001,8 +1001,8 @@
   {
     "id": "b-5",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Using Dashboards to Help Manage All Community Channels",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Srini Kadamati",
     "title_ja": "ダッシュボードを使って、すべてのコミュニティチャンネルを管理する",
     "description_en": "Apache Superset is a top 200 Github project, in terms of stars, and the community lives across Slack, StackOverflow, Github, Reddit, and more. In this talk, I'll discuss how we built useful, action-oriented dashboards to help us support and nurture the project's community across all channels.",
@@ -1028,8 +1028,8 @@
   {
     "id": "b-7",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "How to become a great communicator",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Raviraj Subramanian",
     "title_ja": "優れたコミュニケーターになるには",
     "description_en": "Communication is a required skill and often a responsibility of the devrel team. It gives a chance to be kind and accountable to either side of the community and business. How to become great communication starts from where to do it, when to do it, how to listen to every stakeholder and community.",
@@ -1055,8 +1055,8 @@
   {
     "id": "c-12",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Hackathons - Gateway To Collaboration & OpenSource",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Siddharth Dayalwal",
     "title_ja": "ハッカソン - コラボレーションとオープンソースへのゲートウェイ",
     "description_en": "Hackathons are an incredible way to bring your community together to learn new skills, build amazing projects & share ideas.\n\nIt's also great way to kickstart the journey with Programming, Collaboration & OpenSource.\n\nWith experience of 50+ Hackathons, the session covers everything about Hackathons.",
@@ -1082,8 +1082,8 @@
   {
     "id": "c-4",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Incredible Business Value of Developer Community",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Prasad Seth",
     "title_ja": "開発者コミュニティのビジネス価値",
     "description_en": "To grow a sustainable business building a developer community is essential.\nIn this talk I will share about key business outcomes that community can drive, why investing in building developer community is important for business & insights from my survey on how communities are helping businesses grow",
@@ -1109,8 +1109,8 @@
   {
     "id": "c-5",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Defining messaging for your developer targeted product",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Matthew Revell",
     "title_ja": "開発者向け製品のメッセージングの定義",
     "description_en": "Good messaging is essential if you want your product to stand out amongst everything else that's vying for developer attention.\n\nIn this talk, you'll learn how to focus on the essential characteristics of your product and present them in a way that relates to the needs of your target developers.",
@@ -1136,8 +1136,8 @@
   {
     "id": "c-9",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "title_en": "Shipping API Documentation - Floating through the process",
+    "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Jaap Brasser",
     "title_ja": "APIドキュメントの出荷 - プロセスの浮遊",
     "description_en": "Generating API documentation should not be a hassle to anyone anymore at this point, but how do you ensure that all the requirements from different stakeholders & end users are met for your documentation. And how to automate that process, join this session to hear about one approach!",
@@ -1163,8 +1163,8 @@
   {
     "id": "k-2",
     "start_time_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 18:50:00 GMT+0900 (日本標準時)",
     "title_en": "Reimagining the future of work for Developers",
+    "start_time_jst": "Sat Jun 05 2021 18:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Annie Mathew",
     "title_ja": "開発者のための仕事の未来像を再考しよう",
     "description_en": "To thrive in this unexpected new era, our nation and industries need to be agile enough to respond to volatility in real time. As technology underpins this agile transformation, the role developers need to play is also undergoing a massive shift. Much like the gap between developers and operations teams brought about Devops, its time now for developers to integrate far more tightly with business leadership to help companies navigate the economic turmoil leveraging tech. I'll talk about 5 skills the new developer needs to master beyond tech alone to realize the potential - BizDEv teams, Tech Intensity, Culture of Rapid experimentation, Measuring right and Leading for synergy.",
@@ -1190,8 +1190,8 @@
   {
     "id": "o-2",
     "start_time_utc": "Sat Jun 05 2021 10:40:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 19:40:00 GMT+0900 (日本標準時)",
     "title_en": "Thank you & See you next year!",
+    "start_time_jst": "Sat Jun 05 2021 19:40:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "",
     "title_ja": "閉会のご挨拶",
     "description_en": "",
@@ -1217,8 +1217,8 @@
   {
     "id": "l-1",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "title_en": "DevRel for Startups",
+    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Alex Lakatos",
     "title_ja": "スタートアップのためのDevRel",
     "description_en": "How big is your Developer Relations team? I’m betting it’s small, same as mine. Unless you work for Microsoft, Google, Amazon, Twillio or Vonage(The Artists Formerly Known as Nexmo), it’s pretty hard to justify a  big DevRel team. And that’s OK; not everyone needs 70 people to do Developer Relations. It wouldn’t hurt though. I'm here to tell you how I managed to create a successful DevRel program as a Solo Developer Advocate while leveraging the entire company to help! ",
@@ -1244,8 +1244,8 @@
   {
     "id": "l-2",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "title_en": "Onboarding - Not All Developers are the same",
+    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Giri Venkatesan",
     "title_ja": "オンボーディング - すべての開発者が同じではない",
     "description_en": "A Developer community is very similar to a real-world community, a techno-social unit made of members from varying experience and backgrounds but celebrating technology, common goals and challenges. DevRel focuses on serving the community needs in every possible way during their journey and hopes to turn them into champions and ambassadors. However, care must be taken not to assume all members are same or equal and employ a one-size-fits-all approach. We will be dealing with people of varying technical experience, backgrounds, expectation, interest level, prior exposure, skillset and above all the intent and goals.\n \n\n The most crucial aspect of Developers' journey is the onboarding and it determines their commitment for a successful and continuous engagement. It should be noted that their experience and engagement may affect the success of the Partners or Customers whoever they are representing. When designing the onboarding journey, DevRel should be aware of the persona of developers and devise paths to engage them correctly from the beginning. Oftentimes, one would assume that creating world-class materials and references, in all possible media forms is enough to turn every Developer into an ambassador - sadly not true. The sifting and searching one has to go through to get their feet on the ground would drain the interest levels, rather than engaging.\n \n\n There are numerous classification schemes for learners and learning patterns. \n \n\n a) The question of 'Who'\n \n\n Who are they and why are they there? Are they a 'Student' - genuinely wanting to learn, a 'Tourist' - a drifter, just want to check it out and decide and lastly a 'Prisoner' - who doesn't want to be there. The return on investment is much higher on the Student and even Tourist persona, as their attention span and interest levels are better and will excel eventually without fail.\n \n\n b) The question of 'How'\n \n\n The University of Arizona classifies typical learning patterns as\n \n\n i) Sequence - Begin a task by asking basic questions like 'What are the directions' and 'What am I expected to do?'. Learners following this pattern would wait till their questions are cleared and are convinced of the agenda for themselves. \n \n\n ii) Precision - Loads of questions, needing information and acting with precision to do things correctly. These are walking encyclopaedia 😊\n \n\n iii) Reasoning - Hands on, wanting to get a handle on the tools and gadgets and do it themselves. These are tinkerers who love to solve problems and prefer to work alone and DIY guys.\n \n\n iv) Confluence - Abstract thinkers, usually think out of the box and use metaphors to explain things as they see and experience, rather than the exactness with words\n \n\n I would like to add the following as the fifth pattern for advanced and experience developers who already have relevant background but might require bit of concept mapping and unlearning :)\n \n\n v) Cross-reference - Experts who have prior experience on similar products, who prefer to map out things to either a standard or vocabulary they are familiar with. \n \n\n c) The question of 'What'\n \n\n From the wealth of resources and materials, what excites them. Their learning style would steer them towards artifacts of a particular medium - visual, auditory, written and kinaesthetic. Having content in relevant mediums would ensure that they kick start their journey with ease and joy.\n \n\n To cover the disparate needs and expectations - the following guideline would help make the first step. \n \n\n 1. Collect key information at the time of signup to know the Developer's persona, how they learn and their preferences\n 2. Catalog all the existing reference materials marked for level, path and relevant tags\n 3. Collate materials, stitching up a learning path for distinct roles with versions of right mix of different mediums (audio, visual, reading and labs)\n 4. Collaborate with them to create new assets, present opportunities to showcase their expertise, recognized and reward them\n \n\n Of course, it goes without saying 'continuous evaluation and tweaking is expected' and should become part of the process.\n \n\n A Developer Community that has maximum participation, collaborative knowledge creation and sharing and genuine reach-out with the singular goal of helping is bound to succeed and surely poised to become a sustained community.",
@@ -1271,8 +1271,8 @@
   {
     "id": "l-3",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "title_en": "What is the most important thing to co-create with developers using device prototype?",
+    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Taro Kawashita",
     "title_ja": "デバイス・プロトタイプを使って開発者と共同制作するために最も重要なこととは？",
     "description_en": "Sony Research & Development Center has been co-creating activities for various researches and developments for several years.\n We will introduce what are the most important for co-creation activities with our past case, especially with device prototype involved.",
@@ -1298,8 +1298,8 @@
   {
     "id": "l-4",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "title_en": "Uplifting Developer Communities Though Student Programs",
+    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Saksham taneja",
     "title_ja": "学生プログラムで開発者コミュニティを盛り上げる",
     "description_en": "Would be explaining how to grow your community through student-based program like having “Champions,” “captains,” “ambassadors,”  and other ways to connecting with young mind and engage users and increasing your engagement in the community with conducting events and hackathons",
@@ -1325,8 +1325,8 @@
   {
     "id": "l-5",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
-    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "title_en": "My Life as a Developer VTuber",
+    "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Melody ✨",
     "title_ja": "デベロッパーVTuberとしての私の人生",
     "description_en": "I first used virtual avatars at the start of the pandemic in April 2020 (by screen sharing animal crossing as a webcam in meetings), experimented with a couple different virtual avatars throughout 2020, and started streaming as a VTuber in January 2021. Since the start of this year, I have attended nearly every single meeting, created some content, and even built a community of fans using a virtual avatar, and I have gotten nothing but positive feedback!\n \n\n Being a VTuber is also a great way to get away with never turning on your webcam. For me, I find that it has the benefit of not needing to physically prepare myself for every single meeting by having to dress nicely and doing makeup (this especially benefits for women and the marginalized in tech) and it even provides some level of anonymity from harassment. I also find it allows me to be myself in ways that wouldn't otherwise be possible in the physical world.\n \n\n At the end of my talk, I will also go over (extremely briefly) ways to get start with tools most developers already have -- a computer and a webcam!",
