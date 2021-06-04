@@ -104,13 +104,8 @@ $(function () {
       for (const key in params) {
         swag.set(key, params[key]);
       }
-      const acl = new ncmb.Acl;
-      acl
-        .setRoleReadAccess('admin', true)
-        .setRoleWriteAccess('admin', true);
       swag
-        .set('acl', acl)
-        .set('imported', false);
+        .set('prize', false);
       try {
         await swag.save();
         $('.register-success').show();
@@ -178,7 +173,6 @@ $(function () {
     const date = new Date(`${str} +00:00`);
     $(dom).html(dayjs(date).format('HH:mm'));
   });
-
   const tzInts = moment.tz.names();;
   const dropdown = $('#timezone');
   let changed = false;
@@ -200,8 +194,6 @@ $(function () {
       $(dom).html(moment.tz(date, offset).format('HH:mm'));
     });
   });
-
-
 });
 
 const serializeForm = (form) => {
