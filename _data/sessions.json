@@ -3,6 +3,7 @@
     "id": "o-1",
     "start_time_utc": "Fri Jun 04 2021 23:00:00 GMT+0900 (日本標準時)",
     "title_en": "Welcome to DevRelCon Tokyo 2021!",
+    "": "",
     "start_time_jst": "Sat Jun 05 2021 08:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "",
     "title_ja": "開催のご挨拶",
@@ -24,13 +25,13 @@
     "youtube": "",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "",
     "interview_done": ""
   },
   {
     "id": "k-1",
     "start_time_utc": "Fri Jun 04 2021 23:20:00 GMT+0900 (日本標準時)",
     "title_en": "Working tightly with Dev Rel and Dev Marketing",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/carol.jpg",
     "start_time_jst": "Sat Jun 05 2021 08:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Carol Huang",
     "title_ja": "DevRelと開発マーケティングとの緊密な連携",
@@ -52,13 +53,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=vuVMbx0GCLc",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4001288299949843/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/carol.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-1",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Teach Through Adventure: The Power of Story and Exploration",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/kevin.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Kevin Whinnery",
     "title_ja": "冒険で教える。ストーリーと探検の力",
@@ -80,13 +81,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=-bFKtj9koAc",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3991999654212041/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/kevin.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-4",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Why does pizza company need DevRel?",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/ekaterina.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Ekaterina Shcherenkova",
     "title_ja": "なぜピザ会社にはDevRelが必要なのか？",
@@ -108,13 +109,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=1BdJTpvPZ-w",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4006628846082455/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/ekaterina.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-6",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Strategies, Tech, and Tips for Delivering Memorable Virtual Demos",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/liz.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Liz Moy",
     "title_ja": "心に残るバーチャルデモを行うための戦略、技術、ヒント",
@@ -136,13 +137,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=p6q9gmqCOxA",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4018879881524018/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/liz.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-11",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Lessons Learned from Cultivating Open Source Projects and Communities",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/jjasghar.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "JJ Asghar",
     "title_ja": "オープンソースプロジェクトとコミュニティの育成から学んだこと",
@@ -164,13 +165,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=yzWFnsivCZQ",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4003743983037608/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/jjasghar.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-3",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "How I Created a Facebook Developer Community With 50k+ Members",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/cory.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Cory Althoff",
     "title_ja": "私はどのようにして5万人以上のメンバーを持つFacebook開発者コミュニティを作ったのか？",
@@ -192,13 +193,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=NOmmzxDaRXs",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4023669714378368/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/cory.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-8",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Tips and Tricks for Building an Open Source Community Hub",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/kiran.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Rin Oliver",
     "title_ja": "オープンソース・コミュニティ・ハブを構築するためのヒントとコツ",
@@ -220,13 +221,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=aRJDQ_S5iTw",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4010159692396037/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/kiran.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-10",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Public Speaking without Barfing on Your Shoes",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/david.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "David Neal",
     "title_ja": "緊張で卒倒せずに人前で話すには",
@@ -248,13 +249,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=4b5Bihjxub8",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/david.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-11",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "Let’s go online! How to make your participants “LOVE” your workshops",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/daizen.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Daizen Ikehara",
     "title_ja": "参加者が \"LOVE \" なワークショップをオンラインで開催する方法",
@@ -276,13 +277,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=VonTi21LTBw",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4060447020700637/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/daizen.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-3",
     "start_time_utc": "Sat Jun 05 2021 00:20:00 GMT+0900 (日本標準時)",
     "title_en": "A new philosophy for remote events",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/benjamin.jpg",
     "start_time_jst": "Sat Jun 05 2021 09:20:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Benjamin Dunphy",
     "title_ja": "リモートイベントの新しい哲学",
@@ -304,13 +305,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=aOEMmWALHzY",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4018870484858291/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/benjamin.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-12",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "Curious DevRel strategies for getting developers to grasp your APIs",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/will.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "William Sayama",
     "title_ja": "開発者にAPIを理解させるための魅力的なDevRel戦略",
@@ -332,13 +333,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=h92h5NZXfmM",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3985668981511775/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/will.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-7",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "Introducing a Technical Writing Style Guide from Scratch",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/amara.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Amara Graham",
     "title_ja": "テクニカルライティング・スタイルガイドをゼロから導入する",
@@ -360,13 +361,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=J4GCMVbvQR0",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3992000420878631/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/amara.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-8",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "How to activate quality DevRel activities using low-code and no-code tools!",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/seigo.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Seigo Tanaka",
     "title_ja": "ローコード・ノーコードツールを使って、質の高いDevRel活動を活性化する方法",
@@ -388,13 +389,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=9ItDwGeeWfQ",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4015737428504930/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/seigo.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-9",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "Localization Beyond Translation",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/ayana.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Ayana Yokota",
     "title_ja": "翻訳を超えたローカリゼーション",
@@ -416,13 +417,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=u_eVZv5GbbI",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4041375559274450/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/ayana.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-10",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "Successful Bilingual Events",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/laurie.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Laurie Griffiths",
     "title_ja": "バイリンガルイベントを成功させるために",
@@ -444,13 +445,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=b0kd0Cr9OMs",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4010168505728489/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/laurie.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-13",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "The ins and outs of YouTube for Developer Advocates and Startups",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/matthew.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Matthew Kiernander",
     "title_ja": "デベロッパーアドボケイトとスタートアップのためのYouTubeの裏ワザ",
@@ -472,13 +473,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=skgvm8V1NfU",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4038822689529737/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/matthew.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-13",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "The New DevRel of No-Code Era - for Citizen Developers",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/wataru.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Wataru Yamazaki",
     "title_ja": "ノーコード時代の新しいDevRel - 市民開発者のために",
@@ -500,13 +501,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/wataru.jpg",
     "interview_done": ""
   },
   {
     "id": "c-2",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "How to use Twitch and live streaming to build your Developer Relations fan-base",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/mish.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Michelle Mannering",
     "title_ja": "デベロッパー・リレーションズのファンを増やすためのTwitchとライブストリーミングの使い方",
@@ -528,13 +529,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=0bcK9M7LTB0",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4016326378446035/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/mish.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-8",
     "start_time_utc": "Sat Jun 05 2021 02:10:00 GMT+0900 (日本標準時)",
     "title_en": "Becoming a Manager in DevRel",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/jaime.jpg",
     "start_time_jst": "Sat Jun 05 2021 11:10:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Jaime Lopez Jr",
     "title_ja": "DevRelマネージャーに就任することの意味",
@@ -556,13 +557,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=dQN5KC_H_6I",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4019353004810039/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/jaime.jpg",
     "interview_done": "true"
   },
   {
     "id": "k-3",
     "start_time_utc": "Sat Jun 05 2021 03:50:00 GMT+0900 (日本標準時)",
     "title_en": "Rebuilding Trust in Government through Open Source Governance",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/halsk.jpg",
     "start_time_jst": "Sat Jun 05 2021 12:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Hal Seki",
     "title_ja": "オープンソースガバナンスによる政府への信頼を回復させる方法",
@@ -584,13 +585,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=tBruxaKkUEM",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4003911466354193/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/halsk.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-10",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "Why DevRel Needs More Students To Lead",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/aditya.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Aditya Oberai",
     "title_ja": "なぜDevRelにはリーダーとなる学生が必要なのか",
@@ -612,13 +613,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=zimiQjtsVBE",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3982885171790156/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/aditya.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-11",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "How to prepare for your DevRel with gap between reality and expectations",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/aya.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Aya Tokura",
     "title_ja": "現実と期待のギャップがあるDevRelへの準備方法",
@@ -640,13 +641,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=ho0GgpelPIA",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4044303775648295/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/aya.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-13",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "A Love Letter to DevRels",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/ibrahim.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Ibrahim Cesar",
     "title_ja": "DevRelへのラブレター",
@@ -668,13 +669,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=LvtzTnH3MBc",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3985670658178274/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/ibrahim.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-4",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "The Ment Model - Winning WITH the community",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/mohammad.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Mohammad Shahbaz Alam",
     "title_ja": "メントモデル - コミュニティで勝つために",
@@ -696,13 +697,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=GW_NkZ6iY1A",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4038804269531579/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/mohammad.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-6",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "Building a new community - How do you do it",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/kushlani.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Kushlani De Silva",
     "title_ja": "新しいコミュニティを作るには？",
@@ -724,13 +725,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=f063Sjsb8KM",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4038814369530569/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/kushlani.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-9",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "Hackathons : A source to empower developer communities",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/shivay.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Shivay Lamba",
     "title_ja": "ハッカソン : 開発者コミュニティを強化するソース",
@@ -752,13 +753,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=lhJ3Xt6jL0Q",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3989145337830806/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/shivay.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-1",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "The Struggle of  online conferences in the time of COVID-19",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/yuko.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Yuko Kondo",
     "title_ja": "COVID-19の時代におけるオンライン会議の奮闘記",
@@ -780,13 +781,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/yuko.jpg",
     "interview_done": ""
   },
   {
     "id": "c-6",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "DevRel for tech. entrepreneurs: Beyond platform partners",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/junichi.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Junichi Okamura",
     "title_ja": "技術系起業家のためのDevRel。プラットフォーム・パートナーを超えて",
@@ -808,13 +809,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=bRTv5AzigYQ",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3982776705134336/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/junichi.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-7",
     "start_time_utc": "Sat Jun 05 2021 04:50:00 GMT+0900 (日本標準時)",
     "title_en": "DevRel for Startups: What your founder and investors care about",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/cherish.jpg",
     "start_time_jst": "Sat Jun 05 2021 13:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Cherish Santoshi",
     "title_ja": "スタートアップのためのDevRel：創業者や投資家が気にすること",
@@ -836,13 +837,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=zNd3Gi_Ahss",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3982886381790035/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/cherish.jpg",
     "interview_done": "true"
   },
   {
     "id": "k-4",
     "start_time_utc": "Sat Jun 05 2021 06:30:00 GMT+0900 (日本標準時)",
     "title_en": "It's OK to Burn Out",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/lestrrat.jpg",
     "start_time_jst": "Sat Jun 05 2021 15:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Daisuke Maki",
     "title_ja": "燃え尽きてもいいじゃないか",
@@ -864,13 +865,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=uqenjLyvMUE",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4060394964039176/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/lestrrat.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-2",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "What's wrong (with) Devrel? ",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/olia.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Olia Dukova",
     "title_ja": "DevRelはどうした？ ",
@@ -892,13 +893,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=mNGheZtiOYc",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4023779564367383/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/olia.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-3",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "The profile of the future developer: Who will the next 10M developers be, and what value will they bring? ",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/christina.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Christina Voskoglou",
     "title_ja": "未来の開発者のプロフィール。次の1,000万人の開発者は誰で、どんな価値をもたらすのか？",
@@ -920,13 +921,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=U9DTnJArdZE",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4006631612748845/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/christina.jpg",
     "interview_done": "true"
   },
   {
     "id": "a-5",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "The golden rules for Developer Relations",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/gerardsans.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Gerard Sans",
     "title_ja": "Developer Relationsの黄金律",
@@ -948,13 +949,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=btm7wsiurlo",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/gerardsans.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-1",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Why you need a Developer Relations team for your API",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/anna.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Anna Tsolakou",
     "title_ja": "APIにデベロッパーリレーションズチームが必要な理由",
@@ -976,13 +977,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=CIHVXz0uxII",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3985669841511689/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/anna.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-12",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Reaching Developers Remotely - Using Twitch for Live Coding and Education",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/matt.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Matt Hamilton",
     "title_ja": "リモートの開発者へのアプローチ - Twitchを使ったライブコーディングと教育活動",
@@ -1004,13 +1005,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=LqYiJRPPLhA",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3988666101212063/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/matt.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-2",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Azure Heroes - A new fun way to engage with developer community",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/sherry.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Sherry List",
     "title_ja": "Azure Heroes - 開発者コミュニティに参加するための新しい楽しい方法",
@@ -1032,13 +1033,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=rUxy73ufYeo",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4023656737712999/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/sherry.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-5",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Using Dashboards to Help Manage All Community Channels",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/srini.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Srini Kadamati",
     "title_ja": "ダッシュボードを使って、すべてのコミュニティチャンネルを管理する",
@@ -1060,13 +1061,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=dYDuKwz9od8",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4003898016355538/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/srini.jpg",
     "interview_done": "true"
   },
   {
     "id": "b-7",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "How to become a great communicator",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/raviraj.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Raviraj Subramanian",
     "title_ja": "優れたコミュニケーターになるには",
@@ -1088,13 +1089,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=PQIY6hWHJzA",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4003683659710307/ ",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/raviraj.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-12",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Hackathons - Gateway To Collaboration & OpenSource",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/siddharth.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Siddharth Dayalwal",
     "title_ja": "ハッカソン - コラボレーションとオープンソースへのゲートウェイ",
@@ -1116,13 +1117,13 @@
     "youtube": "https://www.youtube.com/watch?v=Aoliy98BCwI",
     "interview_youtube_url": "https://www.youtube.com/watch?v=gyPqcoZp2iU",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4041425659269440/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/siddharth.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-4",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Incredible Business Value of Developer Community",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/prasad.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Prasad Seth",
     "title_ja": "開発者コミュニティのビジネス価値",
@@ -1144,13 +1145,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/prasad.jpg",
     "interview_done": ""
   },
   {
     "id": "c-5",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Defining messaging for your developer targeted product",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/matthewrevell.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Matthew Revell",
     "title_ja": "開発者向け製品のメッセージングの定義",
@@ -1172,13 +1173,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=gEHyGDEG7t8",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3978737098871630/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/matthewrevell.jpg",
     "interview_done": "true"
   },
   {
     "id": "c-9",
     "start_time_utc": "Sat Jun 05 2021 07:30:00 GMT+0900 (日本標準時)",
     "title_en": "Shipping API Documentation - Floating through the process",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/jaap.jpg",
     "start_time_jst": "Sat Jun 05 2021 16:30:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Jaap Brasser",
     "title_ja": "APIドキュメントの出荷 - プロセスの浮遊",
@@ -1200,13 +1201,13 @@
     "youtube": "https://www.youtube.com/watch?v=jkNkEuNCey8",
     "interview_youtube_url": "https://www.youtube.com/watch?v=gWlq2MhDOmM",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/3982781818467158/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/jaap.jpg",
     "interview_done": "true"
   },
   {
     "id": "k-2",
     "start_time_utc": "Sat Jun 05 2021 09:50:00 GMT+0900 (日本標準時)",
     "title_en": "Reimagining the future of work for Developers",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/annpmathew.jpg",
     "start_time_jst": "Sat Jun 05 2021 18:50:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Annie Mathew",
     "title_ja": "開発者のための仕事の未来像を再考しよう",
@@ -1228,13 +1229,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "https://www.youtube.com/watch?v=kFYpkLlqsYM",
     "inerview_facebook_url": "https://www.facebook.com/1266887696723264/posts/4039938022751537/",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/annpmathew.jpg",
     "interview_done": "true"
   },
   {
     "id": "o-2",
     "start_time_utc": "Sat Jun 05 2021 10:40:00 GMT+0900 (日本標準時)",
     "title_en": "Thank you & See you next year!",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/.jpg",
     "start_time_jst": "Sat Jun 05 2021 19:40:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "",
     "title_ja": "閉会のご挨拶",
@@ -1256,13 +1257,13 @@
     "youtube": "#N/A",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/.jpg",
     "interview_done": ""
   },
   {
     "id": "l-1",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
     "title_en": "DevRel for Startups",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/alex.jpg",
     "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Alex Lakatos",
     "title_ja": "スタートアップのためのDevRel",
@@ -1284,13 +1285,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/alex.jpg",
     "interview_done": ""
   },
   {
     "id": "l-2",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
     "title_en": "Onboarding - Not All Developers are the same",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/giri.jpg",
     "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Giri Venkatesan",
     "title_ja": "オンボーディング - すべての開発者が同じではない",
@@ -1312,13 +1313,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/giri.jpg",
     "interview_done": ""
   },
   {
     "id": "l-3",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
     "title_en": "What is the most important thing to co-create with developers using device prototype?",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/taro.jpg",
     "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Taro Kawashita",
     "title_ja": "デバイス・プロトタイプを使って開発者と共同制作するために最も重要なこととは？",
@@ -1340,13 +1341,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/taro.jpg",
     "interview_done": ""
   },
   {
     "id": "l-4",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
     "title_en": "Uplifting Developer Communities Though Student Programs",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/saksham.jpg",
     "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Saksham taneja",
     "title_ja": "学生プログラムで開発者コミュニティを盛り上げる",
@@ -1368,13 +1369,13 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/saksham.jpg",
     "interview_done": ""
   },
   {
     "id": "l-5",
     "start_time_utc": "Sat Jun 05 2021 11:00:00 GMT+0900 (日本標準時)",
     "title_en": "My Life as a Developer VTuber",
+    "": "https://tokyo-2021.devrel.net/assets/img/interludes/melody.jpg",
     "start_time_jst": "Sat Jun 05 2021 20:00:00 GMT+0900 (日本標準時)",
     "first_speaker_name": "Melody ✨",
     "title_ja": "デベロッパーVTuberとしての私の人生",
@@ -1396,7 +1397,6 @@
     "youtube": "https://www.youtube.com/watch?v=hCDzNMxi2k4",
     "interview_youtube_url": "",
     "inerview_facebook_url": "",
-    "": "https://tokyo-2021.devrel.net/assets/img/interludes/melody.jpg",
     "interview_done": ""
   }
 ]
