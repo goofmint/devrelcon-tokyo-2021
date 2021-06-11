@@ -26,7 +26,12 @@
           <div class="col-md-6 col-lg-4 col-xl-3">
             <div class="speaker-card">
               <a href="/speakers/{{ speaker.id }}/">
-                {% if session.interview_done == 'true' && session.interview_youtube_url != "" %}
+                {% if session.publish_confirmed == 'true' %}
+                  <div class="ribbon video">
+                    <span class="lang en">VIDEO</span>
+                    <span class="lang ja">動画</span>
+                  </div>
+                {% elsif session.interview_done == 'true' && session.interview_youtube_url != "" %}
                   <div class="ribbon">
                     <span class="lang en">INTERVIEW</span>
                     <span class="lang ja">インタビュー</span>
