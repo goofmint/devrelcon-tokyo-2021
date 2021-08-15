@@ -1305,4 +1305,24 @@
     "name_ja": "Melody ✨",
     "company_en": "Philly",
     "company_ja": "",
-    "profile_en": "Melody is a web developer, designer, writer, and community event organizer based in Philly. Sometimes they'll cook up a 
+    "profile_en": "Melody is a web developer, designer, writer, and community event organizer based in Philly. Sometimes they'll cook up a fresh website that can generate beats, teach kids how to code, or even show you how to make some delicious tacos. You can find Melody on Twitter at \n @pixelyunicorn.",
+    "profile_ja": "Melody は、フィリーを拠点とするウェブ開発者、デザイナー、ライター、そしてコミュニティイベントのオーガナイザーです。時には、ビートを生み出すような新鮮なウェブサイトを作ったり、子供たちにコードの書き方を教えたり、あるいはおいしいタコスの作り方を紹介したりすることもあります。",
+    "speaker_title_en": "",
+    "speaker_title_ja": "",
+    "web": "https://melody.dev/",
+    "twitter": "https://twitter.com/pixelyunicorn",
+    "facebook": "",
+    "github": "",
+    "google": "",
+    "linkedin": "",
+    "youtube": "",
+    "instagram": "",
+    "stackoverflow": "",
+    "twitch": "",
+    "speaker": "true",
+    "First session=sessions:id": "",
+    "Second session=sessions:id": "",
+    "": "",
+    "interlude": "https://tokyo-2021.devrel.net/assets/img/interludes/melody.jpg"
+  }
+]
